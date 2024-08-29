@@ -1,0 +1,602 @@
+Pathway,Count
+GSE151030 S273A Mm WAT Dn,125
+GSE151030 S273A Mm WAT Up,85
+GSE106295 DKO Mm Heart Up,174
+GSE162037 Mrp4- Mm WAT Dn,163
+GSE162037 Mrp4- Mm WAT Up,156
+GSE149662 IRMOE Mm Muscle Dn,202
+GSE101537 CBP-KO Mm Islet Dn,191
+GSE149662 IRMOE Mm Muscle Up,180
+GSE101537 CBP-KO Mm Islet Up,194
+GSE101537 p300-KO Mm Islet Dn,197
+GSE101537 p300-KO Mm Islet Up,165
+GSE39752 STZ Mm Chip Liver Up,182
+GSE106295 Mertk-KO Mm Heart Dn,145
+GSE135391 Cold Young Mm BAT Up,208
+GSE106295 Mertk-KO Mm Heart Up,182
+GSE59141 PRLR Mm Chip Islet Dn,184
+GSE151588 SRI-37330 Hs Islet Up,148
+GSE152576 C2CD4B-KO Mm Islet Dn,128
+GSE109285 PDX1 Mm 2CellTypes Up,171
+GSE152576 C2CD4B-KO Mm Islet Up,163
+GSE101537 Triallelic Mm Islet Dn,133
+GSE137678 Stat5-Adipoq Mm BAT Dn,189
+GSE84759 Ldb1-KO Mm BetaCells Dn,213
+GSE84759 Isl1-KO Mm BetaCells Dn,202
+GSE101537 Triallelic Mm Islet Up,191
+GSE137678 Stat5-Adipoq Mm BAT Up,192
+GSE84759 Ldb1-KO Mm BetaCells Up,214
+GSE84759 Isl1-KO Mm BetaCells Up,188
+GSE47504 Pdx-1 Mm Chip Islets Up,209
+GSE86611 GFP-vs-ASF1B Hs Islet Dn,191
+GSE86611 GFP-vs-ASF1B Hs Islet Up,157
+GSE131320 IL-1OE 24Hr Hs Islet Up,211
+GSE129369 adSMRT - Mm Adipose Dn,147
+GSE106295 LxROE-OE-DKO Mm Heart Dn,169
+GSE112213 LdlrKO Mm Macrophage Up,184
+GSE129369 adSMRT- - Mm Adipose Up,152
+GSE149468 Fasting-8Hrs Mm Liver Dn,182
+GSE149468 Fasting-8Hrs Mm Brain Dn,169
+GSE153222 FatDiet 4Wks Mm Islet Dn,130
+GSE153222 FatDiet 8Wks Mm Liver Dn,179
+GSE86949 mutGCK(Y214C) Mm Islet Dn,166
+GSE153222 FatDiet 4Wks Mm Liver Dn,176
+GSE149468 Fasting-2Hrs Mm Brain Dn,162
+GSE149468 Fasting-2Hrs Mm Liver Dn,186
+GSE140678 NPRA- - Mm Myocardium Dn,190
+GSE153222 FatDiet 8Wks Mm Islet Dn,139
+GSE138782 PGAM5-Knockout Mm BAT Dn,206
+GSE149468 Fasting-8Hrs Mm Liver Up,181
+GSE149468 Fasting-8Hrs Mm Brain Up,235
+GSE153222 FatDiet 4Wks Mm Islet Up,159
+GSE153222 FatDiet 8Wks Mm Liver Up,161
+GSE86949 mutGCK(Y214C) Mm Islet Up,164
+GSE153222 FatDiet 4Wks Mm Liver Up,170
+GSE149468 Fasting-2Hrs Mm Brain Up,169
+GSE149468 Fasting-2Hrs Mm Liver Up,194
+GSE140678 NPRA- - Mm Myocardium Up,187
+GSE153222 FatDiet 8Wks Mm Islet Up,191
+GSE148997 PBS-vs-FGF19 Mm Liver Up,135
+GSE138782 PGAM5-Knockout Mm BAT Up,170
+GSE26978 RIP-Cre Mm Chip Islets Dn,122
+GSE40439 PGC-1Tg Mm Chip Muscle Dn,220
+GSE40439 Wt-Ctrl Mm Chip Muscle Dn,178
+GSE26978 RIP-Cre Mm Chip Islets Up,123
+GSE80780 Beta1-vs-Beta2 Hs Islet Dn,200
+GSE157585 Young-vs-Old Hs Muscle Dn,186
+GSE80780 Beta1-vs-Beta3 Hs Islet Dn,185
+GSE80780 Beta2-vs-Beta3 Hs Islet Dn,195
+GSE80780 Beta1-vs-Beta4 Hs Islet Dn,197
+GSE80780 Beta3-vs-Beta4 Hs Islet Dn,196
+GSE80780 Beta2-vs-Beta4 Hs Islet Dn,187
+GSE80780 Beta1-vs-Beta2 Hs Islet Up,176
+GSE157585 Young-vs-Old Hs Muscle Up,198
+GSE80780 Beta1-vs-Beta3 Hs Islet Up,183
+GSE106148 Type1Diabetes Hs Islet Up,177
+GSE80780 Beta2-vs-Beta3 Hs Islet Up,208
+GSE80780 Beta1-vs-Beta4 Hs Islet Up,186
+GSE80780 Beta3-vs-Beta4 Hs Islet Up,199
+GSE80780 Beta2-vs-Beta4 Hs Islet Up,188
+GSE153222 FatDiet 24Wks Mm Liver Dn,189
+GSE149468 Fasting-12Hrs Mm Liver Dn,214
+GSE153222 FatDiet 12Wks Mm Liver Dn,193
+GSE149468 Fasting-12Hrs Mm Brain Dn,169
+GSE87354 Rpl13a-snoless Mm Islet Dn,146
+GSE67991 Ffar3-Ffar3-KO Mm Islet Dn,125
+GSE149468 Fasting-22Hrs Mm Liver Dn,175
+GSE153222 FatDiet 16Wks Mm Islet Dn,156
+GSE149468 Fasting-22Hrs Mm Brain Dn,152
+GSE153222 FatDiet 20Wks Mm Islet Dn,142
+GSE149468 Fasting-18Hrs Mm Brain Dn,174
+GSE134846 mTUGUBX-Cter Mm Muscle Dn,183
+GSE149468 Fasting-18Hrs Mm Liver Dn,191
+GSE153222 FatDiet 12Wks Mm Islet Dn,130
+GSE153222 FatDiet 24Wks Mm Islet Dn,151
+GSE74113 Cre-T-vs-Cre+T Mm Islet Dn,193
+GSE153222 FatDiet 20Wks Mm Liver Dn,189
+GSE153222 FatDiet 16Wks Mm Liver Dn,191
+GSE106295 cTMs-Depleted Mm Heart Dn,164
+GSE101657 KetogenicDiet Mm Liver Dn,200
+GSE153222 FatDiet 24Wks Mm Liver Up,154
+GSE149468 Fasting-12Hrs Mm Liver Up,162
+GSE153222 FatDiet 12Wks Mm Liver Up,189
+GSE149468 Fasting-12Hrs Mm Brain Up,186
+GSE87354 Rpl13a-snoless Mm Islet Up,180
+GSE67991 Ffar3-Ffar3-KO Mm Islet Up,194
+GSE149468 Fasting-22Hrs Mm Liver Up,167
+GSE153222 FatDiet 16Wks Mm Islet Up,194
+GSE149468 Fasting-22Hrs Mm Brain Up,176
+GSE153222 FatDiet 20Wks Mm Islet Up,191
+GSE149468 Fasting-18Hrs Mm Brain Up,217
+GSE134846 mTUGUBX-Cter Mm Muscle Up,152
+GSE149468 Fasting-18Hrs Mm Liver Up,161
+GSE153222 FatDiet 12Wks Mm Islet Up,200
+GSE153222 FatDiet 24Wks Mm Islet Up,202
+GSE74113 Cre-T-vs-Cre+T Mm Islet Up,188
+GSE153222 FatDiet 20Wks Mm Liver Up,151
+GSE155064 LowBCAA-Diet Mm Muscle Up,142
+GSE153222 FatDiet 16Wks Mm Liver Up,182
+GSE106295 cTMs-Depleted Mm Heart Up,180
+GSE101657 KetogenicDiet Mm Liver Up,157
+GSE59143 Pregnant Mm Chip Islets Dn,202
+GSE59143 Pregnant Mm Chip Islets Up,184
+GSE110935 CysticFibrosis Hs Islet Dn,206
+GSE138252 AtrialFib Hs LeftAtrium Dn,126
+GSE137631 Lean-vs-Obese Hs Muscle Dn,222
+GSE137631 Lean-vs-Obese Hs Muscle Up,206
+GSE148997 PBS-vs-FGF19WT Mm Liver Dn,209
+GSE149468 Fasting-2Hrs Mm Stomach Dn,175
+GSE149468 Fasting-8Hrs Mm Stomach Dn,162
+GSE148997 PBS-vs-FGF19WT Mm Liver Up,162
+GSE149468 Fasting-2Hrs Mm Stomach Up,151
+GSE101657 KetogenicDiet Mm Kidney Up,154
+GSE149468 Fasting-8Hrs Mm Stomach Up,158
+GSE40439 NCoR1-MKO Mm Chip Muscle Dn,176
+GSE40439 NCoR1-MKO Mm Chip Muscle Up,179
+GSE120290 Young-Old Mm Chip Liver Up,163
+GSE149294 DOXY Hs GlutealAdipocytes Dn,147
+GSE141891 2D-vs-3D-Growth Hs iPSCs Dn,220
+GSE138252 AtrialFib Hs RightAtrium Dn,131
+GSE156067 PCOS 3D Hs SubcutAdipose Dn,181
+GSE141891 2D-vs-3D-Growth Hs iPSCs Up,166
+GSE129020 PHOSPHO1-Knockout Mm BAT Dn,162
+GSE149468 Fasting-18h Mm SubcutWAT Dn,205
+GSE149468 Fasting-12Hrs Mm Stomach Dn,171
+GSE149468 Fasting-22Hrs Mm Stomach Dn,188
+GSE137187 OE-Klf6KO Saline Mm Islet Dn,164
+GSE149468 Fasting-18Hrs Mm Stomach Dn,183
+GSE100067 Rag1 Mm IsletMacrophages Dn,184
+GSE129020 PHOSPHO1-Knockout Mm BAT Up,166
+GSE120429 D316A Mm HFDiet SubcutWAT Up,201
+GSE149468 Fasting-12Hrs Mm Stomach Up,184
+GSE149468 Fasting-22Hrs Mm Stomach Up,162
+GSE100067 B6g7 Mm IsletMacrophages Up,159
+GSE137187 OE-Klf6KO Saline Mm Islet Up,168
+GSE120429 D316A Mm CDiet SubcutWAT Up,149
+GSE149468 Fasting-18Hrs Mm Stomach Up,173
+GSE140953 AhsgKnockout Mm Chip BAT Dn,176
+GSE47504 Pdx-1pos - Mm Chip Islets Dn,180
+GSE140953 AhsgKnockout Mm Chip BAT Up,148
+GSE41203 Obese 6Wks Mm Chip Islets Up,176
+GSE40439 Wt-Vs-Ctrl Mm Chip Muscle Up,171
+GSE156067 PCOS 12D Hs SubcutAdipose Dn,199
+GSE144441 T2Diabetes Hs RNAseq Skin Dn,227
+GSE73433 Ctrl-vs-ARX-shRNA Hs Islet Dn,234
+GSE149294 DOXY tet-shRSPO3 GlutealAdipocytes Up,152
+GSE144274 Healthy-vs-IPAH Hs Muscle Up,226
+GSE113764 White-vs-Brown Hs Adipose Up,216
+GSE149294 DOXY tet-shCON GlutealAdipocytes Up,151
+GSE73433 Ctrl-vs-ARX-shRNA Hs Islet Up,219
+GSE158359 Vehicle-vs-FGF19 Mm Liver Dn,185
+GSE101722 Vehicle-vs-ML351 Mm Islet Dn,171
+GSE145202 SH2B1adKO Mm Hypothalamus Dn,149
+GSE149468 Fasting-8Hrs Mm Brainstem Dn,165
+GSE149468 Fasting-2Hrs Mm Brainstem Dn,132
+GSE148997 PBS-vs-FGF19 KLB Mm Liver Dn,189
+GSE122348 REGN1193 FatDiet Mm Liver Dn,156
+GSE158359 Vehicle-vs-FGF19 Mm Liver Up,175
+GSE101722 Vehicle-vs-ML351 Mm Islet Up,191
+GSE149468 Fasting-2Hrs Mm SubcutWAT Up,201
+GSE89035 Gcgr-mAb BothGcgr Mm Liver Up,167
+GSE145202 SH2B1adKO Mm Hypothalamus Up,162
+GSE149468 Fasting-8Hrs Mm SubcutWAT Up,89
+GSE156774 Plr-KO-BetaCells Mm Islet Up,133
+GSE149468 Fasting-8Hrs Mm Brainstem Up,181
+GSE149468 Fasting-2Hrs Mm Brainstem Up,167
+GSE122348 REGN1193 FatDiet Mm Liver Up,176
+GSE7196 ERRa-Knockout Mm Chip Heart Dn,175
+GSE46515 RictorFloxed Mm Chip Liver Dn,121
+GSE7196 ERRa-Knockout Mm Chip Heart Up,153
+GSE46515 RictorFloxed Mm Chip Liver Up,173
+GSE73433 Ctrl-vs-Ctrl-shRNA Hs Islet Dn,235
+GSE107894 Metformin Visit1 Hs Muscle Dn,147
+GSE107894 Metformin Visit2 Hs Muscle Dn,145
+GSE139932 Ctrl-vs-Cytokines Hs Islet Dn,72
+GSE108413 Ctrl-vs-Cytokines Hs Islet Dn,214
+GSE151588 Ctrl-vs-SRI-37330 Hs Islet Dn,152
+GSE73433 Ctrl-vs-Ctrl-shRNA Hs Islet Up,218
+GSE144441 Ctrl-vs-T2D Hs RNAseq Skin Up,226
+GSE107894 Metformin Visit1 Hs Muscle Up,174
+GSE107894 Metformin Visit2 Hs Muscle Up,155
+GSE139932 Ctrl-vs-Cytokines Hs Islet Up,31
+GSE108413 Ctrl-vs-Cytokines Hs Islet Up,199
+GSE138252 HeartFailure Hs LeftAtrium Up,166
+GSE149468 Fasting-12Hrs Mm SubcutWAT Dn,227
+GSE149468 Fasting-12Hrs Mm Brainstem Dn,150
+GSE162493 IronDeficientDiet Mm Heart Dn,187
+GSE149468 Fasting-18Hrs Mm Brainstem Dn,156
+GSE149468 Fasting-2Hrs Mm Cerebellum Dn,142
+GSE89035 Gcgr+ +-vs-Gcgr- - Mm Liver Dn,151
+GSE149468 Fasting-8Hrs Mm Cerebellum Dn,180
+GSE149468 Fasting-22Hrs Mm SubcutWAT Dn,175
+GSE149468 Fasting-22Hrs Mm Brainstem Dn,169
+GSE149468 Fasting-12Hrs Mm Brainstem Up,165
+GSE162493 IronDeficientDiet Mm Heart Up,190
+GSE149468 Fasting-18Hrs Mm Brainstem Up,178
+GSE109285 Mature Cells Mm 2CellTypes Up,214
+GSE149468 Fasting-2Hrs Mm Cerebellum Up,153
+GSE89035 Gcgr+ +-vs-Gcgr- - Mm Liver Up,155
+GSE122348 REGN1193 ChowDiet Mm Liver Up,158
+GSE149468 Fasting-8Hrs Mm Cerebellum Up,149
+GSE149468 Fasting-22Hrs Mm SubcutWAT Up,122
+GSE149468 Fasting-22Hrs Mm Brainstem Up,166
+GSE41203 2Vs8Wk NonObeseDiab Mm Chip Islets Dn,127
+GSE41203 2Vs18Wk NonObeseDiab Mm Chip Islets Dn,157
+GSE47504 IKK2-CApdx-1 Mm Chip Islets Dn,169
+GSE120290 Aged24Months Mm Chip Liver Dn,128
+GSE41203 2Vs4Wk NonObeseDiab Mm Chip Islets Dn,191
+GSE59141 Pregnant PRLR Mm Chip Islet Dn,183
+GSE73036 FatDiet Day5 Mm Chip Muscle Up,158
+GSE41203 NOD 2Wk NonObeseDiab Mm Chip Islets Up,176
+GSE41203 2Vs8Wk NonObeseDiab Mm Chip Islets Up,190
+GSE47504 IKK2-CApdx-1 Mm Chip Islets Up,213
+GSE41203 2Vs4Wk NonObeseDiab Mm Chip Islets Up,195
+GSE41203 2Vs12Wk NonObeseDiab Mm Chip Islets Up,193
+GSE59141 Pregnant PRLR Mm Chip Islet Up,47
+GSE40439 wt-vs-PGC1Tg Mm Chip Muscle Up,186
+GSE26978 Wt-Vs-Gtype2 Mm Chip Islets Up,102
+GSE26978 Wt-Vs-Gtype1 Mm Chip Islets Up,92
+GSE131320 Ctrl-vs-IL-1OE 6Hr Hs Islet Dn,233
+GSE107894 Metformin Visit2 Hs Adipose Dn,124
+GSE120299 Alpha-vs-BetaCells Hs Islet Dn,215
+GSE144274 Healthy-vs-(IPAH) Hs Muscle Dn,232
+GSE107894 Metformin Visit1 Hs Adipose Dn,136
+GSE101207 NonDiabetic-vs-T2D Hs Islet Dn,170
+GSE156067 PCOS Day12 Hs SubcutAdipose Up,211
+GSE131320 Ctrl-vs-IL-1OE 6Hr Hs Islet Up,216
+GSE107894 Metformin Visit2 Hs Adipose Up,159
+GSE120299 Alpha-vs-BetaCells Hs Islet Up,223
+GSE107894 Metformin Visit1 Hs Adipose Up,111
+GSE101207 NonDiabetic-vs-T2D Hs Islet Up,152
+GSE155482 EndoC-bH1-vs-ECN90 Hs Islet Up,207
+GSE108654 Islets-vs-hESC-OE Hs Islets Up,238
+GSE123658 Type1Diabetes Hs WholeBlood Up,133
+GSE154198 Passage8 Hs Chip Hepatocyte Dn,181
+GSE154198 Passage1 Hs Chip Hepatocyte Dn,179
+GSE154198 Passage8 Hs Chip Hepatocyte Up,198
+GSE154198 Passage1 Hs Chip Hepatocyte Up,200
+GSE149468 Fasting-18Hrs Mm Cerebellum Dn,170
+GSE135391 RoomTemp-vs-Cold Old Mm BAT Dn,202
+GSE149468 Fasting-22Hrs Mm Cerebellum Dn,183
+GSE101722 ProinflamCytokines Mm Islet Dn,168
+GSE149468 Fasting-12Hrs Mm Cerebellum Dn,179
+GSE155973 Macrophage-TSP1-ko Mm Liver Dn,155
+GSE109285 30DaysAfterDT Mm 2CellTypes Up,174
+GSE149468 Fasting-18Hrs Mm Cerebellum Up,135
+GSE149468 Fasting-22Hrs Mm Cerebellum Up,153
+GSE155973 Macroph-TSP1KO LFDiet Mm Liver Up,147
+GSE101722 ProinflamCytokines Mm Islet Up,215
+GSE149468 Fasting-12Hrs Mm Cerebellum Up,152
+GSE155973 Macroph-TSP1KO HFDiet Mm Liver Up,192
+GSE87854 FatDiet Day5 Mm Chip Adipose Dn,155
+GSE120290 Aged24Months Mm Chip Muscle Dn,133
+GSE73036 FatDiet Day42 Mm Chip Muscle Dn,203
+GSE41203 ObeseDiabetic Mm Chip Islets Dn,157
+GSE41203 2Vs8Wk ObeseDiabetic Mm Chip Islets Up,170
+GSE41203 2Vs18Wk ObeseDiabetic Mm Chip Islets Up,199
+GSE87854 FatDiet Day5 Mm Chip Adipose Up,168
+GSE73036 FatDiet Day42 Mm Chip Muscle Up,161
+GSE110569 wt-vs-SREBP-1 Mm Chip Liver Up,186
+GSE149294 DOXY tet-shRSPO3 Hs AbdomnAdipocyte Dn,166
+GSE134068 HighQual-vs-MedQual Hs Islet Dn,194
+GSE131320 EscherichiaColi 6Hr Hs Islet Dn,230
+GSE134068 HighQual-vs-LowQual Hs Islet Dn,195
+GSE154649 DOXY 4-5Hrs DUX4 Hs ALMCells Dn,218
+GSE125856 NoCAD-vs-CAD Lean Hs Adipose Dn,126
+GSE131320 Ctrl-vs-IL-1OE 24Hr Hs Islet Dn,229
+GSE149294 DOXY tet-shCON Hs AbdomnAdipocyte Dn,142
+GSE123658 Healthy-vs-T1D Hs WholeBlood Dn,76
+GSE149294 DOXY tet-shRSPO3 Hs AbdomAdipocytes Up,143
+GSE134068 HighQual-vs-MedQual Hs Islet Up,99
+GSE131320 EscherichiaColi 6Hr Hs Islet Up,204
+GSE154649 DOXY 8-5Hrs DUX4 Hs AMLCells Up,239
+GSE134068 HighQual-vs-LowQual Hs Islet Up,159
+GSE154649 DOXY 4-5Hrs DUX4 Hs AMLCells Up,228
+GSE114192 Healthy-vs-Diabetes Hs Blood Up,179
+GSE125856 NoCAD-vs-CAD Lean Hs Adipose Up,170
+GSE156067 PCOS Day3 Hs SubcutanAdipose Up,201
+GSE149294 DOXY tet-shCON Hs AbdomAdipocytes Up,156
+GSE154198 Passage58 Hs Chip Hepatocyte Dn,184
+GSE154198 Passage22 Hs Chip Hepatocyte Dn,198
+GSE154198 Passage58 Hs Chip Hepatocyte Up,205
+GSE154198 Passage22 Hs Chip Hepatocyte Up,209
+GSE109285 Mature-OE-Mature OE Mm Cells Dn,203
+GSE101657 Ctrl-KetogenicDiet Mm Kidney Dn,172
+GSE155064 LowBCAA-Diet Males Mm Muscle Up,166
+GSE150679 CdCl2 PostnatalDay1 Mm Liver Up,197
+GSE26978 Rbp2flfRIP-Cre Mm Chip Islets Dn,206
+GSE87854 FatDiet Day14 Mm Chip Adipose Dn,168
+GSE48009 IRKO Mm Chip MammaryAlveolars Dn,170
+GSE59143 Pregnant Islet Mm Chip Islets Up,177
+GSE70681 PtenDel 3Months Mm Chip Liver Up,132
+GSE26978 Rbp2flfRIP-Cre Mm Chip Islets Up,97
+GSE87854 FatDiet Day14 Mm Chip Adipose Up,166
+GSE108971 Diabetic Hs EpicardialAdipose Dn,201
+GSE131320 BacteroidesDorei 6Hr Hs Islet Dn,212
+GSE131320 EscherichiaColi 24Hr Hs Islet Dn,221
+GSE143482 LIGHT Hs EsophagusFibroblasts Dn,199
+GSE140230 CtrlPBS-vs-Sirolimus Hs Islet Dn,134
+GSE125856 NoCAD-vs-CAD Obese Hs Adipose Dn,154
+GSE157585 ResistTrain Placebo Hs Muscle Dn,224
+GSE108971 Diabetic Hs EpicardialAdipose Up,170
+GSE131320 BacteroidesDorei 6Hr Hs Islet Up,184
+GSE138252 NoFib-vs-AtrialFib Hs RAtrium Up,204
+GSE131320 EscherichiaColi 24Hr Hs Islet Up,202
+GSE143482 LIGHT Hs EsophagusFibroblasts Up,111
+GSE140230 CtrlPBS-vs-Sirolimus Hs Islet Up,103
+GSE125856 NoCAD-vs-CAD Obese Hs Adipose Up,125
+GSE137631 Obese-RYGB Exercise Hs Muscle Up,218
+GSE157585 ResistTrain Placebo Hs Muscle Up,172
+GSE154198 Passage113 Hs Chip Hepatocyte Dn,192
+GSE154198 Passage113 Hs Chip Hepatocyte Up,204
+GSE149468 Fasting-2Hrs Mm OlfactoryBulb Dn,147
+GSE124621 PGRMC2-AdiposeTissueKO Mm BAT Dn,210
+GSE112213 Wildtype-LdlrKO Mm Macrophage Dn,161
+GSE128361 Idh2- -Knockout Male Mm Liver Dn,158
+GSE149468 Fasting-8Hrs Mm OlfactoryBulb Dn,151
+GSE149468 Fasting-18Hrs Mm InterscapBAT Dn,168
+GSE109285 Mature-OE-OE-Express-PDX1 Mm Dn,201
+GSE150679 CdCl2 F Postnatal 1D Mm Liver Dn,152
+GSE155064 Ctrl-LowBCAA-Diet F Mm Muscle Dn,164
+GSE135391 RoomTemp-vs-Cold Young Mm BAT Dn,214
+GSE149468 Fasting-22Hrs Mm InterscapBAT Dn,183
+GSE127251 Ucp1-KO 30DegC Mm InguinalWAT Dn,202
+GSE127251 Ucp1-KO 20DegC Mm InguinalWAT Dn,213
+GSE124774 LPS+IFNy Mm BMDMs-Macrophages Dn,199
+GSE149468 Fasting-2Hrs Mm OlfactoryBulb Up,133
+GSE124621 PGRMC2-AdiposeTissueKO Mm BAT Up,150
+GSE124774 LPS+IFNy Diabetic Mm BMDMs-Macrophages Up,228
+GSE128361 Idh2- -Knockout Male Mm Liver Up,186
+GSE149468 Fasting-8Hrs Mm OlfactoryBulb Up,138
+GSE149468 Fasting-12Hrs Mm InterscapBAT Up,185
+GSE150679 CdCl2 PostnatalDay21 Mm Liver Up,143
+GSE150679 CdCl2 M 42D Mm BulkRNAseq Liver Up,164
+GSE150679 CdCl2 F 42D Mm BulkRNAseq Liver Up,155
+GSE127251 Ucp1-KO 30C HFDiet Mm InguinalWAT Up,128
+GSE149468 Fasting-22Hrs Mm InterscapBAT Up,202
+GSE127251 Ucp1-KO 30C CDiet Mm InguinalWAT Up,94
+GSE127251 Ucp1-KO 20DegC Mm InguinalWAT Up,156
+GSE124774 LPS+IFNy Wt Mm BMDMs-Macrophages Up,224
+GSE37248 FXR-Overexpression Mm Chip WAT Dn,210
+GSE43106 FatDiet C57BL 6J Mm Chip Liver Dn,187
+GSE26978 Men1flf-RIP-Cre Mm Chip Islets Dn,178
+GSE37248 FXR-Overexpression Mm Chip WAT Up,210
+GSE37248 FXR-Overexpression Mm Chip BAT Up,215
+GSE43106 FatDiet C57BL 6J Mm Chip Liver Up,174
+GSE59141 Pregnant PRLRpos Mm Chip Islet Up,108
+GSE48009 ctrl-vs-IRko Mm Chip Alveolars Up,195
+GSE131320 BacteroidesDorei 24Hr Hs Islet Dn,201
+GSE125856 MediastinalvsSubcut Hs Adipose Dn,157
+GSE140230 CtrlPBS-vs-Tacrolimus Hs Islet Dn,110
+GSE115421 Rosiglitazone P3 Hs Adipocytes Dn,204
+GSE114192 IntermedHyperglycemia SouthAfrica Hs Blood Dn,152
+GSE157585 Metformin NoResTrain Hs Muscle Dn,138
+GSE115421 Rosiglitazone P5 Hs Adipocytes Dn,207
+GSE142209 Microvessels-vs-Whole Hs Brain Dn,207
+GSE143735 Skin-vs-UlcerNoHeal Hs Forearm Dn,105
+GSE106148 Ctrl-vs-Type1Diabetes Hs Islet Dn,152
+GSE115421 Rosiglitazone P4 Hs Adipocytes Dn,197
+GSE156903 Vehicle-vs-Tacrolimus Hs Islet Dn,159
+GSE143482 TGF-B1 Hs EsophagusFibroblasts Dn,238
+GSE114192 IntermedHyperglycemia Romania Hs Blood Dn,145
+GSE115421 Rosiglitazone P2 Hs Adipocytes Dn,210
+GSE114192 Healthy-Diabetes Hs WholeBlood Dn,201
+GSE135445 AtrialFib Hs EpicardialAdipose Up,184
+GSE67543 Fetal-Adult AlphaCells Hs Islet Up,214
+GSE131320 BacteroidesDorei 24Hr Hs Islet Up,180
+GSE140230 CtrlPBS-vs-Tacrolimus Hs Islet Up,115
+GSE115421 Rosiglitazone P3 Hs Adipocytes Up,159
+GSE134431 Skin-UlcerHeal Hs DiabeticFoot Up,213
+GSE143319 Healthy-Obese Hs SubcutAdipose Up,141
+GSE154649 DOXY 8-5Hrs DUX4KO Hs AMLCells Up,218
+GSE114192 IntermedHyperglycemia SouthAfrica Hs Blood Up,169
+GSE115421 Rosiglitazone P5 Hs Adipocytes Up,169
+GSE157585 ResistTrainMetformin Hs Muscle Up,151
+GSE115421 Rosiglitazone P1 Hs Adipocytes Up,164
+GSE156903 Vehicle-vs-Tacrolimus Hs Islet Up,183
+GSE143482 TGF-B1 Hs EsophagusFibroblasts Up,230
+GSE134870 Ctrl-siRND3-Knockdn Hs Adipose Up,149
+GSE114192 IntermedHyperglycemia Romania Hs Blood Up,160
+GSE125856 Epicard-Mediastinal Hs Adipose Up,155
+GSE115421 Rosiglitazone P2 Hs Adipocytes Up,167
+GSE114192 Diabetes Romania Hs WholeBlood Up,189
+GSE149468 Fasting-8Hrs Mm PerigonadalWAT Dn,167
+GSE109285 Mature-OE-vs-OE-ExpressPDX1 Mm Dn,198
+GSE100067 Islet-Lung Mm MacrophNODShiLtJ Dn,199
+GSE142209 Microvessels-vs-Whole Mm Brain Dn,192
+GSE150679 CdCl2 F Postnatal 21D Mm Liver Dn,179
+GSE149468 Fasting-2h Mm Poster-SubcutWAT Dn,138
+GSE100067 IsletMacrophs-B6.g7 Mm Macroph Dn,201
+GSE149468 Fasting-12Hrs Mm OlfactoryBulb Dn,142
+GSE150679 CdCl2 F Postnatal 42D Mm Liver Dn,189
+GSE149468 Fasting-18Hrs Mm OlfactoryBulb Dn,133
+GSE149468 Fasting-22Hrs Mm OlfactoryBulb Dn,145
+GSE144953 Neurog3 RARdnfl Fl Mm Pancreas Dn,163
+GSE137187 OE-Klf6KO S961-Treated Mm Islet Dn,177
+GSE149468 Fasting-2Hrs Mm PerigonadalWAT Dn,157
+GSE149468 Fasting-8Hrs Mm PerigonadalWAT Up,197
+GSE149468 Fasting-18Hrs Mm Posterior-SubcutWAT Up,187
+GSE149468 Fasting-12Hrs Mm Posterior-SubcutWAT Up,197
+GSE127251 Ucp1-KO HFDiet 30C Mm InterscapBAT Up,204
+GSE73436 HomozygAMPK-R299Q-K-in Mm Brain Up,187
+GSE127251 Ucp1-KO 20DegC Mm InterscapBAT Up,198
+GSE149468 Fasting-12Hrs Mm OlfactoryBulb Up,137
+GSE149468 Fasting-18Hrs Mm OlfactoryBulb Up,149
+GSE149468 Fasting-22Hrs Mm OlfactoryBulb Up,152
+GSE127251 Ucp1-KO CDIET 30C Mm InterscapBAT Up,198
+GSE144953 Neurog3 RARdnfl Fl Mm Pancreas Up,128
+GSE137187 OE-Klf6KO S961-Treated Mm Islet Up,165
+GSE149468 Fasting-2Hrs Mm PerigonadalWAT Up,151
+GSE43106 FatDiet C3HeB FeJ Mm Chip Liver Dn,189
+GSE41203 DBX NonObeseDiab Mm Chip Islets Dn,148
+GSE39752 StreptozotocinSTZ Mm Chip Liver Dn,176
+GSE41203 ObeseDiabet 6Wks Mm Chip Islets Dn,172
+GSE43106 FatDiet C3HeB FeJ Mm Chip Liver Up,179
+GSE120290 Young-Old Mm Chip Muscle-Quads Up,136
+GSE136134 Ctrl-vs-Insulin 24Hrs Hs hiPSCs Dn,194
+GSE136134 Ctrl-vs-Insulin 72Hrs Hs hiPSCs Dn,231
+GSE135445 AtrialFibr Hs EpicardialAdipose Dn,195
+GSE67543 FetalvsAdult AlphaCells Hs Islet Dn,192
+GSE156903 Vehicle-vs-Voclosporin Hs Islet Dn,146
+GSE134431 SkinvsUlcerHealer Hs DiabetFoot Dn,211
+GSE133903 Islets-vs-Pseduoislets Hs Islet Dn,196
+GSE143319 HealthyvsObese Hs SubcutAdipose Dn,147
+GSE154649 Doxy 8-5Hrs DUX4-KO Hs AMLCells Dn,219
+GSE137136 ProInflamCytokine Hs EndoC--H1 Dn,218
+GSE142025 AdvancedDiabetNephrop Hs Kidney Dn,83
+GSE157585 ResistTrain Metformin Hs Muscle Dn,224
+GSE113764 White-vs-Brown Hs AdiposeTissue Dn,155
+GSE115421 Rosiglitazone sP1 Hs Adipocytes Dn,203
+GSE131320 RuminococcusGnavus 6Hr Hs Islet Dn,226
+GSE134870 Ctrl-vs-siRND3-Kckdn Hs Adipose Dn,142
+GSE108654 Islets-vs-hESC-OE-likeCells Hs Dn,221
+GSE125856 EpicardvsMediastinal Hs Adipose Dn,214
+GSE114192 HealthyvsDiabetes Hs WholeBlood Dn,190
+GSE125856 Epicardial-vs-Subcut Hs Adipose Dn,198
+GSE137631 Obese-(RYGB) Exercise Hs Muscle Dn,198
+GSE100322 NRG1-kdn Hs ThyroidPrimaryCells Dn,126
+GSE143319 PrevsPostlbLoss Hs SubcuAdipose Dn,123
+GSE135448 LowProtein-HighProtein Hs Liver Dn,154
+GSE108971 Diabetic Hs SubcutaneousAdipose Dn,171
+GSE156067PCOS Day7 Hs SubcutaneousAdipose Dn,199
+GSE138252 Ctrl-vs-HeartFail Hs LeftAtrium Dn,196
+GSE137631 Obese-RYGB NoExercise Hs Muscle Dn,209
+GSE136134 Ctrl-vs-Insulin 24Hrs Hs hiPSCs Up,194
+GSE136134 Ctrl-vs-Insulin 72Hrs Hs hiPSCs Up,207
+GSE110935 Norm-vs-CysticFibrosis Hs Islet Up,180
+GSE156903 Vehicle-vs-Voclosporin Hs Islet Up,164
+GSE133903 Islets-vs-Pseduoislets Hs Islet Up,213
+GSE137136 ProInflamCytokine Hs EndoC-OE-H1 Up,216
+GSE115421 -Rosiglitazone P4 Hs Adipocytes Up,168
+GSE131320 RuminococcusGnavus 6Hr Hs Islet Up,195
+GSE138252 Ctrl-vs-HeartFailure Hs RAtrium Up,179
+GSE125856 Epicardial-vs-Subcut Hs Adipose Up,123
+GSE100322 NRG1-Kdn Hs ThyroidPrimaryCells Up,89
+GSE143319 Pre-PostlbLoss Hs SubcutAdipose Up,173
+GSE135448 Low-vs-HighProteinDiet Hs Liver Up,123
+GSE108971 Diabetic Hs SubcutaneousAdipose Up,133
+GSE137631 Obese-RYGB NoExercise Hs Muscle Up,221
+GSE136396 ColdSensitive-Insen Mm Hypothal Dn,201
+GSE110528 Vehicle-vs-T0901317 Mm Duodenum Dn,140
+GSE127251 Ucp1-KO Fat 30C Mm InterscapBAT Dn,146
+GSE120429 D316A-Transgen Fat Mm SubcutWAT Dn,181
+GSE149468 Fasting-22Hrs Mm PerigonadalWAT Dn,167
+GSE149468 Fasting-18Hrs Mm PerigonadalWAT Dn,147
+GSE146543 GlucInhib-Excit Mm HypothalNeur Dn,204
+GSE73436 HomozygousAMPK-R299Q-KI Mm Brain Dn,189
+GSE150679 CdCl2 M PostnatalDay42 Mm Liver Dn,185
+GSE128361 Idh2- -Knockout Female Mm Liver Dn,165
+GSE145070 Ctrl-vs-Bscl2f f-Ucp1Cre Mm BAT Dn,146
+GSE149468 Fasting-12Hrs Mm PerigonadalWAT Dn,122
+GSE112213 M-LXROE-S196A-LdlrKO Mm Macroph Dn,175
+GSE144061 FGF6 4Hrs Mm BrownPreadipocytes Dn,224
+GSE101657 ControlDiet-vs-FatDiet Mm Liver Dn,189
+GSE136396 ColdInsensitive Mm Hypothalamus Up,159
+GSE110528 Vehicle-vs-T0901317 Mm Duodenum Up,228
+GSE144061 FGF6 8Hrs Mm BrownPreadipocytes Up,186
+GSE149468 Fasting-22Hrs Mm PerigonadalWAT Up,187
+GSE149468 Fasting-18Hrs Mm PerigonadalWAT Up,198
+GSE142209 Microves-vs-WholeBr Mm 2Tissues Up,202
+GSE128361 Idh2- -Knockout Female Mm Liver Up,157
+GSE149468 Fasting-12Hrs Mm PerigonadalWAT Up,192
+GSE112213 M-LXROE-S196A-LdlrKO Mm Macroph Up,185
+GSE109285 Mature-OE-vs-OE-ExpressPDX1 Mm Up,168
+GSE90531 Tam-HDAC3betaKO Mm BulkRNA-seq Islet Up,160
+GSE144061 FGF6 4Hrs Mm BrownPreadipocytes Up,179
+GSE90531 Veh-HDAC3betaKO Mm BulkRNA-seq Islet Up,183
+GSE101657 ControlDiet-vs-FatDiet Mm Liver Up,138
+GSE100067 Macrophages Mm IsletMacrophages Up,178
+GSE73036 FatDiet Day5 Mm Chip SkeleMuscle Dn,193
+GSE41203 NOD.RAG-NonObeseDiab 6Wks Mm Chip Islets Dn,151
+GSE41203 B6.g7-NonObeseDiab 6Wks Mm Chip Islets Dn,179
+GSE41203 NonObeseDiab 2Wks Mm Chip Islets Dn,191
+GSE41203 6Wks NonObeseDiab Mm Chip Islets Dn,185
+GSE70681 PtenDeletion 3Mths Mm Chip Liver Dn,159
+GSE37248 hFXRBat-AdiposehsFXR Mm Chip BAT Dn,221
+GSE110569 C57Bl6-vs-SREBP-1 Mm Chip Liver Dn,33
+GSE41203 NonObeseDiab 6Wks Mm Chip Islets Up,317
+GSE41203 DBX NoObeseDiabet Mm Chip Islets Up,180
+GSE59143 Pregnant FemIslet Mm Chip Islets Up,171
+GSE67543 Fetal-vs-Adult BetaCells Hs Islet Dn,185
+GSE142025 EarlyDiabetNephropathy Hs Kidney Dn,132
+GSE155482 EndoC-bH1vs-ECN90-Cells Hs Islet Dn,224
+GSE131320 RuminococcusGnavus 24Hr Hs Islet Dn,212
+GSE154649 Doxy 8-5H intactDUX4 Hs ALMCells Dn,211
+GSE149294 Ctrl-vs-Dox Hs GlutealAdipocytes Dn,167
+GSE157585 Metformin ResTrain16wk Hs Muscle Dn,150
+GSE134431 SkinvsUlcer-NoHeal Hs DiabetFoot Dn,198
+GSE115421 Rosiglitazone shNF1 Hs Adipocyte Dn,212
+GSE138252 Ctrl-vs-HeartFail Hs RightAtrium Dn,137
+GSE143735 Skin-FootUlcerHeal Hs DiabetFarm Dn,142
+GSE115421 Rosiglitazone Scram Hs Adipocyte Dn,188
+GSE125856 Mediastinal-vs-Subcut Hs Adipose Up,125
+GSE67543 Fetal-vs-Adult BetaCells Hs Islet Up,219
+GSE157585 Metformin NoResisTrain Hs Muscle Up,181
+GSE142025 EarlyDiabetNephropathy Hs Kidney Up,132
+GSE138252 NoAtrialFib-AtrialFib Hs LAtrium Up,204
+GSE142025 AdvDiabeticNephropathy Hs Kidney Up,140
+GSE143735 Skin-FtUlcerNoHeal Hs DiabetFarm Up,168
+GSE131320 RuminococcusGnavus 24Hr Hs Islet Up,182
+GSE157585 Metformin ResTrain16wk Hs Muscle Up,178
+GSE134431 Skin-UlcerNoHeal Hs DiabeticFoot Up,224
+GSE115421 Rosiglitazone shNF1 Hs Adipocyte Up,168
+GSE156067 PCOS Day7 Hs SubcutaneousAdipose Up,215
+GSE143735 Skin-FootUlcerHeal Hs DiabetFarm Up,140
+GSE115421 Rosiglitazone Scram Hs Adipocyte Up,123
+GSE44035 Male-vs-Female NoDiabet Hs Islets Dn,218
+GSE44035 Male-vs-Female NoDiabet Hs Islets Up,219
+GSE124774 LPS+IFNy Diabet Mm BMDMs-Macroph Dn,193
+GSE144061 VFGF6 8Hrs Mm BrownPreadipocytes Dn,211
+GSE155064 LowBCAA-Diet Males Mm QuadMuscle Dn,171
+GSE100067 IsletMacroph-Pancreat-Dendrit Mm Dn,197
+GSE155612 Mettl3flox -OE-Mettl3KO Mm Islet Dn,121
+GSE144061 FGF6 24Hrs Mm BrownPreadipocytes Dn,214
+GSE149468 Fasting-2Hrs Mm InterscapularBAT Dn,193
+GSE149468 Fasting-8Hrs Mm InterscapularBAT Dn,224
+GSE89035 PBS-Gcgr-mAb BothGcgr+ + Mm Liver Dn,177
+GSE149468 Fasting-8h Mm PosteriorSubcutWAT Dn,215
+GSE127251 Ucp1-KO Ctrl 20C Mm InterscapBAT Dn,193
+GSE101722 ML351ProinflamCytokine Mm Islet Dn,164
+GSE90531 HDAC3f f;Tam-HDAC3betaKO Mm Islet Dn,181
+GSE90531 HDAC3f f;Cre-HDAC3betaKO Mm Islet Dn,171
+GSE122348 Ctrl- REGN1193 ChowDiet Mm Liver Dn,170
+GSE120429 D316ATrans ChowDiet Mm SubcutWAT Dn,157
+GSE155973 Wt-MacrophTSP1KO LFDiet Mm Liver Dn,182
+GSE127251 Ucp1-KO CDiet 30C Mm InterscaBAT Dn,171
+GSE127251 Ucp1-KO FDiet 30C Mm InguinalWAT Dn,160
+GSE101657 ControlDiet-vs-FatDiet Mm Kidney Dn,175
+GSE100067 LungMacrophag ShiLtJ Mm 2Tissues Up,198
+GSE100067 DendriticCell ShiLtJ Mm 2Tissues Up,201
+GSE155612 Mettl3 flox-OE-Mettl3KO Mm Islet Up,176
+GSE146543 GlucoseExcitedNeurons Mm Neurons Up,197
+GSE144061 FGF6 24Hrs Mm BrownPreadipocytes Up,178
+GSE149468 Fasting-2Hrs Mm InterscapularBAT Up,187
+GSE149468 Fasting-8Hrs Mm InterscapularBAT Up,171
+GSE145070 Bscl2f fvsBscl2f fUcp1Cre Mm BAT Up,151
+GSE101657 ControlDiet-vs-FatDiet Mm Kidney Up,141
+GSE43106 FatDiet C57BL 6NTac Mm Chip Liver Dn,204
+GSE79164 erbAlpha-KO Mm Chip EpididymalWAT Dn,204
+GSE43106 FatDiet 129P2OlaHsd Mm Chip Liver Dn,178
+GSE59143 PregnantIsletGraft Mm Chip Islets Dn,158
+GSE70681 PtenDeletion 15Mnts Mm Chip Liver Dn,224
+GSE94846 PAX8-Overexpression Mm Chip Islet Dn,121
+GSE127056 FatDiet4wks Mm Chip Hypothalamus Dn,160
+GSE127056 FatDiet8Wks Mm Chip Hypothalamus Dn,179
+GSE110569 C57Bl6-alb-SREBP-1 Mm Chip Liver Dn,127
+GSE26978 Men1flf-Rbp2flfRIP Mm Chip Islets Dn,185
+GSE43106 FatDiet C57BL 6NTac Mm Chip Liver Up,155
+GSE79164 erbAlpha-KO Mm Chip EpididymalWAT Up,194
+GSE43106 FatDiet129P2 OlaHsd Mm Chip Liver Up,170
+GSE70681 PtenDeletion 15Mnts Mm Chip Liver Up,120
+GSE94846 PAX8-Overexpression Mm Chip Islet Up,176
+GSE127056 FatDiet 4Wk Mm Chip Hypothalamus Up,134
+GSE127056 FatDiet 8Wk Mm Chip Hypothalamus Up,175
+GSE110569 wt-vs-alb-SREBP-1a Mm Chip Liver Up,188
+GSE149468 Fasting-12hs Mm InterscapularBAT Dn,168
+GSE149468 Fasting-18hs Mm InterscapularBAT Up,189
+GSE59143 PregnantFIslet Mm Chip Islets Dn,147
+GSE135391 RoomTemp-vs-Cold Old Mm BAT Up,207
+GSE156774 WholeBodyKO-Plr-KO-Beta Mm Islet Dn,151
+GSE142209 Microvessels-vs-Whole Hs Brain Up,214
+GSE109285 Mature-OE-vs-OE 30C Post DT Mm Dn,197
+GSE101722 ML351+ProinflamCytokine Mm Islet Up,220

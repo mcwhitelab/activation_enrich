@@ -1,0 +1,384 @@
+Pathway,Count
+H3K4me3 CD8 Memory Primary Cells,9655
+H3K79me1 IMR90,2902
+H3K4ac IMR90,6751
+H3K4me1 CD4+ CD25int CD127+ Tmem Primary Cells,2991
+H3K27ac iPS DF 19.11,7920
+H3K9me3 Brain Cingulate Gyrus,115
+H3K4me1 CD34 Cultured Cells,6532
+H3K4me1 Adipose Nuclei,2902
+H3K9me3 Adult Liver,240
+H3K27me3 Brain Hippocampus Middle,1581
+H3K4me1 CD4 Naive Primary Cells,6010
+H3K4me3 H1 Derived Neuronal Progenitor Cultured Cells,12121
+H3K27ac CD8 Memory Primary Cells,7225
+H3K36me3 Pancreatic Islets,211
+H3K27ac CD4+ CD25- CD45RO+ Memory Primary Cells,6470
+H3K4me3 H1 Derived Mesenchymal Stem Cells,12936
+H2BK120ac IMR90,2463
+H2BK120ac H1,3491
+H3K4me3 Brain Hippocampus Middle,12209
+H3K27ac H1 Derived Neuronal Progenitor Cultured Cells,5899
+H2BK120ac H9,6960
+H3K27me3 CD4+ CD25+ CD127- Treg Primary Cells,1199
+H3K36me3 CD8 Memory Primary Cells,330
+H3K4me1 CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells,4661
+H3K9me3 Neurosphere Cultured Cells Ganglionic Eminence Derived,498
+H3K14ac IMR90,4559
+H4K91ac IMR90,5763
+H3K27me3 Brain Cingulate Gyrus,932
+H3K9me3 Mesenchymal Stem Cell Derived Adipocyte Cultured Cells,295
+H3K4me3 Breast Myoepithelial Cells,11768
+H3K9me3 CD4+ CD25- CD45RA+ Naive Primary Cells,63
+H2BK20ac H9,3527
+H3K4me1 CD8 Memory Primary Cells,5259
+H2BK20ac H1,1923
+H3K27me3 IMR90,1741
+H3K9ac Brain Substantia Nigra,5389
+H3K9me3 Brain Mid Frontal Lobe,217
+H3K9me3 Fetal Heart,913
+H3K36me3 CD4+ CD25- CD45RO+ Memory Primary Cells,159
+H3K9me3 CD4 Naive Primary Cells,64
+H3K9me3 Breast vHMEC,75
+H3K9me3 H1 Derived Mesenchymal Stem Cells,444
+H3K9me3 CD4+ CD25+ CD127- Treg Primary Cells,96
+H3K36me3 CD4+ CD25int CD127+ Tmem Primary Cells,148
+H3K23ac IMR90,3888
+H3K27ac Brain Hippocampus Middle,10263
+H3K9me3 Brain Germinal Matrix,214
+H2BK12ac H9,4798
+H2BK12ac H1,6297
+H3K27ac Mobilized CD34 Primary Cells,9300
+H3K36me3 Skeletal Muscle,174
+H3K27me3 Penis Foreskin Keratinocyte Primary Cells,615
+H3K4me1 CD4+ CD25- Th Primary Cells,6222
+H3K27me3 Breast Myoepithelial Cells,1292
+H3K9me3 Breast Myoepithelial Cells,447
+H3K4me1 iPS DF 19.11,5890
+H3K9ac Adult Kidney,4719
+H3K9me3 Peripheral Blood Mononuclear Primary Cells,327
+H3K4me3 Colon Smooth Muscle,11542
+H3K9me3 CD4+ CD25- Th Primary Cells,118
+H3K4me1 Adipose Derived Mesenchymal Stem Cell Cultured Cells,6944
+H3K4me1 CD8 Naive Primary Cells,6393
+H3K27me3 Duodenum Mucosa,1866
+H3K27me3 CD4+ CD25int CD127+ Tmem Primary Cells,1106
+H3K9me3 Adult Kidney,108
+H3K27ac H1 BMP4 Derived Trophoblast Cultured Cells,6846
+H3K27me3 iPS DF 19.11,2112
+H3K9me3 Adipose Derived Mesenchymal Stem Cell Cultured Cells,247
+H3K9ac Adult Liver,5265
+H3K27me3 CD3 Primary Cells,1718
+H3K9ac Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,4796
+H3K27me3 iPS-15b,2231
+H3K27ac H1 Derived Mesenchymal Stem Cells,6370
+H3K36me3 Adult Liver,173
+H3K4me1 Neurosphere Cultured Cells Ganglionic Eminence Derived,7002
+H3K27me3 Treg Primary Cells,856
+H3K27ac Duodenum Smooth Muscle,5076
+H3K9ac Adipose Derived Mesenchymal Stem Cell Cultured Cells,8977
+H3K4me3 Brain Cingulate Gyrus,10913
+H3K4me3 Breast vHMEC,10027
+H2BK5ac H9,2492
+H3K9me3 Brain Inferior Temporal Lobe,170
+H3K36me3 Treg Primary Cells,176
+H2BK5ac H1,7863
+H3K4me1 Breast vHMEC,4988
+H3K4me1 Neurosphere Cultured Cells Cortex Derived,7814
+H3K9ac IMR90,9730
+H3K36me3 Muscle Satellite Cultured Cells,292
+H3K4me1 Brain Anterior Caudate,5661
+H2AK5ac H1,3775
+H2AK5ac H9,1829
+H3K4me3 CD8 Naive Primary Cells,11714
+H3K27me3 CD34 Primary Cells,1456
+H3K36me3 H9,2414
+H3K9ac Brain Cingulate Gyrus,4821
+H3K36me3 H1,874
+H3K9me3 Skeletal Muscle,108
+H3K9ac Rectal Smooth Muscle,6008
+H3K4me3 Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,8957
+H3K4me1 Penis Foreskin Keratinocyte Primary Cells,6593
+H3K9me3 Adipose Nuclei,105
+H3K27me3 CD4 Memory Primary Cells,1574
+H3K4me3 Mobilized CD34 Primary Cells,13279
+H3K4me1 CD4+ CD25- CD45RA+ Naive Primary Cells,3910
+H3K27me3 Brain Germinal Matrix,2004
+H3K4me3 IMR90,11627
+H3K36me3 Breast Myoepithelial Cells,410
+H3K27ac CD4+ CD25- CD45RA+ Naive Primary Cells,6469
+H3K4me3 Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,9133
+H3K9me3 CD4+ CD25- CD45RO+ Memory Primary Cells,36
+H3K4me1 Brain Inferior Temporal Lobe,5526
+H3K4me3 Adipose Derived Mesenchymal Stem Cell Cultured Cells,11058
+H3K36me3 Fetal Lung,570
+H3K27ac H1 BMP4 Derived Mesendoderm Cultured Cells,6583
+H3K79me1 H9,3100
+H3K4me3 CD4+ CD25int CD127+ Tmem Primary Cells,9114
+H3K79me1 H1,3999
+H3K4me1 Brain Hippocampus Middle,7798
+H3K9me3 Brain Hippocampus Middle,170
+H3K27me3 Stomach Mucosa,1479
+H3K27me3 Neurosphere Cultured Cells Cortex Derived,724
+H4K5ac H9,5240
+H3K4me3 Penis Foreskin Fibroblast Primary Cells,7607
+H3K4me3 CD4+ CD25+ CD127- Treg Primary Cells,9893
+H3K36me3 CD34 Cultured Cells,172
+H4K5ac H1,9702
+H3K9ac Fetal Lung,5583
+H3K4me1 Brain Cingulate Gyrus,5555
+H3K27ac CD4 Naive Primary Cells,9467
+H3K27me3 Skeletal Muscle,1093
+H3K79me2 H9,1252
+H3K9me3 iPS DF 19.11,3152
+H3K79me2 H1,1200
+H3K36me3 Stomach Smooth Muscle,259
+H3K4me3 Adipose Nuclei,9454
+H3K36me3 Breast vHMEC,152
+H4K8ac IMR90,10322
+H3K9ac Adipose Nuclei,4011
+H3K36me3 Adipose Derived Mesenchymal Stem Cell Cultured Cells,314
+H3K27ac CD4 Memory Primary Cells,9606
+H3K9ac Mesenchymal Stem Cell Derived Adipocyte Cultured Cells,8064
+H3K36me3 iPS DF 6.9,4003
+H3K4me3 CD4 Memory Primary Cells,9903
+H3K9me3 Treg Primary Cells,77
+H3K27me3 Brain Anterior Caudate,1470
+H3K4me1 H1 Derived Mesenchymal Stem Cells,6271
+H3K9me3 Th17 Primary Cells,98
+H3K27me3 Rectal Mucosa,1105
+H3K4me2 H1 BMP4 Derived Trophoblast Cultured Cells,9903
+H3K9ac Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,7328
+H3K9ac Muscle Satellite Cultured Cells,10073
+H3K4me3 iPS DF 19.11,13632
+H3K4me1 Duodenum Mucosa,5560
+H3K27ac Brain Anterior Caudate,4689
+H3K4me3 iPS DF 6.9,13090
+H3K4me1 CD4+ CD25- CD45RO+ Memory Primary Cells,4462
+H3K4me1 Muscle Satellite Cultured Cells,7385
+H3K36me3 Fetal Brain,237
+H2AK5ac IMR90,3561
+H3K27me3 Duodenum Smooth Muscle,1054
+H3K9ac Breast Myoepithelial Cells,10656
+H3K36me3 Neurosphere Cultured Cells Ganglionic Eminence Derived,138
+H3K4me3 Neurosphere Cultured Cells Cortex Derived,11659
+H3K27ac CD8 Naive Primary Cells,7635
+H3K36me3 Colonic Mucosa,534
+H3K4me3 CD4 Naive Primary Cells,9819
+H3K9me3 Brain Anterior Caudate,141
+H3K36me3 Brain Mid Frontal Lobe,335
+H3K36me3 Brain Substantia Nigra,307
+H3K36me3 Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,153
+H3K36me3 iPS DF 19.11,4036
+H3K4me1 Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,5312
+H3K4me3 CD4+ CD25- CD45RO+ Memory Primary Cells,7670
+H3K27me3 CD4+ CD25- CD45RO+ Memory Primary Cells,993
+H3K4me1 Stomach Smooth Muscle,6508
+H3K4me1 Pancreatic Islets,1952
+H3K4me1 Mobilized CD34 Primary Cells,11973
+H3K27me3 Adult Liver,885
+H3K9ac Stomach Mucosa,5736
+H3K27me3 Breast vHMEC,1493
+H3K4me3 Penis Foreskin Keratinocyte Primary Cells,12296
+H3K27ac iPS DF 6.9,2682
+H3K4me1 Fetal Lung,8234
+H3K4me1 Skeletal Muscle,4154
+H3K9me3 CD8 Memory Primary Cells,69
+H3K18ac H1,9697
+H3K36me3 Peripheral Blood Mononuclear Primary Cells,196
+H3K18ac H9,8790
+H3K9me3 Mobilized CD34 Primary Cells,665
+H3K36me3 Brain Hippocampus Middle,509
+H3K27me3 Colon Smooth Muscle,852
+H3K36me3 Brain Cingulate Gyrus,300
+H3K36me3 Fetal Heart,143
+H3K4me1 Fetal Brain,8255
+H3K27me3 Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,726
+H3K36me3 CD19 Primary Cells,149
+H3K36me3 H1 BMP4 Derived Trophoblast Cultured Cells,2756
+H3K36me3 CD34 Primary Cells,156
+H3K9ac Rectal Mucosa,6261
+H3K4me3 Brain Substantia Nigra,11372
+H3K36me3 Brain Anterior Caudate,324
+H3K27me3 Adipose Nuclei,1174
+H3K27me3 Fetal Lung,1304
+H3K4me1 Adult Liver,4939
+H3K4me3 Stomach Mucosa,8709
+H3K36me3 Penis Foreskin Fibroblast Primary Cells,638
+H3K9me3 CD8 Naive Primary Cells,110
+H3K9ac Colonic Mucosa,9014
+H3K4me2 Muscle Satellite Cultured Cells,8584
+H3K18ac IMR90,7334
+H3K4me3 Brain Inferior Temporal Lobe,10636
+H3K9ac Skeletal Muscle,508
+H4K5ac IMR90,8066
+H3K27me3 H1 Derived Mesenchymal Stem Cells,1212
+H3K36me3 Duodenum Mucosa,355
+H3K4me3 Duodenum Mucosa,10310
+H3K36me3 Mobilized CD34 Primary Cells,509
+H3K27me3 iPS DF 6.9,1709
+H3K9me1 IMR90,1017
+H3K27me3 Peripheral Blood Mononuclear Primary Cells,1685
+H3K4me3 Stomach Smooth Muscle,11420
+H3K4me1 CD4+ CD25+ CD127- Treg Primary Cells,5677
+H3K36me3 Colon Smooth Muscle,429
+H3K4me3 CD19 Primary Cells,11008
+H3K27ac CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells,7316
+H3K9me3 H9,344
+H3K4me1 Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,5860
+H3K36me3 CD4+ CD25+ CD127- Treg Primary Cells,140
+H3K9me3 H1,1872
+H3K4me1 H1,7652
+H3K23ac H1,1547
+H3K4me1 H9,2822
+H3K23ac H9,3436
+H3K36me3 CD4+ CD25- Th Primary Cells,131
+H3K4me1 Colonic Mucosa,8202
+H3K9me3 Penis Foreskin Fibroblast Primary Cells,326
+H3K27me3 Fetal Brain,1801
+H3K4me3 Adult Liver,9144
+H3K4me3 CD34 Cultured Cells,9748
+H3K36me3 Adipose Nuclei,187
+H3K9ac Brain Anterior Caudate,4789
+H3K9ac Pancreatic Islets,8839
+H3K9me3 Rectal Mucosa,75
+H3K36me3 Brain Inferior Temporal Lobe,332
+H3K9me3 CD34 Cultured Cells,361
+H3K4me3 Brain Anterior Caudate,10733
+H3K4me3 Treg Primary Cells,7231
+H3K4me3 Fetal Brain,11141
+H3K36me3 IMR90,396
+H3K27me3 H1 BMP4 Derived Trophoblast Cultured Cells,2683
+H3K27me3 Brain Mid Frontal Lobe,799
+H3K27ac CD4+ CD25int CD127+ Tmem Primary Cells,7140
+H3K36me3 Mesenchymal Stem Cell Derived Adipocyte Cultured Cells,254
+H3K36me3 Neurosphere Cultured Cells Cortex Derived,151
+H3K9ac Duodenum Mucosa,9271
+H3K4me3 Mesenchymal Stem Cell Derived Adipocyte Cultured Cells,10063
+H3K36me3 Adult Kidney,360
+H3K4me1 Brain Substantia Nigra,5820
+H3K4me3 CD4+ CD25- Th Primary Cells,10187
+H3K27me3 CD8 Memory Primary Cells,1623
+H3K36me3 Duodenum Smooth Muscle,164
+H3K4me1 Colon Smooth Muscle,3965
+H3K4me1 CD4 Memory Primary Cells,6807
+H3K27me3 Colonic Mucosa,3006
+H3K4me1 Peripheral Blood Mononuclear Primary Cells,2815
+H3K56ac H1,7742
+H3K4me1 H1 BMP4 Derived Trophoblast Cultured Cells,6403
+H3K56ac H9,5815
+H4K20me1 H1,1257
+H3K36me3 CD4 Naive Primary Cells,293
+H3K9me3 Colonic Mucosa,572
+H2BK12ac IMR90,2712
+H4K20me1 H9,1136
+H3K4me3 Duodenum Smooth Muscle,8472
+H3K4me3 CD3 Primary Cells,10669
+H3K23me2 H1,10263
+H3K9me3 Rectal Smooth Muscle,283
+H3K23me2 H9,7515
+H4K91ac H9,4736
+H3K4me2 H1,11283
+H4K91ac H1,5904
+H3K4me2 H9,11812
+H3K79me2 IMR90,1876
+H3K36me3 Stomach Mucosa,227
+H3K56ac IMR90,5790
+H3K9me3 IMR90,814
+H3K9ac Brain Hippocampus Middle,5026
+H3K9me3 CD4 Memory Primary Cells,80
+H3K4me3 Skeletal Muscle,8541
+H3K27me3 Brain Substantia Nigra,1351
+H4K8ac H9,4594
+H3K9ac Penis Foreskin Keratinocyte Primary Cells,8794
+H3K36me3 Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,187
+H3K36me3 H1 BMP4 Derived Mesendoderm Cultured Cells,259
+H3K4me2 H1 BMP4 Derived Mesendoderm Cultured Cells,10539
+H3K9ac Peripheral Blood Mononuclear Primary Cells,8187
+H3K4me3 CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells,8313
+H3K27me3 Mobilized CD34 Primary Cells,4453
+H3K4me3 CD4+ CD25- CD45RA+ Naive Primary Cells,10247
+H3K9ac Brain Mid Frontal Lobe,5043
+H3K27me3 iPS-20b,1975
+H3K14ac H9,8069
+H3K27me3 Neurosphere Cultured Cells Ganglionic Eminence Derived,557
+H3K36me3 CD8 Naive Primary Cells,376
+H3K4me2 IMR90,9864
+H3K9ac Stomach Smooth Muscle,7181
+H2BK15ac IMR90,3060
+H3K9me3 Neurosphere Cultured Cells Cortex Derived,340
+H3K27me3 CD4 Naive Primary Cells,634
+H3K4me1 Penis Foreskin Fibroblast Primary Cells,3933
+H3K4me1 Brain Mid Frontal Lobe,5193
+H3K4ac H9,5643
+H3K14ac H1,3541
+H3K4ac H1,4059
+H3K9me3 Fetal Lung,74
+H3K9ac Colon Smooth Muscle,5415
+H3K9me3 CD4+ CD25int CD127+ Tmem Primary Cells,35
+H3K27ac Brain Mid Frontal Lobe,4731
+H3K9me3 Stomach Mucosa,64
+H3K36me3 CD3 Primary Cells,164
+H3K36me3 CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells,183
+H3K4me3 Adult Kidney,10083
+H3K4me3 H9,12921
+H3K4me3 H1,13703
+H4K20me1 IMR90,461
+H3K4me1 Stomach Mucosa,4225
+H3K4me3 Brain Mid Frontal Lobe,10567
+H2BK20ac IMR90,976
+H3K36me3 Rectal Smooth Muscle,267
+H3K4me3 H1 BMP4 Derived Mesendoderm Cultured Cells,11547
+H3K4me1 Brain Germinal Matrix,3743
+H3K9me3 iPS DF 6.9,524
+H3K9me3 Duodenum Mucosa,138
+H3K27me3 Brain Inferior Temporal Lobe,868
+H3K9ac H1,11686
+H3K9me3 Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,251
+H3K9ac H9,9682
+H3K4me3 Brain Germinal Matrix,10755
+H3K27me3 Fetal Heart,781
+H3K27me3 Penis Foreskin Fibroblast Primary Cells,1649
+H3K27me3 Mesenchymal Stem Cell Derived Adipocyte Cultured Cells,1437
+H3K27ac Brain Inferior Temporal Lobe,4232
+H3K27me3 Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,1004
+H3K4me1 Adult Kidney,5652
+H3K27me3 CD4+ CD25- CD45RA+ Naive Primary Cells,1476
+H3K4me3 Rectal Smooth Muscle,9519
+H3K36me3 CD4+ CD25- CD45RA+ Naive Primary Cells,137
+H3K36me3 CD4 Memory Primary Cells,273
+H3K4me1 Breast Myoepithelial Cells,5445
+H3K36me3 H1 Derived Mesenchymal Stem Cells,1093
+H3K4me1 IMR90,7093
+H3K4me1 iPS DF 6.9,5549
+H2BK15ac H1,4003
+H3K9me3 CD4+ CD25- IL17+ PMA-Ionomcyin stimulated Th17 Primary Cells,37
+H3K4me3 Pancreatic Islets,8861
+H3K9me3 Chondrocytes from Bone Marrow Derived Mesenchymal Stem Cell Cultured Cells,129
+H3K9ac Brain Inferior Temporal Lobe,5416
+H3K4me3 Neurosphere Cultured Cells Ganglionic Eminence Derived,10742
+H3K9me3 Colon Smooth Muscle,92
+H3K4me1 Duodenum Smooth Muscle,2384
+H3K4me1 H1 BMP4 Derived Mesendoderm Cultured Cells,5359
+H3K4me3 Colonic Mucosa,12388
+H3K27me3 Stomach Smooth Muscle,993
+H3K27ac H9,6048
+H3K27ac H1,8921
+H3K27me3 H9,2453
+H3K4me1 Mesenchymal Stem Cell Derived Adipocyte Cultured Cells,5812
+H3K9ac CD8 Naive Primary Cells,4254
+H3K27me3 H1,4826
+H3K36me3 Brain Germinal Matrix,166
+H3K9me3 Duodenum Smooth Muscle,65
+H3K27me3 Pancreatic Islets,1174
+H3K27me3 Rectal Smooth Muscle,1601
+H3K27me3 CD8 Naive Primary Cells,2258
+H3K27ac Brain Cingulate Gyrus,4562
+H3K27me3 H1 BMP4 Derived Mesendoderm Cultured Cells,2482
+H3K27ac IMR90,10600
+H3K27me3 Adipose Derived Mesenchymal Stem Cell Cultured Cells,1400
+H3K9me3 Fetal Brain,115
+H3K9me3 Brain Substantia Nigra,89
+H3K4me3 H1 BMP4 Derived Trophoblast Cultured Cells,12957
+H3K9me3 Stomach Smooth Muscle,217
+H3K27me3 CD4+ CD25- Th Primary Cells,1021

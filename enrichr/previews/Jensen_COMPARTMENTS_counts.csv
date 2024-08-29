@@ -1,0 +1,2284 @@
+Pathway,Count
+Sperm head plasma membrane,12
+Sperm individualization complex,11
+Sperm plasma membrane,121
+Sphere organelle,8
+Spindle envelope,6
+Spindle matrix,18
+Spindle pole body,190
+Spine apparatus,107
+Spore wall,94
+Sporoplasm,14
+Spot adherens junction,5
+Starch grain,111
+Starch utilization system complex,17
+Stereocilia coupling link,11
+Stereocilia tip link,11
+Stereocilia tip-link density,7
+Stigma papilla,6
+Storage vacuole,54
+Stromule,13
+Subapical complex,228
+Sublamina densa,28
+Subpellicular microtubule,18
+Subrhabdomeral cisterna,51
+Subsarcolemmal mitochondrion,68
+Subsynaptic reticulum,45
+Subtelomeric heterochromatin,28
+Succinate dehydrogenase complex,184
+Sulfurtransferase complex,59
+Superoxide dismutase complex,227
+Supraspliceosomal complex,27
+Survivin complex,429
+Sweet taste receptor complex,24
+Swi5-Sfr1 complex,11
+Symbiosome,58
+Symmetric synapse,75
+Symplast,98
+Synapse associated extracellular matrix,6
+Synaptic vesicle lumen,5
+Synaptic vesicle protein transport vesicle,75
+"Synaptic vesicle, readily releasable pool",76
+"Synaptic vesicle, resting pool",11
+Syntrophin complex,126
+Syp1 complex,16
+T-bar,38
+TAP complex,64
+TAT protein transport complex,36
+TCR signalosome,38
+TORC1 complex,342
+TRAIL death-inducing signaling complex,19
+TRAMP complex,242
+TRC complex,177
+TSC1-TSC2 complex,149
+Taste receptor complex,80
+Taurine dioxygenase complex,33
+Tectum,51
+Telomeric heterochromatin,43
+Terminal loop,180
+Terminal web,89
+Thioglucosidase complex,14
+Thorny excrescence,26
+Thrombospondin complex,317
+Thylakoid,298
+Thylakoid light-harvesting complex,57
+Thylakoid lumen,49
+Thylakoid membrane,196
+Thylakoid part,294
+Tic complex,193
+Toc complex,137
+Trans spliceosomal complex,6
+Transcription export complex 2,63
+Transcriptional preinitiation complex,273
+Transcriptionally silent chromatin,75
+Transforming growth factor beta activated kinase 1 complex,143
+Transforming growth factor beta receptor homodimeric complex,157
+Transforming growth factor beta type I receptor homodimeric complex,108
+Transforming growth factor beta type II receptor homodimeric complex,105
+Transforming growth factor beta1-type II receptor complex,25
+Translation initiation complex,266
+Translation release factor complex,10
+Translation repressor complex,40
+Translocon complex,161
+Transmembrane actin-associated (TAN) line,6
+Transverse filament,28
+Tricellular tight junction,20
+Trichocyst,26
+Tripartite ATP-independent periplasmic transporter complex,9
+Tubular endosome,70
+Tubulin complex,766
+Tubulin folding cofactor complex,17
+Tubulobulbar complex,165
+Tumor necrosis factor receptor superfamily complex,164
+Type I interferon receptor complex,34
+Type I terminal bouton,45
+Type II polyketide synthase complex,34
+Type II protein secretion system complex,11
+Type III intermediate filament,946
+Type III polyketide synthase complex,18
+Type III protein secretion system complex,163
+Type III site-specific deoxyribonuclease complex,7
+Type IV pilus,120
+Type IV secretion system complex,144
+Type V protein secretion system complex,5
+Type VI protein secretion system complex,69
+U11 snRNP,13
+U11/U12 snRNP,5
+U2AF,107
+U4/U6 snRNP,38
+U4atac snRNP,5
+U4atac/U6atac snRNP,5
+UBC13-MMS2 complex,25
+UBC13-UEV1A complex,32
+UDP-N-acetylglucosamine transferase complex,5
+UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase complex,25
+UFD1-NPL4 complex,53
+USH2 complex,24
+UTP-C complex,6
+Ubisch body,31
+Uniplex complex,41
+Upper tip-link density,7
+Urease complex,84
+Uropod membrane,5
+VCP-NSFL1C complex,6
+VEGF-A complex,639
+Vacuolar HOPS complex,9
+Vacuolar transporter chaperone complex,40
+Ventral disc,22
+Viral assembly compartment,35
+Viral integration complex,252
+Viral occlusion body,5
+Viral transcriptional complex,27
+Vitelline envelope,52
+W chromosome,63
+WICH complex,67
+Weibel-Palade body,99
+Wnt-Frizzled-LRP5/6 complex,12
+XPC complex,160
+XRCC2-RAD51D complex,48
+Xanthine dehydrogenase complex,31
+Xanthophore,51
+Xylanosome,48
+Y-shaped link,21
+Yolk,85
+Yolk granule,32
+Yolk plasma,6
+Z chromosome,90
+[Ni-Fe] hydrogenase complex,65
+acetyl-CoA carboxylase complex,122
+acetyl-CoA decarbonylase/synthase-carbon monoxide dehydrogenase complex,9
+"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)",10
+"alpha-1,6-mannosyltransferase complex",10
+alpha-beta T cell receptor complex,106
+aminoacyl-tRNA synthetase multienzyme complex,97
+archaeal-type flagellum,10
+ascospore-type prospore,71
+bacterial-type flagellum,59
+bacterial-type flagellum filament,35
+bacterial-type flagellum hook,25
+bacterial-type flagellum part,53
+bacteroid-containing symbiosome,23
+beta-galactosidase complex,303
+beta-heterochromatin,21
+bub1-bub3 complex,7
+calcium- and calmodulin-dependent protein kinase complex,158
+carbamoyl-phosphate synthase complex,24
+chaperone-mediated autophagy translocation complex,10
+"chromosome, centromeric core domain",55
+cyclic-nucleotide phosphodiesterase complex,60
+cyclin-dependent protein kinase activating kinase holoenzyme complex,55
+cyclin/CDK positive transcription elongation factor complex,161
+dolichol-phosphate-mannose synthase complex,19
+dolichyl-phosphate-mannose-protein mannosyltransferase complex,17
+eNoSc complex,14
+exon-exon junction subcomplex mago-y14,7
+follicle-stimulating hormone complex,212
+fungal-type cell wall,20
+gamma-delta T cell receptor complex,131
+gamma-secretase complex,278
+gamma-tubulin small complex,29
+"gamma-tubulin small complex, spindle pole body",13
+glutamate-cysteine ligase complex,79
+glutamyl-tRNA(Gln) amidotransferase complex,119
+glycerol-3-phosphate dehydrogenase complex,93
+glycine-gated chloride channel complex,10
+glycosylphosphatidylinositol-mannosyltransferase I complex,10
+haptoglobin-hemoglobin complex,29
+high-affinity iron permease complex,6
+horsetail-astral microtubule array,77
+i-AAA complex,39
+inaD signaling complex,5
+insulin-like growth factor ternary complex,5
+interleukin-1 receptor complex,121
+interleukin-12 complex,504
+interleukin-12 receptor complex,49
+interleukin-13 receptor complex,34
+interleukin-18 receptor complex,21
+interleukin-2 receptor complex,121
+interleukin-20 receptor complex,5
+interleukin-23 complex,456
+interleukin-23 receptor complex,44
+interleukin-27 complex,222
+interleukin-28 receptor complex,25
+interleukin-3 receptor complex,45
+interleukin-35 complex,281
+interleukin-4 receptor complex,48
+interleukin-5 receptor complex,30
+interleukin-6 receptor complex,57
+interleukin-9 receptor complex,25
+intermediate-density lipoprotein particle,69
+iron-sulfur cluster assembly complex,92
+iron-sulfur cluster transfer complex,48
+laminin-1 complex,144
+laminin-10 complex,50
+laminin-11 complex,11
+laminin-2 complex,60
+laminin-4 complex,6
+laminin-5 complex,156
+laminin-6 complex,10
+laminin-8 complex,29
+light-harvesting complex,184
+"light-harvesting complex, core complex",107
+"light-harvesting complex, peripheral complex",95
+m-AAA complex,43
+mRNA cap methyltransferase complex,29
+mRNA cleavage stimulating factor complex,57
+mRNA editing complex,125
+methionine-importing complex,13
+methylcrotonoyl-CoA carboxylase complex,14
+micropexophagy-specific membrane apparatus,25
+minus-end kinesin complex,7
+monolayer-surrounded lipid storage body,59
+nitric-oxide synthase complex,236
+non-growing cell tip,7
+nucleolus-like body,38
+nucleotide-excision repair factor 1 complex,26
+nucleotide-excision repair factor 2 complex,26
+nucleotide-excision repair factor 3 complex,65
+nucleotide-excision repair factor 4 complex,7
+nucleus-vacuole junction,9
+oncostatin-M receptor complex,22
+peri-centrosomal recycling endosome,5
+piP-body,10
+piccolo-bassoon transport vesicle,18
+plant-type cell wall,226
+plant-type vacuole,165
+plant-type vacuole membrane,143
+plastid-encoded plastid RNA polymerase complex,132
+plastid-encoded plastid RNA polymerase complex A,100
+plastid-encoded plastid RNA polymerase complex B,97
+platelet-derived growth factor complex,268
+plus-end kinesin complex,11
+post-anaphase microtubule array,72
+pre-B cell receptor complex,101
+pre-T cell receptor complex,112
+pre-primosome complex,82
+pre-replicative complex,131
+procollagen-proline 4-dioxygenase complex,8
+proteasome-activating nucleotidase complex,23
+protein-DNA-RNA complex,5
+protein-carbohydrate complex,118
+pyrophosphate-dependent phosphofructokinase complex,51
+pyrroline-5-carboxylate reductase complex,6
+rDNA heterochromatin,10
+"retromer, cargo-selective complex",8
+ribonucleoside-diphosphate reductase complex,211
+senescence-associated heterochromatin focus,59
+separase-securin complex,16
+serine-type peptidase complex,8
+serotonin-activated cation-selective channel complex,78
+single-stranded DNA-binding protein complex,220
+skein-like inclusion,29
+sub-surface cisterna,29
+succinate-CoA ligase complex,21
+succinate-CoA ligase complex (ADP-forming),10
+succinate-CoA ligase complex (GDP-forming),9
+sucrase-isomaltase complex,71
+syndecan-syntenin-ALIX complex,5
+t-UTP complex,26
+tRNA methyltransferase complex,17
+tRNA-intron endonuclease complex,32
+telomere-telomerase complex,14
+trans-synaptic protein complex,17
+trimethylamine-N-oxide reductase complex,6
+voltage-gated sodium channel complex,122
+Integrin alphav-beta1 complex,18
+Integrin alphav-beta3 complex,142
+Integrin alphav-beta5 complex,68
+Integrin alphav-beta6 complex,43
+Integrin alphav-beta8 complex,8
+Intercalary heterochromatin,10
+Interchromatin granule,90
+Interferon regulatory factor 3 complex,148
+Interferon regulatory factor 5 complex,59
+Interferon regulatory factor 7 complex,98
+Interferon regulatory factor complex,235
+Interfibrillar mitochondrion,7
+Internode region of axon,65
+Interphase microtubule organizing center,9
+Interphotoreceptor matrix,20
+Intine,16
+Intracellular canaliculus,27
+Intracellular ferritin complex,26
+Intracellular immature spore,81
+Intramolecular phosphotransferase complex,61
+Intrinsic component of cell outer membrane,74
+Intrinsic component of periplasmic side of cell outer membrane,74
+Investment cone,5
+Inward rectifier potassium channel complex,117
+Ire1 complex,185
+Iridosome,28
+IscS-IscU complex,6
+Isoamylase complex,15
+Isw1 complex,46
+Isw1a complex,23
+Isw1b complex,12
+Katanin complex,62
+Keratohyalin granule,58
+Kibra-Ex-Mer complex,22
+Kinesin I complex,40
+Kinesin II complex,62
+Kinetochore microtubule,109
+Kinetoplast,129
+Kir2 inward rectifier potassium channel complex,120
+L-cysteine desulfurase complex,126
+L-type voltage-gated calcium channel complex,110
+LUBAC complex,59
+LYSP100-associated nuclear domain,116
+Lamellar body membrane,17
+Lamin filament,27
+Lamina densa,57
+Lamina lucida,48
+Lamina reticularis,29
+Laminated body,101
+Large latent transforming growth factor-beta complex,40
+Larval serum protein complex,7
+Late recombination nodule,6
+Lateral loop,81
+Leaflet of membrane bilayer,46
+Left nucleus,20
+Leucoplast,21
+Lewy body-like hyaline inclusion,24
+Lewy neurite,42
+Lipid tube,9
+Lipopolysaccharide receptor complex,57
+Lobed nucleus,35
+Longitudinal sarcoplasmic reticulum,18
+Lsd1/2 complex,31
+Lsm1-7-Pat1 complex,9
+Lst4-Lst7 complex,11
+Luminal surveillance complex,11
+Lysosomal glycocalyx,6
+Lysosomal matrix,18
+Lysosomal multienzyme complex,10
+MAD1 complex,138
+MCM core complex,15
+MECO complex,29
+MHC class I peptide loading complex,68
+MHC class Ib protein complex,15
+MIS complex,103
+MMXD complex,6
+MPF complex,9
+MPT synthase complex,9
+MSL complex,62
+MTREC complex,5
+Macrolide transmembrane transporter complex,29
+Macronucleus,110
+Macropinocytic cup,28
+Macropinosome,94
+Mad-Max complex,19
+Magnesium chelatase complex,5
+MalFGK2 complex,8
+Male pronucleus,114
+Maltose transport complex,21
+Manchette,111
+Mannosyltransferase complex,93
+Mating projection,64
+Mating projection tip,19
+Medial cortex,66
+Medial cortical node,8
+Median body,79
+Megasome,11
+Megasporocyte nucleus,13
+Meiotic recombination initiation complex,19
+Meiotic spindle pole,7
+Membrane stack,31
+Meprin A complex,47
+Mesaxon,40
+Mesosome,10
+Messenger ribonucleoprotein complex,291
+Metallochaperone complex,34
+Metaphase plate,150
+Methane monooxygenase complex,27
+Methionine adenosyltransferase complex,50
+Methyl accepting chemotaxis protein complex,43
+Microneme,79
+Micronucleus,126
+Microprocessor complex,60
+Micropyle,61
+Microspike,108
+Microtubule bundle,110
+Microtubule minus-end,71
+Microvesicle,317
+Microvillar actin bundle,10
+Middle lamella,24
+Mis6-Sim4 complex,8
+Mitochondrial alpha-ketoglutarate dehydrogenase complex,7
+Mitochondrial chromosome,589
+Mitochondrial cloud,53
+Mitochondrial creatine kinase complex,67
+Mitochondrial crista,105
+Mitochondrial crista junction,25
+Mitochondrial degradosome,8
+Mitochondrial derivative,7
+Mitochondrial fatty acid beta-oxidation multienzyme complex,62
+Mitochondrial inner membrane assembly complex,8
+Mitochondrial inner membrane peptidase complex,223
+Mitochondrial inner membrane protein insertion complex,40
+Mitochondrial permeability transition pore complex,284
+Mitochondrial processing peptidase complex,53
+Mitochondrial prohibitin complex,11
+Mitochondrial pyruvate dehydrogenase complex,65
+Mitochondrial respiratory chain supercomplex,9
+Mitochondrial ribonuclease P complex,26
+Mitochondrial sorting and assembly machinery complex,124
+Mitosome,41
+Mitotic checkpoint complex,133
+"Mitotic checkpoint complex, CDC20-MAD2 subcomplex",9
+Mitotic cohesin complex,28
+Mitotic spindle assembly checkpoint MAD1-MAD2 complex,27
+Mitotic spindle microtubule,37
+Mitotic spindle pole body,22
+Mon1-Ccz1 complex,18
+Monopolin complex,14
+Mossy fiber rosette,8
+Motile primary cilium,45
+Mpp10 complex,31
+Mre11 complex,295
+MsbA transporter complex,29
+Mst2 histone acetyltransferase complex,97
+Mucin granule,39
+Mucocyst,6
+Mucus layer,446
+Multimerin complex,104
+Muscle cell projection,19
+Muscle tendon junction,114
+MutLalpha complex,38
+MutLbeta complex,10
+MutLgamma complex,23
+MutS complex,92
+MutSalpha complex,44
+MutSbeta complex,42
+Myb complex,414
+Mycolate outer membrane,78
+Myosin I complex,61
+Myosin II filament,17
+Myosin III complex,14
+Myosin IX complex,6
+Myosin V complex,68
+Myosin VI complex,121
+Myosin VII complex,20
+Myosin X complex,73
+Myosin XI complex,12
+Myosin XII complex,5
+Myosin XV complex,20
+Myosin phosphatase complex,57
+NELF complex,101
+NF-kappaB complex,864
+NF-kappaB p50/p65 complex,39
+NLRP1 inflammasome complex,32
+NMS complex,95
+NPHP complex,84
+NSL complex,59
+NURS complex,21
+NarGHI complex,18
+Nascent polypeptide-associated complex,336
+NatA complex,35
+NatB complex,41
+NatC complex,47
+Ndc80 complex,96
+Nebenkern,7
+Negative cofactor 2 complex,22
+Nematocyst,17
+Nematosome,12
+Nephrocyte diaphragm,6
+Neurofibrillary tangle,130
+Neurofilament cytoskeleton,9
+Neuronal ribonucleoprotein granule,23
+Neurosecretory vesicle,51
+New mitotic spindle pole body,13
+Nitrate reductase complex,85
+Nitrogenase complex,63
+NoRC complex,145
+Noc complex,106
+Noc4p-Nop14p complex,18
+Nodal receptor complex,51
+Nrd1 complex,71
+Nuclear MIS12/MIND complex,85
+Nuclear RNA export factor complex,42
+Nuclear RNA-directed RNA polymerase complex,28
+Nuclear SCF ubiquitin ligase complex,7
+Nuclear aryl hydrocarbon receptor complex,23
+Nuclear cap binding complex,71
+Nuclear dicing body,11
+Nuclear microtubule,15
+Nuclear pericentric heterochromatin,16
+Nuclear pore cytoplasmic filaments,7
+Nuclear pore inner ring,25
+Nuclear pore linkers,25
+Nuclear pore transmembrane ring,35
+Nuclear stress granule,14
+Nucleocytoplasmic shuttling complex,190
+Nucleolar chromatin,101
+Nucleolar preribosome,14
+Nucleolus organizer region,82
+Nucleomorph,33
+Nucleoplasmic reticulum,14
+Nucleosomal methylation activator complex,6
+Nucleosome disassembly/reassembly complex,7
+Omega speckle,14
+Omegasome,46
+Ooplasm,132
+Oral apparatus,30
+Ornithine carbamoyltransferase complex,29
+Orthogonal array,72
+Osmiophilic body,17
+Ost-alpha/Ost-beta complex,28
+Other organism cell membrane,8
+Other organism membrane,8
+Outer acrosomal membrane,63
+Outer dynein arm,73
+Outer mucus layer,11
+P-TEFb complex,145
+PAN complex,35
+PAS complex,49
+PBAF complex,60
+PCNA complex,785
+PCNA-p21 complex,10
+PCSK9-LDLR complex,15
+PET complex,92
+PHA granule,42
+PR-DUB complex,19
+PSI associated light-harvesting complex I,23
+PSII associated light-harvesting complex II,53
+PTEN phosphatase complex,279
+Pairing center,13
+Paraferritin complex,7
+Parallel actin filament bundle,12
+Parallel fiber,170
+Paranodal junction,49
+PeBoW complex,12
+Pellicle,442
+Peptidase inhibitor complex,96
+Peribacteroid membrane,23
+Pericanalicular vesicle,13
+Pericellular basket,31
+Perichromatin fibrils,28
+Periciliary membrane compartment,19
+Perineuronal net,92
+Perinuclear endoplasmic reticulum membrane,7
+Perinuclear theca,44
+Perinucleolar compartment,55
+Periplasmic flagellum,11
+Periplasmic side of cell outer membrane,74
+Periplasmic space,487
+Perisynaptic extracellular matrix,6
+Perisynaptic space,37
+Perivitelline space,66
+Peroxisomal importomer complex,82
+Pex17p-Pex14p docking complex,82
+Pexophagosome,7
+Phagolysosome,199
+Phagolysosome membrane,18
+"Phosphatidylinositol 3-kinase complex, class I",83
+"Phosphatidylinositol 3-kinase complex, class IA",55
+"Phosphatidylinositol 3-kinase complex, class IB",17
+"Phosphatidylinositol 3-kinase complex, class II",32
+"Phosphatidylinositol 3-kinase complex, class III, type I",12
+Phosphatidylinositol phosphate phosphatase complex,318
+Phospholamban complex,179
+Phosphomannomutase complex,60
+Phosphopyruvate hydratase complex,160
+Phosphorylase kinase complex,39
+Photosynthetic membrane,293
+Photosystem,249
+Photosystem I,139
+Photosystem I reaction center,25
+Photosystem II,206
+Photosystem II antenna complex,8
+Photosystem II oxygen evolving complex,87
+Photosystem II reaction center,51
+Phragmoplast,49
+Phragmosome,6
+Phycobilisome,58
+Piccolo NuA4 histone acetyltransferase complex,41
+Pick body,60
+Pilus,362
+Pilus part,39
+Pilus shaft,7
+Pilus tip,17
+Pinosome,97
+Pituitary gonadotropin complex,247
+Plant cell papilla,6
+Plasma membrane light-harvesting complex,142
+Plasma membrane respiratory chain,20
+Plasma membrane-derived chromatophore,162
+Plasmodesma,62
+Plastid,673
+Plastid acetyl-CoA carboxylase complex,9
+Plastid chromosome,24
+Plastid envelope,251
+Plastid inner membrane,194
+Plastid membrane,235
+Plastid nucleoid,33
+Plastid outer membrane,141
+Plastid part,392
+Plastid ribosome,82
+Plastid stroma,157
+Plastid thylakoid,95
+Plastid thylakoid lumen,7
+Plastid thylakoid membrane,86
+Plastoglobule,35
+Platelet SNARE complex,6
+Podocyte foot,141
+Podocyte primary projection,9
+Polar microtubule,32
+Polar nucleus,13
+Polar tube,18
+Polarisome,32
+Pollen coat,29
+Pollen tube,82
+Pollen tube tip,28
+Pollen wall,100
+Polycystin complex,70
+Polyhedral organelle,23
+Polyketide synthase complex,273
+Polyphosphate kinase complex,6
+Polytene chromosome,203
+Polytene chromosome band,11
+Polytene chromosome chromocenter,22
+Porosome,17
+Postsynaptic actin cytoskeleton,7
+Postsynaptic cytoskeleton,23
+Postsynaptic cytosol,5
+Postsynaptic density membrane,10
+Postsynaptic specialization membrane,10
+Potassium ion-transporting ATPase complex,9
+Preprophase band,31
+Presequence translocase-associated import motor,14
+Presynaptic active zone cytoplasmic component,168
+Presynaptic cytoskeleton,167
+Presynaptic cytosol,14
+Presynaptic density,65
+Presynaptic grid,15
+Presynaptic periactive zone,20
+Primary cell wall,76
+Primosome complex,37
+Proplastid,45
+Prospore contractile ring,93
+Prospore membrane,70
+Protease inhibitor complex,301
+Proteasome activator complex,115
+Proteasome storage granule,54
+Protein C inhibitor-thrombin complex,5
+Protein N-acetylglucosaminyltransferase complex,45
+Protein body,89
+Protein complex involved in cell-cell adhesion,334
+Protein complex involved in cell-matrix adhesion,199
+Protein farnesyltransferase complex,20
+Protein histidine kinase complex,5
+Protein kinase CK2 complex,302
+Protein phosphatase 4 complex,55
+Protein storage vacuole,38
+Protein tyrosine phosphatase complex,263
+Prothylakoid,5
+Proximal dendrite,174
+Puncta adhaerentia,20
+Pwp2p-containing subcomplex of 90S preribosome,23
+Pyrenoid,24
+Pyroptosome complex,22
+Pyruvate kinase complex,178
+R2TP complex,35
+RAVE complex,32
+RCAF complex,12
+RENT complex,32
+RES complex,200
+RITS complex,35
+RNA nuclear export complex,37
+RNA polymerase II transcription repressor complex,151
+RNA-directed RNA polymerase complex,29
+RPAP3/R2TP/prefoldin-like complex,14
+RQC complex,31
+RSC complex,146
+RSF complex,53
+RZZ complex,20
+Rab-protein geranylgeranyltransferase complex,21
+Rad17 RFC-like complex,16
+Rad51B-Rad51C complex,48
+Rad51C-XRCC3 complex,83
+Rad6-Rad18 complex,26
+Radial spoke,60
+Radial spoke head,14
+Radial spoke stalk,7
+Ragulator complex,50
+RecFOR complex,9
+RecQ helicase-Topo III complex,30
+Recombination nodule,24
+Recurrent axon collateral,17
+Region of cytosol,20
+Replication inhibiting complex,12
+Retrotransposon nucleocapsid,235
+Rhabdomere,54
+Rhabdomere membrane,5
+Rhabdomere microvillus,6
+Rhino-Deadlock-Cutoff Complex,102
+Rhoptry,94
+Rhoptry neck,9
+Rhp55-Rhp57 complex,8
+Ribbon synapse,154
+Ribonuclease H2 complex,22
+Ribonuclease III complex,62
+Ribonuclease MRP complex,36
+Ribose phosphate diphosphokinase complex,39
+Ribulose bisphosphate carboxylase complex,94
+Right nucleus,15
+Rix1 complex,57
+Rod spherule,75
+Root hair,176
+Root hair tip,15
+Rough endoplasmic reticulum lumen,14
+Rpd3L complex,55
+Rpd3S complex,45
+Ryanodine receptor complex,172
+S-layer,119
+S100A8 complex,351
+S100A9 complex,324
+SAS acetyltransferase complex,39
+SC5b-7 complex,7
+SCF-Cdc4 ubiquitin ligase complex,6
+SCF-Skp2 ubiquitin ligase complex,18
+SHREC complex,14
+SLIK (SAGA-like) complex,92
+SMAD2 protein complex,54
+SMAD3 protein complex,55
+SMC loading complex,99
+SMN-Gemin2 complex,17
+SOSS complex,7
+SPOTS complex,23
+SREBP-SCAP complex,5
+STING complex,132
+SUMO activating enzyme complex,26
+SUMO-targeted ubiquitin ligase complex,63
+Sarcosine oxidase complex,17
+Scaffoldin complex,20
+Schwann cell microvillus,13
+Sec61 translocon complex,36
+Secondary cell wall,91
+Sensory dendrite,22
+Septate junction,54
+Septin collar,9
+Septin complex,154
+Septin ring,61
+Serine protease inhibitor complex,189
+Set3 complex,241
+Sexine,66
+Shc-EGFR complex,5
+Shc-Grb2-Sos complex,26
+Shu complex,62
+Sieve plate,27
+Signal peptidase complex,151
+Signal recognition particle receptor complex,164
+Silver ion transmembrane transporter complex,53
+Skeletal muscle myofibril,21
+Ski complex,225
+Slime layer,11
+Slit-Robo signaling complex,47
+Slx1-Slx4 complex,28
+Smooth muscle contractile fiber,25
+Somatic spine,28
+Sorting endosome,116
+Spanning component of plasma membrane,2798
+Specific granule membrane,13
+Spectrosome,8
+Sperm annulus,12
+Sperm connecting piece,5
+Acrosomal matrix,30
+Actin cap,49
+Actin cortical patch,105
+Actin cytoskeleton-regulatory complex,28
+Actin filament bundle of actin-based cell projection,10
+Actin rod,14
+Activin A complex,294
+Activin AB complex,133
+Activin B complex,64
+Activin complex,329
+Activin receptor complex,92
+Actomyosin contractile ring,134
+Adenylyltransferase complex,20
+Adrenomedullin receptor complex,17
+Alkyl hydroperoxide reductase complex,10
+Alpha DNA polymerase:primase complex,9
+Amino acid transport complex,68
+Amphisome,67
+Amylin receptor complex,15
+Amyloplast,85
+Anchoring collagen complex,26
+Annulate lamellae,39
+Annuli extracellular matrix,48
+Anthranilate synthase complex,11
+AnxA2-p11 complex,8
+Apical complex,1315
+Apical cytoplasm,122
+Apical recycling endosome,47
+Apicoplast,108
+Apolipoprotein B mRNA editing enzyme complex,109
+Apoplast,165
+Apoptosome,74
+Apoptotic body,193
+Arbuscule,133
+Aryl hydrocarbon receptor complex,228
+Ascospore wall,6
+Asi complex,189
+Aster,176
+Astral microtubule,113
+Astrocyte end-foot,6
+Atg12-Atg5-Atg16 complex,15
+Attachment organelle,9
+Autosome,276
+Auxin efflux carrier complex,30
+Axon collateral,124
+Axonal spine,13
+Axonemal central apparatus,28
+Axonemal central pair,25
+Axonemal microtubule,104
+Axonemal outer doublet,31
+Azurophil granule membrane,5
+B cell receptor complex,566
+B800-820 antenna complex,53
+B800-850 antenna complex,67
+B875 antenna complex,107
+BAD-BCL-2 complex,32
+BAD-BCL-xl complex,5
+BAK complex,206
+BAT3 complex,167
+BAX complex,689
+BCL-2 complex,1079
+BLOC-2 complex,38
+BLOC-3 complex,44
+BMP receptor complex,164
+BRCA1-B complex,27
+BRCA1-BARD1 complex,33
+BRCA1-C complex,83
+BRCA1-Rad51 complex,5
+BRISC complex,22
+Bacterial nucleoid,165
+Bacterial outer membrane vesicle,12
+Bam protein complex,74
+Barr body,29
+Basal cortex,21
+Basal labyrinth,18
+Basilar dendrite,26
+Basolateral cytoplasm,17
+Basolateral recycling endosome,9
+Bcl-2 family protein complex,1233
+Bfa1-Bub2 complex,11
+Biofilm matrix,116
+Biofilm matrix component,92
+Biotin carboxylase complex,11
+Box C/D snoRNP complex,36
+Box H/ACA snoRNP complex,12
+Brahma complex,139
+BtuCD complex,6
+Bunina body,38
+C bouton,12
+C zone,15
+C-fiber,177
+CAF-1 complex,181
+CBF3 complex,57
+CBM complex,186
+CENP-A containing chromatin,55
+CENP-A containing nucleosome,56
+CENP-A recruiting complex,20
+CERF complex,11
+CGRP receptor complex,55
+CHOP-ATF3 complex,20
+CHRAC,216
+CIA complex,57
+CKM complex,148
+CLRC ubiquitin ligase complex,12
+CMG complex,113
+COMA complex,112
+CORVET complex,32
+CSF1-CSF1R complex,9
+CST complex,84
+CTDK-1 complex,70
+CUGBP1-eIF2 complex,9
+CVT complex,87
+CVT vesicle,19
+Calcineurin complex,131
+Calcitonin family receptor complex,59
+Calprotectin complex,119
+Calyx of Held,80
+Capitate projection,7
+Carboxysome,23
+Cardiac Troponin complex,90
+Cardiac myofibril,44
+Casparian strip,8
+Caspase complex,365
+Cdc42 GTPase complex,62
+Cdc50p-Drs2p complex,8
+Cell envelope Sec protein transport complex,9
+Cell hair,5
+Cell outer membrane,116
+Cell plate,64
+Cell pole,82
+Cell septum,50
+Cell septum part,12
+Cell trailing edge membrane,5
+Cell wall,898
+Cell wall part,104
+Cell wall-bounded periplasmic space,13
+Cellular bud,34
+Cellular bud neck,32
+Cellular bud neck septin ring,32
+Cellular bud neck septin structure,32
+Cellulose microfibril,45
+Cellulose synthase complex,62
+Cellulosome,55
+Central cylinder,35
+Central vacuole,64
+Centralspindlin complex,51
+Cerebellar mossy fiber,36
+Chaperonin ATPase complex,19
+Checkpoint clamp complex,153
+Chiasma,116
+Chloroplast,575
+Chloroplast ATP synthase complex,34
+Chloroplast chromosome,10
+Chloroplast envelope,242
+Chloroplast inner membrane,192
+Chloroplast membrane,236
+Chloroplast nucleoid,15
+Chloroplast outer membrane,141
+Chloroplast part,290
+Chloroplast ribosome,65
+Chloroplast stroma,127
+Chloroplast thylakoid,92
+Chloroplast thylakoid lumen,7
+Chloroplast thylakoid membrane,83
+Chloroplast thylakoid membrane protein complex,76
+Chlorosome,20
+Cholinergic synapse,107
+Chorion,112
+Chromaffin granule membrane,50
+Chromoplast,41
+Chromosome passenger complex,126
+Chromosome segregation-directing complex,7
+Chylomicron remnant,57
+Ciliary inversin compartment,5
+Ciliary necklace,8
+Ciliary neurotrophic factor receptor complex,8
+Ciliary pocket,110
+Ciliary pocket collar,52
+Ciliary pocket membrane,8
+Ciliary shaft,14
+Citrate lyase complex,13
+Classical Lewy body,11
+Clathrin complex,430
+Cleavage apparatus septin structure,32
+Cleavage body,5
+Climbing fiber,150
+Cobalamin transport complex,13
+Cohesin core heterodimer,19
+Collagen and cuticulin-based cuticle extracellular matrix,48
+Collagen and cuticulin-based cuticle extracellular matrix part,48
+Collagen beaded filament,60
+Collagen sheet,20
+Columella,23
+Complement component C1 complex,69
+Complex laminated body,97
+Condensed chromosome inner kinetochore,15
+Condensed nuclear chromosome outer kinetochore,59
+Cone cell pedicle,75
+Conoid,29
+Contact site,183
+Contractile vacuolar membrane,20
+Contractile vacuole,69
+Copper ion transmembrane transporter complex,53
+Cortical Lewy body,30
+Cortical endoplasmic reticulum,72
+Cortical granule,112
+Cortical layer of collagen and cuticulin-based cuticle extracellular matrix,48
+Cortical microtubule,84
+Cortical microtubule cytoskeleton,133
+Creatine kinase complex,228
+Crystalloid,62
+Cul4B-RING E3 ubiquitin ligase complex,16
+Cul7-RING ubiquitin ligase complex,11
+Curli,89
+Cus cation efflux complex,53
+Cuticular plate,63
+Cyanelle,34
+Cyclin A1-CDK2 complex,9
+Cyclin A2-CDK2 complex,12
+Cyclin B1-CDK1 complex,41
+Cyclin D1-CDK4 complex,42
+Cyclin D1-CDK6 complex,15
+Cyclin D2-CDK4 complex,15
+Cyclin D3-CDK4 complex,32
+Cyclin D3-CDK6 complex,15
+Cyclin E1-CDK2 complex,14
+Cyclin E2-CDK2 complex,16
+Cyclin K-CDK12 complex,5
+Cyclin K-CDK13 complex,5
+Cyst wall,137
+Cysteine synthase complex,9
+Cytochrome b6f complex,52
+Cytolytic granule,85
+Cytoneme,40
+Cytoplasmic U snRNP body,9
+Cytoplasmic chromatin,24
+Cytoplasmic chromosome,590
+Cytoplasmic nucleosome,16
+Cytoplasmic periphery of the nuclear pore complex,9
+Cytoplasmic side of nuclear pore,11
+Cytoproct,10
+Cytoskeletal calyx,7
+Cytoskeleton of presynaptic active zone,168
+Cytosolic aryl hydrocarbon receptor complex,25
+Cytosolic creatine kinase complex,18
+Cytostome,21
+DASH complex,59
+DBIRD complex,6
+DNA bending complex,173
+DNA ligase IV complex,67
+DNA polymerase III complex,48
+DNA polymerase V complex,5
+DNA polymerase processivity factor complex,785
+DNA recombinase complex,31
+DNA replication preinitiation complex,116
+DNA replication termination region,37
+DNA-dependent protein kinase complex,160
+DPS complex,71
+DRM complex,140
+DSIF complex,74
+DUBm complex,24
+Dbf4-dependent protein kinase complex,64
+Dcp1-Dcp2 complex,9
+Decaprenyl diphosphate synthase complex,9
+Deep fiber,11
+Delta1 complex,228
+Dendritic branch,141
+Dendritic branch point,22
+Dendritic filopodium,79
+Dendritic growth cone,29
+Dendritic knob,49
+Dendritic lamellar body,111
+Dendritic microtubule,50
+Dendritic spine neck,239
+Dendritic tree,171
+Dendritic tuft,17
+Dense core granule membrane,11
+Dense fibrillar component,66
+Dentate gyrus mossy fiber,95
+Deuterosome,15
+Diamine N-acetyltransferase complex,25
+Dimethyl sulfoxide reductase complex,11
+Dinoflagellate cingulum,219
+Dinoflagellate epicone,276
+Dinoflagellate hypocone,6
+Dinoflagellate sulcus,24
+Discoidal high-density lipoprotein particle,41
+Divisome complex,12
+DnaB helicase complex,25
+Dom34-Hbs1 complex,12
+Dosage compensation complex,74
+Dsl1p complex,21
+Dystrobrevin complex,75
+EARP complex,13
+EFF-1 complex,21
+EGO complex,149
+EKC/KEOPS complex,10
+EMILIN complex,137
+ER body,8
+ER membrane insertion complex,251
+ERBB4-EGFR complex,10
+ERBB4-ERBB3 complex,6
+ERBB4-ERBB4 complex,5
+ERCC4-ERCC1 complex,58
+ERMES complex,30
+ESCRT II complex,52
+ESCRT-0 complex,93
+Ectoplasm,104
+Efflux pump complex,238
+Egg coat,108
+Eisosome,24
+Elastic fiber,171
+Electron transfer flavoprotein complex,61
+Elg1 RFC-like complex,17
+EmrE multidrug transporter complex,19
+Endocytic patch,108
+Endosomal scaffold complex,34
+Endospore external encapsulating structure,10
+Endothelial microparticle,56
+Enhanceosome,117
+Ensheathing process,40
+Epidermal lamellar body,20
+Epididymosome,31
+Epsilon DNA polymerase complex,101
+Equatorial cell cortex,7
+Etioplast,51
+Eukaryotic translation elongation factor 1 complex,28
+Eukaryotic translation initiation factor 2 complex,183
+Eukaryotic translation initiation factor 2B complex,84
+Excinuclease repair complex,8
+Exine,90
+Exomer complex,8
+Exosporium,6
+External encapsulating structure part,167
+Extracellular core region of desmosome,10
+Extracellular exosome complex,666
+Extracellular ferritin complex,123
+Extracellular non-membrane-bounded organelle,73
+Extrachromosomal DNA,100
+Extrachromosomal circular DNA,34
+Extrachromosomal rDNA circle,22
+Eyespot apparatus,79
+FACT complex,63
+FAR/SIN/STRIPAK complex,89
+FHF complex,70
+Fatty acid beta-oxidation multienzyme complex,64
+Fatty acid elongase complex,38
+Fatty acid synthase complex,607
+Fc receptor complex,185
+Fc-alpha receptor I complex,10
+Fc-epsilon receptor I complex,77
+Fc-gamma receptor I complex,47
+Fc-gamma receptor III complex,50
+Female germ cell nucleus,326
+Female germline ring canal,6
+Ferritin complex,283
+Fertilization envelope,30
+Fibrillary inclusion,13
+Food vacuole,81
+Formate dehydrogenase complex,133
+Fumarate reductase complex,32
+Fusome,22
+G-protein beta/gamma-subunit complex,13
+G-protein coupled receptor complex,641
+G-protein coupled receptor dimeric complex,51
+G-protein coupled receptor heterodimeric complex,12
+G-protein coupled receptor homodimeric complex,12
+GABA-ergic synapse,153
+GAIT complex,500
+GARP complex,137
+GATOR2 complex,24
+GCH1 complex,157
+GET complex,47
+GID complex,50
+GINS complex,70
+GMP reductase complex,22
+GO:0000805,312
+GO:0000806,144
+GO:0042603,90
+GPI-anchor transamidase complex,11
+GTPase activator complex,59
+Galectin complex,334
+Gas vesicle,36
+Gemmule,8
+Germ tube,185
+Germinal vesicle,326
+Germline ring canal,7
+Giant axon,84
+Gin4 complex,32
+Glial cytoplasmic inclusion,95
+Glial filament,62
+Glucose transporter complex,395
+Glucosidase II complex,48
+Glucosidase complex,124
+Glutamate decarboxylase complex,82
+Glutamate dehydrogenase complex,231
+Glutamate synthase complex,25
+Glutamatergic postsynaptic density,17
+Glutamatergic synapse,241
+Glutaminase complex,80
+Glutathione hydrolase complex,60
+Glutathione synthase complex,35
+Glycine cleavage complex,72
+Glycocalyx,196
+Glycolate oxidase complex,26
+Glycoprotein Ib-IX-V complex,94
+Glycoprotein network,48
+Glycosome,103
+Glyoxysomal membrane,17
+Glyoxysome,76
+Golgi to ER transport vesicle,22
+Golgi trans cisterna,122
+Granular component,93
+Granular vesicle,68
+Granulocyte macrophage colony-stimulating factor receptor complex,42
+Granum,57
+Grb2-EGFR complex,8
+Grb2-Shc complex,11
+Grb2-Sos complex,57
+GroEL-GroES complex,19
+Growing cell tip,32
+Growth cone filopodium,49
+Growth cone lamellipodium,20
+Growth hormone receptor complex,62
+Gut granule,21
+H zone,36
+H-NS complex,139
+H-gal-GP complex,12
+HCN channel complex,84
+HCN2 channel complex,22
+HCN4 channel complex,15
+HDA1 complex,83
+HICS complex,27
+HIR complex,160
+HOPS complex,110
+HSP90-CDC37 chaperone complex,23
+HULC complex,48
+Haustorium,161
+Heavy chain immunoglobulin complex,62
+Hedgehog signaling complex,125
+Hemidesmosome associated protein complex,5
+Heparanase complex,82
+Herring body,22
+Heterochromatin domain,74
+Heterochromatin island,6
+Hippocampal mossy fiber,51
+Histone H3-K14 acetyltransferase complex,97
+Histone locus body,123
+Holliday junction resolvase complex,50
+Hyaline inclusion,47
+Hyaline layer,17
+Hyaluranon cable,18
+Hydrogenosomal membrane,6
+Hydrogenosome,65
+Hyphal cell wall,15
+Hyphal tip,99
+Hypolemmal cisterna,30
+I(KACh) inward rectifier potassium channel complex,11
+IHF-DNA complex,78
+IKKalpha-IKKalpha complex,11
+INA complex,51
+IPAF inflammasome complex,10
+IgA B cell receptor complex,46
+IgA immunoglobulin complex,41
+IgD B cell receptor complex,64
+IgD immunoglobulin complex,64
+IgE B cell receptor complex,54
+IgE immunoglobulin complex,57
+IgG B cell receptor complex,68
+IgG immunoglobulin complex,576
+IgM B cell receptor complex,130
+IgM immunoglobulin complex,129
+Iml1 complex,29
+"Immunoglobulin complex, circulating",106
+Inhibin A complex,105
+Inhibin B complex,98
+Inhibin complex,176
+Inhibitory neuromuscular junction,7
+Inner acrosomal membrane,44
+Inner dynein arm,53
+Inner membrane complex,415
+Inner mucus layer,25
+Insulin receptor complex,156
+Integrin alpha1-beta1 complex,76
+Integrin alpha11-beta1 complex,16
+Integrin alpha2-beta1 complex,98
+Integrin alpha3-beta1 complex,112
+Integrin alpha4-beta1 complex,185
+Integrin alpha4-beta7 complex,59
+Integrin alpha5-beta1 complex,154
+Integrin alpha6-beta1 complex,108
+Integrin alpha6-beta4 complex,90
+Integrin alpha7-beta1 complex,38
+Integrin alpha8-beta1 complex,10
+Integrin alpha9-beta1 complex,29
+Integrin alphaE-beta7 complex,21
+Integrin alphaIIb-beta3 complex,116
+Integrin alphaL-beta2 complex,31
+Integrin alphaM-beta2 complex,48
+Integrin alphaX-beta2 complex,14
+MLL5-L complex,7
+MOZ/MORF histone acetyltransferase complex,6
+Macromolecular complex,4527
+Main axon,55
+Male germ cell nucleus,13
+Mast cell granule,19
+Mediator complex,32
+Meiotic cohesin complex,6
+Meiotic spindle,7
+Melanosome,103
+Melanosome membrane,10
+Membrane attack complex,6
+Membrane coat,81
+Membrane microdomain,257
+Membrane part,6384
+Membrane raft,257
+Membrane region,329
+Methylosome,11
+Methyltransferase complex,84
+Microbody,127
+Microbody lumen,44
+Microbody membrane,56
+Microbody part,91
+Microfibril,9
+Microtubule associated complex,142
+Microtubule end,20
+Microtubule organizing center attachment site,7
+Microtubule organizing center part,143
+Microtubule plus-end,15
+Microvillus,70
+Microvillus membrane,17
+Midbody,128
+Mismatch repair complex,6
+Mitochondrial envelope,716
+Mitochondrial inner membrane,486
+Mitochondrial inner membrane presequence translocase complex,10
+Mitochondrial intermembrane space,77
+Mitochondrial intermembrane space protein transporter complex,5
+Mitochondrial large ribosomal subunit,36
+Mitochondrial matrix,417
+Mitochondrial membrane,674
+Mitochondrial membrane part,190
+Mitochondrial nucleoid,42
+Mitochondrial outer membrane,160
+Mitochondrial outer membrane translocase complex,8
+Mitochondrial part,975
+Mitochondrial proton-transporting ATP synthase complex,20
+"Mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",10
+Mitochondrial respiratory chain,84
+Mitochondrial respiratory chain complex I,47
+Mitochondrial respiratory chain complex III,9
+Mitochondrial respiratory chain complex IV,13
+Mitochondrial ribosome,76
+Mitochondrial small ribosomal subunit,24
+Mitochondrial tricarboxylic acid cycle enzyme complex,5
+Mitotic spindle,51
+Mitotic spindle midzone,8
+Mitotic spindle pole,8
+Motile cilium,124
+Multimeric ribonuclease P complex,7
+Multivesicular body,37
+Multivesicular body lumen,6
+Multivesicular body membrane,8
+Muscle myosin complex,18
+Myelin sheath,164
+Myelin sheath abaxonal region,5
+Myelin sheath adaxonal region,5
+Myofibril,205
+Myofilament,23
+Myosin II complex,24
+Myosin complex,67
+Myosin filament,21
+N-terminal protein acetyltransferase complex,9
+NADH dehydrogenase complex,47
+NADPH oxidase complex,9
+NLRP3 inflammasome complex,5
+NMDA selective glutamate receptor complex,10
+NURF complex,5
+Neurofilament,5
+Neuromuscular junction,54
+Neuron part,1287
+Neuron projection,936
+Neuron projection membrane,34
+Neuron projection terminus,123
+Neuron spine,106
+Neuron to neuron synapse,8
+Neuronal cell body,403
+Neuronal cell body membrane,17
+Neurotransmitter receptor complex,41
+Node of Ranvier,13
+Nonhomologous end joining complex,8
+Nonmotile primary cilium,122
+NuA4 histone acetyltransferase complex,17
+NuRD complex,12
+Nuclear DNA-directed RNA polymerase complex,118
+Nuclear body,348
+Nuclear chromatin,292
+Nuclear chromosome,496
+Nuclear chromosome part,461
+"Nuclear chromosome, telomeric region",109
+Nuclear cohesin complex,5
+Nuclear cyclin-dependent protein kinase holoenzyme complex,6
+Nuclear envelope lumen,7
+Nuclear euchromatin,24
+Nuclear exosome (RNase complex),13
+Nuclear heterochromatin,30
+Nuclear inclusion body,12
+Nuclear inner membrane,53
+Nuclear lamina,9
+Nuclear matrix,95
+Nuclear membrane part,15
+Nuclear nucleosome,38
+Nuclear origin of replication recognition complex,8
+Nuclear outer membrane,23
+Nuclear outer membrane-endoplasmic reticulum membrane network,992
+Nuclear periphery,119
+Nuclear pore,74
+Nuclear pore central transport channel,6
+Nuclear pore nuclear basket,5
+Nuclear pore outer ring,8
+Nuclear proteasome complex,6
+Nuclear replication fork,29
+Nuclear replisome,17
+Nuclear speck,194
+Nuclear telomere cap complex,12
+Nuclear transcriptional repressor complex,26
+Nuclear ubiquitin ligase complex,38
+Nucleoid,43
+Nucleolar part,59
+Nucleolar ribonuclease P complex,7
+Nucleoplasm,2930
+Nucleoplasm part,700
+Nucleosome,95
+Occluding junction,115
+Oligosaccharyltransferase complex,9
+Organellar large ribosomal subunit,36
+Organellar ribosome,76
+Organellar small ribosomal subunit,24
+Organelle envelope lumen,84
+Organelle inner membrane,542
+Organelle membrane contact site,11
+Organelle outer membrane,182
+Organelle subcompartment,313
+Origin recognition complex,8
+Other organism,17
+Other organism cell,17
+Other organism part,17
+Outer dense fiber,7
+Outer membrane,187
+Outer mitochondrial membrane protein complex,10
+Oxidoreductase complex,101
+Oxoglutarate dehydrogenase complex,5
+P granule,16
+PCAF complex,5
+PML body,94
+PRC1 complex,11
+PTW/PP1 phosphatase complex,6
+Palmitoyltransferase complex,10
+Paranode region of axon,10
+Paraspeckles,5
+PcG protein complex,30
+Pericentric heterochromatin,16
+Pericentriolar material,18
+Perikaryon,104
+Perinuclear endoplasmic reticulum,11
+Perinuclear region of cytoplasm,626
+Peroxisomal matrix,44
+Peroxisomal membrane,57
+Peroxisomal part,92
+Peroxisome,128
+Phagocytic cup,18
+Phagocytic vesicle,86
+Phagocytic vesicle membrane,57
+Phosphatase complex,40
+Phosphatidylinositol 3-kinase complex,19
+"Phosphatidylinositol 3-kinase complex, class III",6
+Photoreceptor connecting cilium,32
+Photoreceptor disc membrane,18
+Photoreceptor inner segment,37
+Photoreceptor outer segment,71
+Photoreceptor outer segment membrane,14
+Pigment granule,104
+Plasma lipoprotein particle,37
+Plasma membrane part,2517
+Plasma membrane protein complex,471
+Plasma membrane raft,75
+Plasma membrane receptor complex,153
+Plasma membrane region,913
+Platelet alpha granule,72
+Platelet alpha granule lumen,54
+Platelet alpha granule membrane,10
+Platelet dense granule,19
+Platelet dense granule lumen,13
+Platelet dense tubular network,10
+Platelet dense tubular network membrane,8
+Podosome,23
+Pole plasm,15
+Polysomal ribosome,5
+Polysome,40
+Pore complex,16
+Postsynapse,367
+Postsynaptic density,177
+Postsynaptic membrane,208
+Postsynaptic specialization,177
+Potassium channel complex,79
+Precatalytic spliceosome,24
+Prefoldin complex,6
+Preribosome,70
+Prespliceosome,20
+Presynapse,274
+Presynaptic active zone,28
+Presynaptic membrane,59
+Primary cilium,122
+Primary lysosome,15
+Pronucleus,14
+Proteasome accessory complex,25
+Proteasome complex,63
+Proteasome core complex,21
+"Proteasome core complex, alpha-subunit complex",8
+Proteasome regulatory particle,21
+"Proteasome regulatory particle, base subcomplex",8
+"Proteasome regulatory particle, lid subcomplex",7
+Protein acetyltransferase complex,93
+Protein complex,3800
+Protein complex involved in cell adhesion,32
+Protein kinase complex,78
+Protein phosphatase type 1 complex,8
+Protein phosphatase type 2A complex,15
+Protein serine/threonine phosphatase complex,40
+Proteinaceous extracellular matrix,347
+Prp19 complex,11
+Pseudopodium,15
+Pyruvate dehydrogenase complex,7
+RISC complex,9
+RISC-loading complex,5
+RNA cap binding complex,13
+RNA polymerase complex,121
+RNAi effector complex,10
+Rad51B-Rad51C-Rad51D-XRCC2 complex,5
+Receptor complex,302
+Recycling endosome,131
+Recycling endosome membrane,39
+Replication fork,49
+Replication fork protection complex,5
+Replisome,18
+Respiratory chain,92
+Respiratory chain complex I,47
+Respiratory chain complex II,3
+Respiratory chain complex III,9
+Respiratory chain complex IV,16
+Retromer complex,9
+Ribonuclease P complex,7
+Ribonucleoprotein complex,738
+Ribonucleoprotein granule,155
+Ribosomal subunit,161
+Ribosome,220
+Ripoptosome,6
+Rough endoplasmic reticulum,62
+Rough endoplasmic reticulum membrane,15
+Ruffle,152
+Ruffle membrane,76
+SAGA complex,12
+SAGA-type complex,29
+SCAR complex,7
+SCF ubiquitin ligase complex,47
+SMAD protein complex,8
+SMN complex,10
+SMN-Sm protein complex,16
+SNARE complex,46
+STAGA complex,13
+SWI/SNF complex,14
+SWI/SNF superfamily-type complex,67
+Sarcoglycan complex,5
+Sarcolemma,112
+Sarcomere,183
+Sarcoplasm,66
+Sarcoplasmic reticulum,59
+Sarcoplasmic reticulum lumen,7
+Sarcoplasmic reticulum membrane,38
+Schmidt-Lanterman incisure,10
+Secondary lysosome,13
+Secretory granule,344
+Secretory granule lumen,85
+Secretory granule membrane,78
+Secretory vesicle,451
+Seh1-associated complex,7
+Semaphorin receptor complex,10
+Septin cytoskeleton,5
+Serine C-palmitoyltransferase complex,8
+Set1C/COMPASS complex,10
+Sex chromatin,5
+Side of membrane,397
+Signal recognition particle,5
+"Signal recognition particle, endoplasmic reticulum targeting",5
+Sin3 complex,10
+Sin3-type complex,13
+Site of double-strand break,28
+Site of polarized growth,137
+Slit diaphragm,7
+Small nuclear ribonucleoprotein complex,59
+Small nucleolar ribonucleoprotein complex,18
+Small ribosomal subunit,63
+Smc5-Smc6 complex,6
+Smooth endoplasmic reticulum,32
+Smooth endoplasmic reticulum membrane,6
+Smooth endoplasmic reticulum part,6
+Sodium channel complex,16
+Somatodendritic compartment,642
+Specific granule,13
+Spectrin,8
+Sperm fibrous sheath,6
+Sperm flagellum,60
+Sperm midpiece,13
+Sperm part,148
+Sperm principal piece,17
+Spherical high-density lipoprotein particle,7
+Spindle,288
+Spindle microtubule,43
+Spindle midzone,27
+Spindle pole,126
+Spindle pole centrosome,7
+Spliceosomal complex,172
+Spliceosomal tri-snRNP complex,24
+Stereocilium,37
+Stereocilium bundle,44
+Stereocilium tip,7
+Stress fiber,45
+Striated muscle thin filament,20
+Swr1 complex,8
+Synapse,737
+Synapse part,594
+Synaptic cleft,7
+Synaptic membrane,270
+Synaptic vesicle,122
+Synaptic vesicle membrane,58
+Synaptonemal complex,35
+T cell receptor complex,12
+T-tubule,40
+THO complex,6
+THO complex part of transcription export complex,5
+TOR complex,10
+TORC2 complex,9
+TRAPP complex,8
+Telomerase holoenzyme complex,12
+Telomere cap complex,12
+Telosome,6
+Terminal bouton,62
+Tertiary granule,5
+Transcription elongation factor complex,46
+Transcription export complex,9
+Transcriptional repressor complex,79
+Transcriptionally active chromatin,20
+Transferase complex,686
+"Transferase complex, transferring phosphorus-containing groups",224
+Translation preinitiation complex,15
+Transmembrane transporter complex,295
+Transport vesicle,333
+Transport vesicle membrane,146
+Transporter complex,302
+Tricarboxylic acid cycle enzyme complex,11
+Troponin complex,7
+U1 snRNP,16
+U12-type spliceosomal complex,25
+U2 snRNP,18
+U2-type prespliceosome,15
+U2-type spliceosomal complex,29
+U4 snRNP,8
+U4/U6 x U5 tri-snRNP complex,19
+U5 snRNP,15
+U6 snRNP,5
+U7 snRNP,6
+Ubiquitin conjugating enzyme complex,8
+Ubiquitin ligase complex,280
+Unconventional myosin complex,7
+Uropod,11
+VCB complex,6
+VCP-NPL4-UFD1 AAA ATPase complex,6
+Vacuolar lumen,113
+Vacuolar membrane,593
+Vacuolar part,700
+Vacuolar proton-transporting V-type ATPase complex,15
+"Vacuolar proton-transporting V-type ATPase, V0 domain",5
+Vacuole,1180
+Varicosity,6
+Vesicle coat,41
+Vesicle lumen,105
+Vesicle membrane,486
+Virion,5
+WASH complex,10
+Whole membrane,1324
+Wnt signalosome,10
+XY body,12
+Z disc,110
+Zona pellucida receptor complex,8
+Zonula adherens,8
+Zymogen granule,12
+Zymogen granule membrane,9
+acetylcholine-gated channel complex,16
+actin-based cell projection,172
+anaphase-promoting complex,18
+beta-catenin destruction complex,12
+cAMP-dependent protein kinase complex,6
+carboxy-terminal domain protein kinase complex,12
+cation-transporting ATPase complex,15
+cell-cell adherens junction,324
+cell-cell contact zone,63
+cell-cell junction,628
+chaperonin-containing T-complex,8
+"chromosome, centromeric region",183
+"chromosome, telomeric region",135
+cis-Golgi network,46
+clathrin-coated endocytic vesicle,53
+clathrin-coated endocytic vesicle membrane,39
+clathrin-coated pit,65
+clathrin-coated vesicle,142
+clathrin-coated vesicle membrane,72
+clathrin-sculpted gamma-aminobutyric acid transport vesicle,7
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane,7
+clathrin-sculpted vesicle,11
+cullin-RING ubiquitin ligase complex,160
+cyclin-dependent protein kinase holoenzyme complex,28
+"cytoplasmic, membrane-bounded vesicle",1147
+death-inducing signaling complex,9
+dystrophin-associated glycoprotein complex,20
+exon-exon junction complex,10
+gamma-tubulin complex,13
+gamma-tubulin large complex,6
+gamma-tubulin ring complex,6
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex,7
+guanyl-nucleotide exchange factor complex,8
+high-density lipoprotein particle,26
+insulin-like growth factor binding protein complex,3
+insulin-responsive compartment,7
+low-density lipoprotein particle,12
+mRNA cap binding complex,11
+mRNA cleavage and polyadenylation specificity factor complex,10
+mRNA cleavage factor complex,15
+membrane-bounded vesicle,3516
+micro-ribonucleoprotein complex,5
+nBAF complex,13
+network-forming collagen trimer,6
+npBAF complex,11
+nucleotide-activated protein kinase complex,10
+nucleotide-excision repair complex,12
+pICln-Sm protein complex,5
+pi-body,6
+post-mRNA release spliceosomal complex,6
+pre-autophagosomal structure,29
+pre-autophagosomal structure membrane,15
+pre-snoRNP complex,5
+"preribosome, large subunit precursor",27
+"preribosome, small subunit precursor",8
+protein-DNA complex,157
+protein-lipid complex,39
+proton-transporting ATP synthase complex,22
+"proton-transporting ATP synthase complex, catalytic core F(1)",5
+"proton-transporting ATP synthase complex, coupling factor F(o)",12
+proton-transporting V-type ATPase complex,23
+"proton-transporting V-type ATPase, V0 domain",9
+"proton-transporting V-type ATPase, V1 domain",8
+proton-transporting two-sector ATPase complex,47
+"proton-transporting two-sector ATPase complex, catalytic domain",16
+"proton-transporting two-sector ATPase complex, proton-transporting domain",22
+serine/threonine protein kinase complex,66
+small-subunit processome,31
+sodium:potassium-exchanging ATPase complex,10
+spectrin-associated cytoskeleton,7
+tRNA-splicing ligase complex,7
+tetraspanin-enriched microdomain,6
+trans-Golgi network,196
+trans-Golgi network membrane,83
+trans-Golgi network transport vesicle,26
+trans-Golgi network transport vesicle membrane,12
+triglyceride-rich lipoprotein particle,19
+very-low-density lipoprotein particle,19
+voltage-gated calcium channel complex,34
+voltage-gated potassium channel complex,78
+"1,3-beta-D-glucan synthase complex",12
+1-alkyl-2-acetylglycerophosphocholine esterase complex,42
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex,35
+"3-methylcrotonyl-CoA carboxylase complex, mitochondrial",13
+4-aminobutyrate transaminase complex,88
+5-lipoxygenase complex,77
+"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex",40
+6-phosphofructokinase complex,25
+ACF complex,33
+AIM2 inflammasome complex,41
+ANPR-A receptor complex,11
+AP-1 adaptor complex,191
+ARC complex,66
+ASAP complex,62
+ASTRA complex,51
+ATG1/ULK1 kinase complex,82
+ATP-dependent methionine-importing complex,13
+ATP-sensitive potassium channel complex,99
+ATPase inhibitor complex,110
+ATR-ATRIP complex,30
+Acetolactate synthase complex,16
+Acid phosphatase complex,150
+Acidocalcisome,43
+Actin cytoskeleton,246
+Actin filament,246
+Adherens junction,123
+Aggresome,57
+Anchoring junction,123
+Cell,8073
+Cell junction,335
+Cell part,8073
+Cell periphery,1148
+Centrosome,311
+Contractile ring,117
+Cytoplasm,5321
+Cytoplasmic part,5321
+Cytoskeletal part,883
+Cytoskeleton,1082
+Cytosol,4201
+Endomembrane system,1119
+Endoplasmic reticulum,142
+Focal adhesion,123
+GO:0031975,242
+Golgi apparatus,759
+Inclusion body,57
+Intermediate filament cytoskeleton,222
+Intracellular,7947
+Intracellular membrane-bounded organelle,6143
+Intracellular non-membrane-bounded organelle,2266
+Intracellular organelle,6642
+Intracellular organelle lumen,1304
+Intracellular organelle part,2289
+Intracellular part,7947
+Membrane,1368
+Microtubule,261
+Microtubule cytoskeleton,654
+Microtubule organizing center,405
+Mitochondrion,820
+Nuclear envelope,242
+Nuclear lumen,1304
+Nuclear membrane,242
+Nuclear part,1514
+Nucleolus,1304
+Nucleus,5234
+Organelle,7121
+Organelle envelope,242
+Organelle lumen,1304
+Organelle membrane,242
+Organelle part,2289
+Plasma membrane,1148
+Polymeric cytoskeletal fiber,501
+Supramolecular fiber,501
+Vesicle,1214
+cell-substrate adherens junction,123
+cell-substrate junction,123
+cellular component,8430
+membrane-bounded organelle,6672
+membrane-enclosed lumen,1304
+non-membrane-bounded organelle,2266
+90S preribosome,26
+A band,36
+AMPA glutamate receptor complex,26
+AP-2 adaptor complex,7
+AP-3 adaptor complex,7
+AP-type membrane coat adaptor complex,35
+ATP-binding cassette (ABC) transporter complex,7
+ATPase complex,23
+ATPase dependent transmembrane transport complex,23
+Acetyltransferase complex,93
+Acrosomal membrane,23
+Acrosomal vesicle,95
+Actin filament bundle,52
+Actomyosin,55
+Ada2/Gcn5/Ada3 transcription activator complex,12
+Alveolar lamellar body,6
+Anchored component of external side of plasma membrane,18
+Anchored component of membrane,151
+Anchored component of plasma membrane,41
+Apical cortex,6
+Apical dendrite,12
+Apical junction complex,128
+Apical part of cell,348
+Apical plasma membrane,282
+Apicolateral plasma membrane,16
+Arp2/3 protein complex,10
+Astrocyte projection,8
+Asymmetric synapse,6
+Autolysosome,7
+Autophagosome,80
+Autophagosome membrane,27
+Axolemma,12
+Axon,403
+Axon cytoplasm,31
+Axon hillock,6
+Axon initial segment,9
+Axon part,208
+Axon terminus,111
+Axonal growth cone,17
+Axonemal dynein complex,13
+Axoneme,95
+Axoneme part,25
+Azurophil granule,15
+BAF-type complex,22
+BBSome,7
+BLOC complex,14
+BLOC-1 complex,9
+BRCA1-A complex,6
+Banded collagen fibril,9
+Basal lamina,20
+Basal part of cell,44
+Basal plasma membrane,28
+Basement membrane,91
+Basement membrane collagen trimer,7
+Basolateral plasma membrane,197
+Bicellular tight junction,111
+Bleb,6
+Blood microparticle,113
+Bounding membrane of organelle,1709
+Box H/ACA RNP complex,4
+Brush border,95
+Brush border membrane,49
+CCR4-NOT complex,13
+CD40 receptor complex,10
+CD95 death-inducing signaling complex,5
+CHD-type complex,12
+COP9 signalosome,14
+COPI vesicle coat,12
+COPI-coated vesicle,21
+COPI-coated vesicle membrane,15
+COPII vesicle coat,8
+CRD-mediated mRNA stability complex,5
+Cajal body,51
+Calcium channel complex,56
+CatSper complex,8
+Catalytic complex,999
+Catalytic step 1 spliceosome,7
+Catalytic step 2 spliceosome,88
+Catenin complex,7
+Cation channel complex,155
+Caveola,66
+Cdc73/Paf1 complex,6
+Cell body,463
+Cell body fiber,6
+Cell body membrane,17
+Cell cortex,223
+Cell cortex part,106
+Cell cortex region,13
+Cell division site,52
+Cell division site part,52
+Cell envelope,6
+Cell leading edge,343
+Cell projection,1774
+Cell projection cytoplasm,51
+Cell projection membrane,284
+Cell projection part,913
+Cell surface,715
+Cell surface furrow,44
+Cell tip,6
+Cell trailing edge,11
+Central element,6
+Centriolar satellite,25
+Centriole,103
+Chitosome,10
+Chloride channel complex,49
+Chromaffin granule,5
+Chromatin,437
+Chromatin silencing complex,8
+Chromatoid body,11
+Chromocenter,13
+Chromosomal part,760
+Chromosomal region,313
+Chromosome,870
+Chylomicron,12
+Ciliary basal body,90
+Ciliary base,25
+Ciliary membrane,79
+Ciliary part,332
+Ciliary plasm,95
+Ciliary rootlet,7
+Ciliary tip,43
+Ciliary transition fiber,9
+Ciliary transition zone,25
+Cilium,482
+Clathrin adaptor complex,23
+Clathrin coat,39
+Clathrin coat of coated pit,12
+Clathrin coat of endocytic vesicle,8
+Clathrin coat of trans-Golgi network vesicle,10
+Clathrin vesicle coat,19
+Cleavage furrow,44
+Cluster of actin-based cell projections,134
+Coated membrane,80
+Coated vesicle,224
+Coated vesicle membrane,127
+Cohesin complex,10
+Collagen network,6
+Collagen trimer,84
+Collagen type IV trimer,5
+Commitment complex,6
+Compact myelin,14
+Complex of collagen trimers,20
+Condensed chromosome kinetochore,99
+Condensed chromosome outer kinetochore,9
+"Condensed chromosome, centromeric region",108
+Condensed nuclear chromosome kinetochore,10
+"Condensed nuclear chromosome, centromeric region",17
+Condensin complex,5
+Connexon complex,20
+Contractile actin filament bundle,45
+Contractile fiber,215
+Contractile fiber part,198
+Core TFIIH complex,7
+Cornified envelope,44
+Cortical actin cytoskeleton,48
+Cortical cytoskeleton,72
+Costamere,18
+Ctf18 RFC-like complex,6
+Cul2-RING ubiquitin ligase complex,9
+Cul3-RING ubiquitin ligase complex,64
+Cul4-RING E3 ubiquitin ligase complex,25
+Cul4A-RING E3 ubiquitin ligase complex,8
+Cul5-RING ubiquitin ligase complex,5
+Cytochrome complex,29
+Cytoplasmic dynein complex,13
+Cytoplasmic exosome (RNase complex),14
+Cytoplasmic mRNA processing body,76
+Cytoplasmic membrane-bounded vesicle lumen,104
+Cytoplasmic microtubule,46
+Cytoplasmic region,272
+Cytoplasmic ribonucleoprotein granule,146
+Cytoplasmic side of endoplasmic reticulum membrane,7
+Cytoplasmic side of membrane,168
+Cytoplasmic side of plasma membrane,153
+Cytoplasmic stress granule,35
+Cytoplasmic ubiquitin ligase complex,13
+Cytoplasmic vesicle,1245
+Cytoplasmic vesicle membrane,470
+Cytoplasmic vesicle part,594
+Cytosolic large ribosomal subunit,58
+Cytosolic part,205
+Cytosolic proteasome complex,10
+Cytosolic ribosome,107
+Cytosolic small ribosomal subunit,39
+DNA helicase complex,14
+DNA packaging complex,101
+DNA polymerase complex,11
+DNA recombinase mediator complex,8
+DNA repair complex,35
+DNA replication factor A complex,5
+DNA replication factor C complex,5
+DNA-directed RNA polymerase I complex,12
+"DNA-directed RNA polymerase II, core complex",16
+"DNA-directed RNA polymerase II, holoenzyme",95
+DNA-directed RNA polymerase III complex,17
+DNA-directed RNA polymerase complex,119
+Dendrite,457
+Dendrite cytoplasm,17
+Dendrite membrane,19
+Dendrite terminus,7
+Dendritic shaft,30
+Dendritic spine,104
+Dendritic spine head,6
+Dendritic spine membrane,9
+Dense body,5
+Dense core granule,11
+Derlin-1 retrotranslocation complex,7
+Desmosome,23
+Dihydrolipoyl dehydrogenase complex,9
+Dynactin complex,7
+Dynein complex,41
+Dystroglycan complex,6
+ER membrane protein complex,9
+ER to Golgi transport vesicle,72
+ER to Golgi transport vesicle membrane,48
+ER ubiquitin ligase complex,6
+ER-mitochondrion membrane contact site,7
+ESC/E(Z) complex,9
+ESCRT I complex,9
+ESCRT III complex,9
+ESCRT complex,25
+Early endosome,300
+Early endosome membrane,112
+Early phagosome,7
+Elongator holoenzyme complex,5
+Elongin complex,6
+Endocytic vesicle,241
+Endocytic vesicle lumen,16
+Endocytic vesicle membrane,143
+Endolysosome,17
+Endolysosome membrane,12
+Endoplasmic reticulum chaperone complex,10
+Endoplasmic reticulum exit site,10
+Endoplasmic reticulum lumen,198
+Endoplasmic reticulum membrane,974
+Endoplasmic reticulum palmitoyltransferase complex,7
+Endoplasmic reticulum part,1149
+Endoplasmic reticulum quality control compartment,12
+Endoplasmic reticulum subcompartment,20
+Endoplasmic reticulum tubular network,16
+Endoplasmic reticulum-Golgi intermediate compartment,108
+Endoplasmic reticulum-Golgi intermediate compartment membrane,61
+Endoribonuclease complex,20
+Endosomal part,424
+Endosome,790
+Endosome lumen,23
+Endosome membrane,393
+Equatorial microtubule organizing center,5
+Euchromatin,31
+Eukaryotic 43S preinitiation complex,14
+Eukaryotic 48S preinitiation complex,14
+Eukaryotic translation initiation factor 3 complex,14
+"Eukaryotic translation initiation factor 3 complex, eIF3m",6
+Eukaryotic translation initiation factor 4F complex,8
+Excitatory synapse,190
+Exocyst,15
+Exocytic vesicle,135
+Exocytic vesicle membrane,58
+Exosome (RNase complex),18
+External encapsulating structure,8
+External side of plasma membrane,212
+Extracellular exosome,2740
+Extracellular matrix,489
+Extracellular matrix component,122
+Extracellular organelle,2755
+Extracellular region,4434
+Extracellular region part,3766
+Extracellular space,1348
+Extracellular vesicle,2754
+Extrinsic component of cytoplasmic side of plasma membrane,95
+Extrinsic component of external side of plasma membrane,6
+Extrinsic component of membrane,250
+Extrinsic component of mitochondrial inner membrane,6
+Extrinsic component of organelle membrane,26
+Extrinsic component of plasma membrane,133
+Extrinsic component of vacuolar membrane,7
+F-actin capping protein complex,8
+FACIT collagen trimer,5
+Fanconi anaemia nuclear complex,12
+Fascia adherens,9
+Female pronucleus,7
+Fibril,13
+Fibrillar center,5
+Fibrillar collagen trimer,9
+Fibrinogen complex,7
+Filamentous actin,24
+Filopodium,90
+Filopodium membrane,16
+Filopodium tip,12
+Filtration diaphragm,7
+Flemming body,6
+Flotillin complex,8
+GABA receptor complex,17
+GABA-A receptor complex,17
+GO:0000120,4
+GO:0000127,5
+GO:0000793,199
+GO:0000794,84
+GO:0000803,23
+GO:0005667,299
+GO:0005669,32
+GO:0005675,9
+GO:0033276,13
+GO:0033643,9
+GO:0033646,7
+GO:0043656,7
+GO:0043657,14
+GO:0044423,5
+GO:0044798,126
+GO:0070847,5
+GO:0090575,101
+GO:0090576,7
+GO:0097525,52
+GO:0098791,293
+GO:0098796,967
+GO:0098798,156
+GO:0098800,122
+GO:0098803,77
+Gap junction,31
+Gemini of coiled bodies,10
+Germ cell nucleus,16
+Germ plasm,15
+Glial cell projection,14
+Glycogen granule,5
+Glycoprotein complex,20
+Golgi apparatus part,892
+Golgi cis cisterna,5
+Golgi cisterna,88
+Golgi cisterna membrane,71
+Golgi lumen,94
+Golgi membrane,684
+Golgi stack,118
+Golgi transport complex,10
+Golgi-associated vesicle,79
+Golgi-associated vesicle membrane,47
+Growth cone,132
+Growth cone membrane,6
+Growth factor complex,4
+"Guanylate cyclase complex, soluble",7
+H3 histone acetyltransferase complex,6
+H4 histone acetyltransferase complex,17
+H4/H2A histone acetyltransferase complex,17
+HAUS complex,7
+HFE-transferrin receptor complex,7
+Hemidesmosome,7
+Hemoglobin complex,11
+Heterochromatin,67
+Heterotrimeric G-protein complex,29
+Histone acetyltransferase complex,84
+Histone deacetylase complex,49
+Histone methyltransferase complex,66
+Histone pre-mRNA 3'end processing complex,5
+Host,14
+Hrd1p ubiquitin ligase complex,4
+I band,123
+I-kappaB/NF-kappaB complex,6
+INO80-type complex,21
+ISWI-type complex,9
+IkappaB kinase complex,5
+Immunoglobulin complex,5
+Immunological synapse,30
+Inflammasome complex,11
+Inhibitory synapse,11
+Ino80 complex,14
+Integral component of Golgi membrane,56
+Integral component of endoplasmic reticulum membrane,135
+Integral component of lumenal side of endoplasmic reticulum membrane,21
+Integral component of membrane,5180
+Integral component of mitochondrial inner membrane,25
+Integral component of mitochondrial membrane,53
+Integral component of mitochondrial outer membrane,20
+Integral component of nuclear inner membrane,14
+Integral component of organelle membrane,155
+Integral component of peroxisomal membrane,13
+Integral component of plasma membrane,1570
+Integral component of synaptic vesicle membrane,6
+Integrator complex,11
+Integrin complex,28
+Intercalated disc,47
+Intercellular bridge,43
+Intercellular canaliculus,6
+Intermediate filament,193
+Interstitial matrix,11
+Intracellular ribonucleoprotein complex,737
+Intracellular vesicle,1247
+Intraciliary transport particle,28
+Intraciliary transport particle A,6
+Intraciliary transport particle B,18
+Intrinsic component of Golgi membrane,61
+Intrinsic component of endoplasmic reticulum membrane,140
+Intrinsic component of external side of plasma membrane,23
+Intrinsic component of membrane,5308
+Intrinsic component of mitochondrial inner membrane,26
+Intrinsic component of mitochondrial membrane,54
+Intrinsic component of mitochondrial outer membrane,21
+Intrinsic component of nuclear inner membrane,14
+Intrinsic component of organelle membrane,162
+Intrinsic component of peroxisomal membrane,13
+Intrinsic component of plasma membrane,1632
+Intrinsic component of synaptic vesicle membrane,6
+Intrinsic component of the cytoplasmic side of the plasma membrane,14
+Invadopodium,10
+Invadopodium membrane,5
+Ion channel complex,260
+Ionotropic glutamate receptor complex,41
+Junctional membrane complex,6
+Junctional sarcoplasmic reticulum membrane,9
+Juxtaparanode region of axon,9
+Keratin filament,92
+Kinesin complex,53
+Kinetochore,125
+Kinocilium,7
+LINC complex,7
+Lamellar body,17
+Lamellipodium,168
+Lamellipodium membrane,18
+Laminin complex,8
+Large ribosomal subunit,98
+Late endosome,211
+Late endosome lumen,6
+Late endosome membrane,106
+Lateral element,11
+Lateral plasma membrane,47
+Leading edge membrane,129
+Lewy body,5
+Lipid particle,64
+Lipoprotein particle,38
+Lumenal side of endoplasmic reticulum membrane,22
+Lysosomal lumen,87
+Lysosomal membrane,279
+Lysosome,523
+Lytic vacuole,522
+Lytic vacuole membrane,279
+M band,22
+MCM complex,7
+MHC class I protein complex,8
+MHC class II protein complex,10
+MHC protein complex,18
+MICOS complex,5
+MIS12/MIND type complex,3
+MKS complex,11
+MLL1 complex,28
+MLL1/2 complex,28
+MLL3/4 complex,8

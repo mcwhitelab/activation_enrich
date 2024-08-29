@@ -1,0 +1,1843 @@
+Pathway,Count
+Adipose tissue,12174
+Adrenal cortex,4574
+Adrenal gland,16140
+Amygdala,5279
+Ascites,884
+B-lymphoblastoid cell,5983
+B-lymphocyte,8270
+BTO:0004410,9290
+BTO:0005453,7164
+Bladder,443
+Blood,6006
+Blood platelet,5583
+Bone,1374
+Bone marrow,14508
+Brain,13237
+Breast,12084
+Bronchial epithelial cell,4837
+Bronchus,12644
+Cardiac muscle,15135
+Caudate nucleus,4512
+Cerebellum,14879
+Cerebral cortex,15695
+Cerebral peduncle,4907
+Cingulate cortex,4839
+Colon,16859
+Connective tissue,9893
+Corpus callosum,9077
+Cytotoxic T-lymphocyte,5212
+Dendritic cell,5660
+Duodenum,15789
+Ear,186
+Embryonic brain,4936
+Epididymis,12472
+Erythroid cell,4448
+Esophagus,15560
+Eye,5536
+Frontal lobe,11591
+Gall bladder,16366
+Globus pallidus,3792
+Gut,7807
+Heart,14216
+Helper T-lymphocyte,5270
+Hippocampus,11325
+Hypothalamus,12937
+Intestine,5377
+Kidney,16989
+Larynx,275
+Lateral ventricle,11697
+Liver,16290
+Lung,16585
+Lymph,784
+Lymph node,14834
+MOLT-4 cell,4430
+Medulla oblongata,4544
+Monocyte,7640
+Mouth,1073
+Muscle,1841
+Nasopharynx,12374
+Natural killer cell,9530
+Nerve,118
+Occipital lobe,10045
+Olfactory bulb,4257
+Ophthalmic nerve,3453
+Oral mucosa,10627
+Ovary,16042
+Oviduct,12240
+Pancreas,16051
+Pancreatic islet,4972
+Parathyroid gland,10379
+Parenchyma,5163
+Parietal lobe,9921
+Pharynx,541
+Pineal gland,5881
+Placenta,15885
+Pons,4336
+Prefrontal cortex,5632
+Prostate gland,15901
+Rectum,14744
+Retina,11092
+Salivary gland,15335
+Seminal vesicle,11672
+Skeletal muscle,15243
+Skin,15601
+Small intestine,6152
+Smooth muscle,9462
+Spinal cord,11398
+Spinal ganglion,3623
+Spleen,14937
+Stomach,16255
+Subthalamic nucleus,4383
+Superior cervical ganglion,4740
+Temporal lobe,8425
+Testis,17517
+Thalamus,4856
+Thymus,4940
+Thyroid gland,13652
+Tonsil,13827
+Trachea,882
+Trigeminal ganglion,4239
+Urinary bladder,16036
+Uterine cervix,11814
+Uterine endometrium,11318
+Uterus,12771
+Vagina,10073
+Vascular system,894
+Acute promyelocytic leukemia cell,34
+Adenocarcinoma cell,22
+Adipocyte,31
+Aorta,84
+Aorta endothelium,30
+Aortic smooth muscle,6
+Articular cartilage,9
+Astrocyte,25
+Astrocytoma cell,47
+B-cell lymphoma cell,138
+B-lymphocyte cell line,273
+BTO:0000379,351
+BTO:0000449,25
+BTO:0000868,31
+BTO:0001239,20
+Bile,18
+Blood vessel,7
+Bone marrow stromal cell,8
+Brain cortex cell line,211
+Brain stem,13
+Breast cancer cell,221
+CL-48 cell,198
+Carcinoma cell,42
+Cartilage,24
+Cerebrospinal fluid,44
+Cervical carcinoma cell,4876
+Chondrocyte,18
+Chondrosarcoma cell,40
+Choriocarcinoma cell,32
+Chronic myeloid leukemia cell,13
+Colonic adenocarcinoma cell,78
+Colonic cancer cell,563
+Colonic epithelium,8
+Colonic mucosa,50
+Cornea,6
+Corneal epithelium,5
+Coronary artery,29
+Coronary artery endothelial cell,8
+Craniofacial region,11
+Daltons lymphoma cell,17
+Embryonic carcinoma cell line,9
+Embryonic stem cell,26
+Endothelial cell,55
+Eosinophil,6
+Epidermis,20
+Epithelium,25
+Erythrocyte,25
+Erythroleukemia cell,4265
+Fibroblast,141
+Fibrosarcoma cell,17
+Foreskin fibroblast cell line,10
+Gastric adenocarcinoma cell,25
+Gastric adenocarcinoma cell line,15
+Gastric cancer cell,14
+Gastric mucosa,49
+Gastroesophageal cancer cell,46
+Glial cell,5
+Glioblastoma cell,22
+Granulocyte,5
+Hair follicle,32
+Hair root,54
+Heart primordium,8
+Hematopoietic cell,12
+Hematopoietic stem cell,30
+Hepatoblastoma cell,20
+Hepatoma cell,241
+Histiocytic lymphoma cell,9
+Hypophysis,123
+Ileal mucosa,42
+Ileum,5
+Inner ear,5
+Insulinoma cell,26
+Interstitial cell of Cajal,194
+Iris,6
+Jejunum,8
+Keratinocyte,137
+Leiomyosarcoma cell,20
+Lens,22
+Lens epithelium,18
+Leukemia cell,68
+Leukocyte,203
+Liver cancer cell,16
+Lung adenocarcinoma cell,5
+Lung cancer cell,103
+Lung fibroblast,45
+Lymphoblast,70
+Lymphocyte,84
+Lymphoid tissue,60
+Lymphoma cell,55
+Macrophage,31
+Mammary gland,412
+Medulloblastoma cell,6
+Megakaryocyte,6
+Melanocyte,19
+Melanoma cell line,347
+Mesangial cell,22
+Monocytic leukemia cell,12
+Mucoepidermoid carcinoma cell,8
+Myeloid dendritic cell,10
+Myeloid leukemia cell,14
+Myeloma cell,11
+Myometrium,9
+Nasal polyp,10
+Nasopharyngeal carcinoma cell,5
+Neuroblastoma cell,187
+Neuroepithelioma cell,7
+Neuroepithelium,10
+Neuron,27
+Neutrophil,31
+Oligodendroglioma cell,5
+Osteoblast,12
+Osteoclastoma cell,7
+Osteosarcoma cell,44
+Ovary cancer cell,179
+Pancreatic cancer cell line,33
+Parotid gland,5
+Pericardium,47
+Peripheral blood,96
+Peripheral blood lymphocyte,26
+Peripheral nervous system,186
+Pheochromocytoma cell line,34
+Pituitary gland tumor cell,27
+Plasma cell,286
+Prepuce,49
+Pronephros,709
+Prostate adenocarcinoma cell,8
+Prostate cancer cell line,89
+Prostate gland epithelium,450
+Pulmonary artery,7
+Rectal cancer cell,36
+Renal cell carcinoma cell,67
+Renal cortex,6
+Renal epithelium,32
+Renal proximal tubule,16
+Reticulocyte,7
+Retinal pigment epithelium,22
+Retinoblastoma cell,83
+Rhabdomyosarcoma cell,26
+Saliva,58
+Scalp,57
+Semen,5
+Seminal plasma,5
+Seminoma cell,6
+Skin fibroblast,23
+Spermatozoon,14
+Squamous cell carcinoma cell,20
+Submandibular gland,7
+Substantia nigra,71
+Synovial cell,39
+Synovium,144
+T-cell chronic lymphocytic leukemia cell,2344
+T-lymphocyte,280
+Tear,23
+Teratocarcinoma cell,592
+Testicular cell line,6
+Thymocyte,7
+Thyroid cancer cell,11
+Tongue,463
+Umbilical cord,8
+Umbilical cord blood,345
+Umbilical vein,34
+Umbilical vein endothelial cell,47
+Urinary bladder cancer cell,7
+Urine,26
+Uterine adenocarcinoma cell,45
+Uterine endometrial cancer cell,43
+Vascular endothelial cell,6
+Vascular smooth muscle,9
+10T1/2 cell,5
+13c4,5
+143B cell,17
+22Rv-1 cell,5
+2t,6
+32D clone3 cell,10
+3T3-L1 cell,88
+3t6,5
+5637 cell,11
+7d4,8
+95C cell,7
+95D cell,13
+A-172 cell,8
+A-375 cell,6
+A-431 cell,19
+A-498 cell,6
+A7r5 cell,19
+ACT-1 cell,29
+AGS cell,8
+AR4-2J cell,7
+AT6.1 cell,5
+ATDC-5 cell,11
+Abdominal adipose tissue,58
+Abductor,7
+Abscission zone,21
+Accessory sex gland,11
+Achene,10
+Acn,8
+Acute lymphoblastic leukemia cell,51
+Acute megakaryoblastic leukemia cell line,6
+Acute myeloid leukemia cell,57
+Adductor,7
+Adenoid,7
+Adenoid cystic carcinoma cell,7
+Adenoma cell,9
+Adipocyte cell line,7
+Adrenocortical carcinoma cell,14
+Adrenocortical carcinoma cell line,9
+Adult,918
+Adult T-cell lymphoma cell,13
+Adult T-cell lymphoma cell line,6
+Adult liver stem cell,20
+Adventitious root,17
+Aedesaegypti,8
+Aedesalbopictus,12
+Aerial part,17
+Alate adult,5
+Albedo,12
+Albumen gland,10
+Aleurone layer,15
+Allantoic fluid,5
+Allantois,14
+Alveolar bone,70
+Alveolar epithelial cell line,5
+Alveolar macrophage,10
+Amastigote,33
+Ameloblast,10
+Ameloblastic layer,7
+Amniocyte,27
+Amnion,24
+Amnioserosa,7
+Amniotic fluid,52
+Amoeba,7
+Ampulla,12
+Amyloid plaque,35
+Anal canal,8
+Anal fin,6
+Anaplastic large cell lymphoma cell,6
+Anaplastic large cell lymphoma cell line,6
+Animal cap,31
+Ankle joint,13
+Antennal gland,6
+Anterior chamber of the eye,8
+Anterior olfactory nucleus,5
+Anterior pharynx,11
+Anterior visceral endoderm,10
+Anther,41
+Antler,6
+Anus,10
+Aortic valve,11
+Apical bud,7
+Apical hook,11
+Apical meristem,12
+Apocrine gland,13
+Arachnoid mater,10
+Aril,5
+Arterial endothelium,6
+Artery,336
+Ascidian,31
+Ascites tumor cell,8
+Astrocyte cell line,6
+AtT-20 cell,29
+Atherosclerotic plaque,69
+Atrial gland,8
+Auditory cortex,6
+Auditory vesicle,18
+Autonomic nervous system,70
+Awn,22
+Axillary bud,15
+B-16 cell,5
+B-50 cell,12
+B-CPAP cell,7
+B-lymphoblast cell line,7
+B16-F10 cell,25
+B95-8 cell,12
+BA/F3 cell,7
+BEAS-2B cell,12
+BEL-7402 cell,7
+BGC-823 cell,20
+BHK-21 cell,10
+BJAB cell,10
+BL-3 cell,8
+BLM cell,9
+BMMC cell,32
+BT-549 cell,6
+BTO:0000491,11
+BTO:0000964,247
+BTO:0001439,38
+BTO:0002979,44
+BW-5147 cell,9
+Bacteroid,25
+Barrett's esophagus,27
+Basal cell,5
+Basophil,13
+Basophilic leukemia cell,13
+BeWo cell,23
+Bgm,5
+Biceps,5
+Biceps femoris,6
+Bile duct,9
+Biliary epithelial cell,16
+Biofilm,42
+Bipolar cell,23
+Bladder wall,27
+Blast cell,10
+Blastema,17
+Blastocyst,129
+Blastocyte,6
+Blastoderm,13
+Blastodisc,7
+Blastomere,42
+Blood clot,63
+Blood plasma,176
+Blood vessel endothelium,124
+Blood vessel wall,30
+Bloodstream form,36
+Bm,7
+BmN cell,6
+Body wall muscle,11
+Bone marrow stem cell,13
+Bone marrow stromal cell line,9
+Bone marrow-derived macrophage,9
+Bone matrix,44
+Bpe,6
+Bract,9
+Bradyzoite,8
+Branchial arch,75
+Breast cancer cell line,227
+Breast invasive ductal carcinoma cell,9
+Bronchial epithelial cell line,17
+Bronchoalveolar lavage,100
+Bronchoalveolar stem cell,7
+Brown adipose tissue,13
+Bt,7
+Buccal gland,5
+Buccal mass,6
+Buccal mucosa,11
+Bud,103
+Bulb,23
+Bulbil,6
+Bulbourethral gland,8
+Bundle sheath,8
+Bundle sheath cell,5
+Bursa of Fabricius,9
+Byssus,6
+C-127 cell,5
+C-33A cell,5
+C127I cell,5
+C2C12 cell,5
+C6 glioma cell,8
+C6/36 cell,9
+CACO-2 cell,13
+CAD cell,5
+CAL-27 cell,6
+CCRF-CEM cell,6
+CEM cell,16
+CH-1 cell,6
+CHO-EM9 cell,7
+CHO-K1 cell,5
+CHO-LY-B cell,8
+CHOP cell,14
+COS-1 cell,11
+COS-7 cell,8
+CT-26 cell,6
+CV-1 cell,8
+CX-1 cell,6
+Caki-1 cell,5
+Calcaneal bone,21
+Callus,42
+Calyx,10
+Cambium,11
+Cancellous bone,42
+Cancer stem cell,78
+Capillary,103
+Capillary pericyte,5
+Carapace,6
+Carcass,26
+Carcinoid cell,5
+Cardia,5
+Cardiac stomach,7
+Cardinal vein,11
+Carotid atherosclerotic plaque,5
+Carotid body,14
+Carotid sinus nerve,6
+Caryopsis,12
+Cco,17
+Cecal epithelium,6
+Cecum,6
+Cement gland,18
+Cementum,28
+Cephalothorax,6
+Ceratobranchial,5
+Cercaria,6
+Cerebellar Purkinje cell,24
+Cerebellar nucleus,6
+Cerebral gyrus,8
+Cerebral organ,9
+Cerebral subcortex,7
+Cerebral white matter,34
+Cerebrovascular system,6
+Cervical cancer cell line,96
+Cervical intraepithelial neoplasia cell,10
+Cervical mucus,17
+Cervical spine,34
+Cestode,29
+ChaGo-K-1 cell,23
+Chang cell,5
+Chl,8
+Chlorenchyma,6
+Choanomastigote,31
+Cholangiocarcinoma cell,5
+Chondroblast,16
+Chondrocyte cell line,11
+Chorioallantois,21
+Choriocarcinoma cell line,6
+Chorionic epithelium,5
+Chorionic villus,21
+Choroid,28
+Choroid plexus,11
+Choroid plexus papilloma cell,5
+Chromaffin cell,7
+Chronic lymphocytic leukemia cell,38
+Ciliary body,17
+Ciliary epithelium,7
+Citrullinemia,8
+Cladode,6
+Claw,16
+Clonei,8
+Cob,32
+Cochlear ganglion,13
+Cochlear hair cell,37
+Colo-201 cell,6
+Colon sigmoideum,5
+Colonic neoplasm cell,7
+Colonocyte,10
+Colorectal cancer cell,68
+Colorectal mucosa,5
+Colorectum,39
+Columnar cell,19
+Common cardinal vein,6
+Companion cell,6
+Compound eye,11
+Conceptus,34
+Conjunctiva,49
+Corn silk,12
+Corona,6
+Corpus allatum,14
+Corpus amylaceum,9
+Corpus cardiacum,16
+Corpus cavernosum,17
+Corpus luteum,5
+Corpus striatum,13
+Cotton fibre,21
+Cotyledon,19
+Cpa,17
+Cranial nerve,15
+Cranium,141
+Crfk,5
+Criduchat,6
+Crown gall,13
+Crypt,12
+Cuboid bone,5
+Cuticle,62
+Cyst,62
+Cysticercus,11
+Cystocyte,7
+Cytotoxic T-lymphocyte cell line,5
+DAOY cell,6
+DAUDI cell,28
+DT-40 cell,38
+DU-145 cell,5
+Daphnid,7
+Decidua,34
+Dede,7
+Dental plaque,18
+Dental pulp,42
+Dentin,72
+Detrusor,6
+Df,5
+Diaphragm,8
+Diffuse large B-cell lymphoma cell,6
+Digestive cell,8
+Disc,13
+Distal tip,33
+Dok,18
+Dopaminergic system,40
+Dorsal aorta,7
+Dorsal fin,9
+Dorsum,11
+Dried cell,12
+Duckembryo,8
+Duodenal juice,7
+EB-1 cell,53
+EBV-B cell,5
+EC-9706 cell,5
+ECV-304 cell,12
+EHEB cell,5
+EJ cell,11
+Ebl,9
+Ec,22
+Ectoderm,136
+Ectoplacental cone,7
+Egg white,17
+Egg yolk,20
+Eggshell,25
+Ehrlich ascites carcinoma cell,9
+Eht,9
+Eiii,7
+Ejaculatory duct,7
+Electric organ,27
+Elementary body,11
+Elytron,7
+Embryogenic cell line,6
+Embryoid body,55
+Embryonic axis,15
+Embryonic carcinoma cell,16
+Embryonic fibroblast,88
+Embryonic germ cell,7
+Embryonic neural stem cell,8
+Empyema fluid,8
+Encysting cell,6
+Endocardium,8
+Endocarp,5
+Endocervix,6
+Endochondral bone,31
+Endoderm,90
+Endodermis,8
+Endomesoderm,12
+Endometrial cancer cell line,13
+Endometrial gland,10
+Endometrioid carcinoma cell,5
+Endosperm,54
+Endostyle,8
+Enteric nervous system,10
+Enterocyte,15
+Enteroendocrine cell,35
+Entorhinal cortex,5
+Ependymal epithelium,6
+Ependymoma cell,5
+Epi,19
+Epiblast,8
+Epicotyl,5
+Epidermal cell line,6
+Epidermal stem cell,18
+Epididymal epithelium,6
+Epididymal fluid,20
+Epiglottis,8
+Epimastigote,23
+Epiphyseal growth plate,33
+Epiphysis,11
+Epithelial lining fluid,8
+Epithelial stem cell,14
+Erythroblast,17
+Erythroid progenitor cell,26
+Esophageal cancer cell,16
+Esophageal cancer cell line,15
+Esophageal gland,5
+Esophageal squamous cell carcinoma cell,19
+Ewing's sarcoma cell,11
+Excretory canal,12
+Exodermis,5
+Exoskeleton,20
+Extraembryonic tissue,21
+Extraocular muscle,10
+Eyestalk,9
+F-9 cell,23
+FL83B cell,5
+FLK cell,6
+FM3A cell,10
+Fascia,23
+Fascicle,21
+Fat body,30
+Fbt,6
+Feather,18
+Feather bud,18
+Female pudendum,25
+Femorotibial joint,9
+Femur,63
+Fer,21
+Fetal membrane,26
+Fetal serum,11
+Fhm,17
+Fiber,263
+Fibula,17
+Filament,140
+Filopodium,33
+Fine root,9
+Finger,437
+Flag leaf,13
+Flagellate,14
+Flagellum,38
+Flexor digitorum longus,6
+Flexor digitorum profundus,10
+Flight muscle,13
+Floor plate,7
+Floral meristem,18
+Floral primordium,6
+Floret,8
+Flower,25
+Flower bud,13
+Foam cell,13
+Follicular stem cell,5
+Foot sole,11
+Frontal gland,5
+Frt,11
+Fruit,110
+G-361 cell,8
+GBC-SD cell,10
+GH3 cell,21
+GH4-C1 cell,18
+GOTO cell,6
+GaMG cell,9
+Gall bladder cancer cell,8
+Gametocyte,18
+Gametophore,10
+Gametophyte,14
+Ganglion,323
+Gastric epithelium cell line,13
+Gastric juice,30
+Gastric ulcer,15
+Gastrodermis,6
+Gastroduodenal mucosa,5
+Gastroesophageal junction,14
+Gastrointestinal endocrine cell,8
+Gastrointestinal mucosa,14
+Gastrointestinal stromal tumor cell,19
+Gastrula,34
+Gbm cell,15
+Geep,9
+Genital mucosa,6
+Germ,94
+Germ cell,264
+Germ layer,10
+Germinal center,15
+Germinal epithelium,11
+Ghost,8
+Giant cell tumor cell line,13
+Gill,41
+Gill arch,19
+Gill raker,6
+Gingiva,69
+Gingival fluid,23
+Gizzard,21
+Glandular epithelium,21
+Glans penis,6
+Glioblastoma multiforme cell,10
+Glume,10
+Gluteal muscle,7
+Goblet cell,9
+Gonadal sheath cell,5
+Gonadotrophic cell,10
+Gonocyte,9
+Gracilis muscle,13
+Granulation tissue,20
+Granule cell,7
+Granulosa cell,17
+Great saphenous vein,5
+Grm,7
+Groin,16
+Guard cell,13
+Gut epithelium,6
+Gut juice,5
+Gut mucosa,14
+H9 cell,5
+HBE cell,11
+HBL-100 cell,6
+HCE cell,6
+HCT-116 cell,6
+HEC-1-B cell,10
+HEK-293 cell,22
+HEK-293A cell,5
+HEK-293T cell,8
+HEL cell,7
+HELF cell,6
+HEp-2 cell,22
+HFL-1 cell,5
+HGC-27 cell,12
+HIT-T15 cell,5
+HME cell,6
+HMEpC cell,27
+HMV-II cell,5
+HO-8910 cell,6
+HO-8910PM,8
+HOG cell,8
+HOS cell,14
+HRT-18 cell,9
+HS-68 cell,6
+HS-683 cell,6
+HSC-4 cell,5
+HSCC cell,10
+HT-1080 cell,27
+HT-1197 cell,8
+HT-22 cell,5
+HTC cell,5
+HUVEC cell,113
+HaCaT cell,26
+Habenula,5
+Hair cell,91
+Hair follicle inner root sheath,7
+Hair shaft,24
+Hairy cell leukemia cell,5
+Hairy root,20
+Hallux,19
+Harderian gland,5
+Hatching gland,21
+Hca-F cell,16
+HeLa cell,123
+HeLa-229 cell,6
+HeLa-S3 cell,21
+Head and neck cancer cell,10
+Head capsule,7
+Head kidney,9
+Heart valve,6
+Hecv,6
+Helam,6
+Hemocyte,17
+Hemolymph,22
+Hep-G2/2.15 cell,10
+Hepa-RG cell,23
+Hepatic artery,11
+Hepatic cecum,7
+Hepatic primordium,7
+Hepatoblastoma cell line,9
+Hepatopancreas,20
+Heterocyst,21
+Hi-5 cell,6
+High endothelial venule,32
+High vocal center,5
+Hindgut,24
+Hip,107
+Histiocyte,7
+Hodgkin lymphoma cell,6
+Honey,10
+Hoof,14
+Htk,6
+HuH-7 cell,7
+Huelle cell,13
+Human amniotic epithelial cell,7
+Human aortic endothelial cell,15
+Human brain microvascular endothelial cell,15
+Human lens epithelial cell line,6
+Husk,9
+Hybridoma cell line,5
+Hydathode,7
+Hypodermal seam cell,27
+Hypodermis,10
+Hypopharynx,10
+IGROV-1 cell,6
+IM-9 cell,9
+IMCD cell,10
+IMR-32 cell,10
+IMR-90 cell,5
+Idioblast,6
+Iliac artery,8
+Imaginal disc,28
+Imago,9
+Immature cell,16
+Immune system,1046
+Incisor,63
+Inferior frontal gyrus,9
+Inferior mesenteric artery,8
+Inferior vena cava,18
+Inflammatory cell,5
+Inflorescence stalk,13
+Ink,7
+Inner hair cell,37
+Inner plexiform layer,6
+Insect labium,13
+Insect tracheal system,10
+Intercalated cell,7
+Interdigit,8
+Internal carotid artery,7
+Interneuron,14
+Internode,23
+Interrenal cell,5
+Interstitial cell,17
+Interventricular septum,9
+Intervertebral disc,53
+Intestinal epithelium,6
+Intestinal juice,5
+Intestinal mucosa,7
+Intramuscular adipose tissue,14
+Intraparietal sulcus,8
+Ischial spine,5
+Ishikawa cell,11
+JAR cell,10
+JEG-3 cell,21
+JJ012 cell,6
+Jaw,18
+Johnston's organ,7
+Jugular vein,17
+Juice,17
+Junctional zone,25
+Juxtaglomerular cell,9
+K-562 cell,75
+KATO-III cell,13
+KB cell,9
+KB-3-1 cell,5
+KB-V1 cell,7
+KE-37 cell,8
+KG-1 cell,10
+KM-H2 cell,9
+KMS-11/TKO cell,6
+KYSE-30 cell,9
+Kc cell,10
+Kco,8
+Kelly,5
+Keloid,29
+Kidney cancer cell,24
+Kinetoplastid,51
+Kmp,5
+Kna,6
+Knee,110
+Ktp,7
+L-1210 cell,15
+L-428 cell,6
+L-929 cell,38
+LAN-5 cell,13
+LM3 cell,6
+LM6 cell,6
+LNCaP cell,21
+LNCaP-C4-2 cell,6
+LS-174T cell,5
+LS-180 cell,6
+Labial palp,6
+Labyrinthine zone,9
+Lacquer,7
+Lacrimal gland acinar cell,6
+Lacteal cyst,6
+Lamina propria,50
+Large cell neuroendocrine carcinoma cell,6
+Large intestine,20
+Larval brain,9
+Larval integument,8
+Laryngeal cancer cell,15
+Laryngeal cartilage,6
+Laryngeal cell line,9
+Laryngeal muscle,10
+Laryngeal squamous cell carcinoma cell,9
+Lateral geniculate nucleus,5
+Lateral root,22
+Lateral root primordium,15
+Latex,29
+LbetaT2 cell,7
+Leaf base,7
+Leaf disc,9
+Leaf primordium,11
+Leaf sheath,11
+Leaf tip,7
+Leaf vein,10
+Left atrium,18
+Leiomyoma cell,7
+Leiomyosarcoma cell line,8
+Lek,5
+Lens cortex,5
+Lens fiber,9
+Leukemic stem cell,14
+Leydig cell,53
+Leydig cell line,7
+Li,6
+Limb bud,18
+Liposarcoma cell,6
+Liposarcoma cell line,6
+Liver cancer stem cell,11
+LoVo cell,9
+Long bone,57
+Longissimus,9
+Longissimus lumborum,6
+Longissimus thoracis,8
+Lower epidermis,6
+Ltk,7
+Lumbar spine,57
+Lung bud,6
+Lymphangioleiomyomatosis disease specific cell type,7
+Lymphatic endothelial cell,9
+Lymphoid cell line,10
+M5 melanoma cell,6
+M5076 cell,7
+MA-10 cell,5
+MA-104 cell,7
+MALME-3M cell,5
+MC-3T3 cell,5
+MC3T3-E1 cell,49
+MCF-10A cell,5
+MDA-MB-435 cell,6
+MDBK cell,9
+MDCK cell,19
+MDCK-1 cell,6
+MDCK-2 cell,25
+MDCK-MDR1 cell,8
+MEF cell,7
+MEG-01 cell,6
+MEL cell,32
+MEL-HO cell,11
+MEL-JUSO cell,11
+MG-63 cell,30
+MHCC97-H cell,13
+MHCC97-L cell,11
+MIN-6 cell,5
+MKN-45 cell,12
+ML-2 cell,5
+MM-1 cell,8
+MOPC-315 cell,5
+MRC-5 cell,5
+MSTO-211H cell,5
+MV4-11 cell,9
+Mahlavu cell,5
+Malignant peripheral nerve sheath cancer cell,15
+Malpighian tubule,18
+Mammary epithelial cell line,10
+Mammary gland cell line,45
+Mandible,14
+Mandibular incisor,24
+Mandibular organ,6
+Mantle,28
+Mantle cell lymphoma cell,25
+Mantle muscle,8
+Marrow,98
+Marrow cell,16
+Masseter,6
+Mast cell,154
+Mast cell line,10
+Mat-Ly-Lu cell,7
+Matlu,6
+Mature cell,10
+Mature stage,5
+Mccoy,5
+Meconium,11
+Medial geniculate nucleus,8
+Medial habenular nucleus,5
+Medial longitudinal fasciculus,5
+Medial mammillary nucleus,6
+Medial temporal lobe,7
+Medullary thyroid carcinoma cell,5
+Medulloblastoma cell line,12
+Megagametophyte,22
+Megakaryoblast,13
+Megakaryocyte cell line,17
+Meibomian gland,16
+Meiotic cell,40
+Melanoblast,5
+Melanocyte cell line,10
+Melanophore,10
+Meniscus,27
+Meristem,48
+Merocrine gland,9
+Merozoite,33
+Mesenchymal epithelium,8
+Mesenchymal stem cell,159
+Mesenchyme,264
+Mesenteric vein,9
+Mesocarp,8
+Mesoderm,86
+Mesonephron,19
+Mesophyll,11
+Mesothelioma cell line,9
+Messa,7
+Metacercaria,13
+Metacestode,9
+Metacyclic form,8
+Metanephron,15
+Metatarsal bone,24
+Microgametophyte,16
+Microglia,9
+Microspore,30
+Microsporidian,14
+Microvessel,23
+Middle cerebral artery,8
+Middle ear,38
+Midgut epithelium,13
+Miracidium,8
+Mlg,8
+Mo-B cell,24
+Moh,6
+Molaris,53
+Molting gland,18
+Mononuclear cell,42
+Morula,17
+Motoneuron,46
+Motor cortex,11
+Mouselcells,5
+Mr,8
+Ms,6
+Mucilage,15
+Multiple myeloma cell,30
+Muscle stem cell,15
+Myelin,8
+Myelocyte,15
+Myeloid cell line,22
+Myeloid progenitor cell,29
+Myenteric plexus,43
+Myoblast,99
+Myocardium,11
+Myoepithelial cell,11
+Myoepithelium,29
+Myofibroblast,74
+Myometrial cell line,6
+Myotome,6
+Myotube,103
+N-27 cell,7
+N18TG2 cell,7
+N1E-115 cell,27
+NAMALWA cell,13
+NB-4 cell,16
+NCCIT cell,14
+NCI-H1299 cell,16
+NCI-H157 cell,8
+NCI-H1944 cell,7
+NCI-H1975 cell,6
+NCI-H226Br cell,33
+NCI-H295R cell,11
+NCI-H460 cell,5
+NCI-N87 cell,7
+NG-108-15 cell,19
+NHDF cell,6
+NIH-3T3 cell,109
+NMuMg cell,6
+NRK cell,6
+NRK-52E cell,8
+NS-0 cell,6
+NS20Y cell,10
+NT2/D1 cell,8
+NTERA-2 cell,6
+Nape,13
+Nasal cavity,24
+Nasal lavage fluid,22
+Nasopharyngeal carcinoma cell line,13
+Natural killer cell line,33
+Nde,7
+Nectar,12
+Nectary,9
+Needle,79
+Nematocyst,6
+Neocortex,6
+Neointima,58
+Neonate,87
+Nephroblastoma cell,6
+Nephrocyte,17
+Nerve cord,11
+Nerve plexus,12
+Nerve sheath,10
+Nervous system,7
+Neural arch,9
+Neural crest,138
+Neural plate,23
+Neural stem cell,116
+Neural stem cell line,5
+Neural tube,119
+Neurilemoma cell,7
+Neuro-2a cell,31
+Neuroblast,48
+Neuroendocrine tumor cell,5
+Neuroendocrine tumor cell line,6
+Neurofibrillary tangle,27
+Neurohemal organ,6
+Neurula,24
+Nipple,11
+Node,10
+Notochord,38
+Novikoff hepatoma cell,7
+Np,17
+Nthy-ori 3-1 cell,10
+Nuchal ligament,11
+Nucleus accumbens,5
+Nurse cell,19
+Nymph,20
+OCI-AML3 cell,6
+OE-21 cell,5
+OV-90 cell,9
+OVCA-5 cell,5
+Oc cell,16
+Occipital pole,5
+Ocellus,14
+Odontoblast,14
+Olfactory epithelium,32
+Olfactory nerve,6
+Olfactory organ,16
+Olfactory receptor neuron,9
+Oligodendrocyte,15
+Oliva,7
+Omasum,5
+Ommatidium,11
+Oocyst,19
+Ookinete,15
+Optic cup,24
+Optic lobe,5
+Optic nerve,57
+Oral cancer cell,22
+Oral cell line,5
+Oral epithelial cell,5
+Oral squamous cell carcinoma cell,15
+Orbit,41
+Oropharyngeal cancer cell,8
+Oropharynx,11
+Osseous plate,5
+Osteoblast cell line,11
+Osteoclast,54
+Osteoclast stem cell,6
+Osteocyte,43
+Osteophyte,12
+Outer ear,13
+Outer hair cell,37
+Ovarian cyst,8
+Ovarian surface epithelial cell line,11
+Ovarian surface epithelium,12
+Ovariole,12
+Ovary cancer cell line,62
+Ovary cell line,36
+Oviductal fluid,5
+Ovotestis,12
+Ovum,17
+Oxyntic cell,9
+P-19 cell,31
+PA-1 cell,14
+PANC-1 cell,5
+PC-12 cell,29
+PC-12D cell,5
+PC-14 cell,7
+PC-3 cell,18
+PC-J cell,6
+PC3-MM2 cell,5
+PK-15 cell,10
+PLC-PRF-5 cell,5
+PNT-1A cell,9
+PNT-2 cell,14
+PR cell,5
+Palate,69
+Palatine uvula,15
+Palisade parenchyma,7
+Palpus,6
+PanIN cell,5
+Pancreatic acinar cell,6
+Pancreatic beta cell,68
+Pancreatic beta cell line,21
+Pancreatic cancer cell,70
+Pancreatic ductal adenocarcinoma cell,5
+Pancreatic juice,33
+Paneth cell,5
+Panicle,25
+Parametrium,10
+Parotid acinar cell,8
+Pavement epithelium,28
+Pectoral fin,17
+Pectoral muscle,8
+Pedal ganglion,5
+Pek,6
+Pelvic fin,14
+Pelvis,43
+Penis,21
+Pericardial fluid,6
+Pericarp,7
+Perichondrium,28
+Periderm,16
+Perilymphatic space,6
+Perineurium,5
+Perineuronal net,14
+Periodontal ligament,49
+Periosteum,30
+Peripheral blood stem cell,22
+Peripheral nerve,157
+Perirhinal cortex,6
+Peritoneal cavity,18
+Peritoneal exudate,18
+Peritoneal fluid,12
+Peritoneal macrophage,8
+Peritoneal mesothelium,16
+Peritrophic membrane,10
+Peritubular cell,5
+Peritubular contractile cell,6
+Petal,26
+Petiole,12
+Phagocyte,23
+Pharate pupa,7
+Pharyngeal cavity,6
+Pharyngeal epithelium,7
+Pharyngeal gland,7
+Pheochromocytoma cell,11
+Pheromone gland,12
+Phloem,20
+Phloem parenchyma cell,5
+Photophore,9
+Photoreceptor cell,40
+Phrenic nerve,17
+Pinealocyte,7
+Placental membrane,6
+Planktonic cell,21
+Plant candle,7
+Plant crown,6
+Plant cuticle,10
+Plant embryo,62
+Plant scale,7
+Plant vessel,7
+Plantlet,19
+Pleomorphic adenoma cell,8
+Pleopod,8
+Pleura,10
+Pleural ganglion,8
+Plume,14
+Podocyte,17
+Polar cell,9
+Pollen,66
+Pollen mother cell,14
+Pollen tube,20
+Porcine aortic endothelial cell,6
+Portal vein,24
+Posterior cingulate cortex,5
+Posterior midgut,15
+Posterior pharynx,7
+Posterior silk gland,6
+Ppes,8
+Preadipocyte cell line,12
+Preosteoblast,31
+Preosteoclast,14
+Prepupa,11
+Preputial gland,12
+Primary cell line,8
+Primary root,20
+Primary spermatocyte,11
+Primitive endoderm,10
+Primitive neuroectodermal tumor cell line,5
+Primordium,104
+Procambium,8
+Procyclic form,39
+Promastigote,29
+Promyelocyte,7
+Promyelocytic leukemia cell line,5
+Pronephric tubule,13
+Prostasome,5
+Prostate gland cancer cell,123
+Prostate gland intraepithelial neoplasia cell line,7
+Prostomium,5
+Protonema,9
+Protoxylem,8
+Proventriculus,11
+Psammoma body,10
+Psmb,19
+Pt-K1 cell,13
+Pt-K2 cell,15
+Pterygium,10
+Pulmonary vein,16
+Pulp,36
+Pulvinar,5
+Pulvinus,6
+Pupal wing,7
+Pyloric cecum,11
+Pyloric region,7
+Pyloric stomach,7
+RAJI cell,17
+RAMOS cell,6
+RBL-1 cell,8
+RBL-2H3 cell,6
+RCC 786-O cell,7
+RGC-5 cell,9
+RINm5F cell,5
+RK-13 cell,8
+RKO cell,12
+RL cell,5
+RL95-2 cell,5
+ROS cell,5
+RPMI-8226 cell,5
+RT-4 cell,7
+RT4-D6P2T cell,6
+RWPE-1 cell,13
+Radicle,10
+Radula,8
+Rat-2 cell,8
+Red bone marrow,9
+Regio orbitalis,8
+Regio parietalis capitis,16
+Regulatory T-lymphocyte,5
+Renal vein,6
+Rennet,8
+Respiratory mucus,9
+Resting cell,14
+Reticulate body,8
+Reticulum,22
+Reticulum trabeculare,5
+Retinal cone,6
+Retinal ganglion cell,18
+Retinal ganglion cell line,6
+Retinal pigment epithelium cell line,7
+Retinal stem cell,7
+Retinoblastoma cell line,10
+Rge,9
+Rheumatoid arthritis disease specific synovial fibroblast,11
+Rhizome,8
+Right atrium,8
+Ring stage,31
+Rlc,11
+Root apex,7
+Root cap,6
+Root cortex,10
+Root nodule,131
+Root pericycle,5
+Root quiescent center,6
+Root tip,52
+Rootlet,11
+Rosette,44
+Rosette leaf,11
+Rovs,5
+Rto,10
+Rumen,26
+Ruminal fluid,13
+S2 cell,26
+SAOS-2 cell,28
+SAS cell,5
+SCHNEIDER-2 cell,16
+SCaBER cell,9
+SET-2 cell,5
+SF-21 cell,11
+SF-9 cell,21
+SGC-7901 cell,9
+SGS cell,40
+SH-EP cell,7
+SH-SY5Y cell,72
+SHG-44 cell,5
+SK-N-AS cell,7
+SK-N-BE(2) cell,5
+SK-N-BE(2)C cell,13
+SK-N-DZ cell,7
+SK-N-MC cell,10
+SK-N-SH cell,13
+SKOV-3 cell,6
+SMMC-7721 cell,12
+SNU-16 cell,5
+SNU-449 cell,5
+SUM-149 cell,6
+SW-1116 cell,15
+SW-1353 cell,14
+SW-48 cell,9
+SW-620 cell,6
+SW-948 cell,5
+Saccule,26
+Salt gland,9
+Saphenous vein,17
+Sapling,10
+Satellite cell,39
+Scape,11
+Scapula,11
+Schistosomulum,13
+Schizont,15
+Schwann cell,75
+Sciatic nerve,32
+Sclera,11
+Sclerenchyma,8
+Scolex,14
+Scolopidium,46
+Scrotum,21
+Scutellum,13
+Sebum,13
+Secondary spermatocyte,28
+Secretory cell,35
+Secretory trichome,5
+Seed coat,14
+Seedling,108
+Semicircular canal,33
+Seminiferous epithelium,34
+Seminiferous tubule,27
+Semitendinosus,8
+Sepal,16
+Serous gland,11
+Sertoli cell,72
+Sertoli cell line,13
+Sessile cell,9
+Seta,14
+Shell gland,9
+Shoot,6
+Shoot meristem,13
+Shoot tip,31
+Shs,6
+SiHa cell,7
+Sickle cell,8
+Silique,14
+Silk gland,18
+Sinus node,7
+Skin carcinoma cell line,7
+Skin epithelium,11
+Skin mucus,6
+Skpndw,7
+Slow twitch muscle fiber,7
+Small cell lung cancer cell,14
+Soft tissue sarcoma cell line,8
+Somatic cell,111
+Somatic embryo,24
+Somatosensory cortex,5
+Somite,58
+Sperm flagellum,13
+Spermary,11
+Spermatheca,24
+Spermatid,151
+Spermatocyte,15
+Spermatogonium,16
+Spike,86
+Spikelet,21
+Spinal nerve,15
+Spinal root,5
+Spindle cell,66
+Spiral organ,23
+Sporangium,9
+Sporocyst,11
+Sporophyte,20
+Sporozoite,22
+Sporulating cell,10
+Sprout,7
+Sputum,51
+Stalk cell,17
+Stellate cell,12
+Sternal cartilage,7
+Sternocleidomastoid muscle,7
+Sternum,12
+Stipe,9
+Stipule,5
+Sto,11
+Stolon,8
+Stoma,17
+Storage root,8
+Stratified epithelium,48
+Stratum corneum,12
+Stratum granulosum,5
+Stratum lucidum,6
+Stria vascularis,25
+Stromal cell,182
+Style,18
+Subcommissural organ,8
+Subcutaneous adipose tissue,29
+Subcutaneous tissue,13
+Sublingual gland,6
+Submucosa,51
+Submucosal gland,17
+Superior frontal gyrus,12
+Superior vena cava,15
+Supporting cell,30
+Suprachiasmatic nucleus,17
+Sweat,29
+Sweat gland,27
+Swim bladder,10
+Swiss-3T3 cell,28
+Sympathetic nervous system,14
+Syncytiotrophoblast,6
+Syncytium,28
+Synovia,63
+Synovial sarcoma cell,10
+Synovial tissue,84
+T-24 cell,15
+T-98G cell,14
+T-REx 293 cell,5
+T-cell acute lymphoblastic leukemia cell,13
+TBY-2 cell,6
+TE-671 cell,11
+TF-1 cell,5
+TK-6 cell,8
+TM-3 cell,6
+TM-4 cell,9
+TSA cell,6
+TZM-bl cell,17
+Tachyzoite,15
+Tadpole,32
+Tail bud,16
+Tail fin,10
+Tailbud stage,15
+Talus,42
+Tapetum,20
+Tassel,19
+Taste bud,42
+Te,10
+Tear gland,17
+Tectum mesencephali,18
+Tek,5
+Telson,5
+Temporomandibular joint,11
+Tendon,111
+Tenia tecta,5
+Tentacle,17
+Tepal,6
+Teratocarcinoma cell line,9
+Teratocyte,11
+Theca cell,28
+Thoracic ganglion,11
+Thoracic spine,10
+Thymic epithelium,12
+Thymic medulla,5
+Thymic stromal cell,8
+Thymoma cell,8
+Thyroid cartilage,5
+Thyroid nodule,33
+Tibia,71
+Tmm,5
+Tongue cancer cell,8
+Tongue cancer cell line,6
+Tooth bud,11
+Tooth enamel,62
+Tou,15
+Tracheal mucosa,5
+Transfer cell,14
+Trichome,19
+Trigeminal nerve,31
+Trophectoderm,12
+Trophoblast,161
+Trophoblast cell line,11
+Trophoblast stem cell,19
+Trophozoite,19
+Trunk kidney,13
+Trypomastigote,15
+Tube foot,5
+Tuber,23
+Tubercle,22
+Twig,7
+Tympanum,6
+U-251MG cell,9
+U-343MG-A cell,8
+U-373MG cell,6
+U-937 cell,74
+U2-OS cell,34
+UMR-106 cell,17
+Umbilical artery,8
+Upper epidermis,12
+Ureter,28
+Ureteric bud,35
+Urethra,30
+Uroepithelial cell,5
+Uroepithelial cell line,6
+Uroepithelium,68
+Urogenital ridge,7
+Uropygial gland,8
+Uterine epithelium,16
+Uterine fluid,12
+Uterine gland,5
+Uterine horn,7
+Uterine lavage,7
+Uterine serous carcinoma cell,6
+Utricle,20
+Uveal melanoma cell,9
+V-79 cell,10
+VCaP cell,15
+Vagus nerve,29
+Vallate papilla,6
+Vas deferens,41
+Vascular cell,43
+Vascular tissue,30
+Vasculature,121
+Vegetative cell,115
+Vegetative stage,27
+Velum,5
+Venom duct,8
+Venom gland,18
+Venous system,11
+Ventral nerve cord,12
+Venule,12
+Vermiform appendix,9
+Vero cell,22
+Vertebral endplate,8
+Vesicular gland,6
+Vestibular hair cell,27
+Vestibulocochlear nerve,5
+Visceral endoderm,21
+Visual cortex,7
+Vitellarium,11
+Vitelline membrane,11
+Vitreous humor,15
+Vocal fold,26
+Vomeronasal nerve,7
+Vomeronasal organ,10
+WEHI-231 cell,17
+WIF-B cell,9
+WIL-2 cell,5
+WISH cell,8
+WRL-68 cell,6
+WRO cell,7
+Wes,17
+White adipose tissue,8
+Whole plant,44
+Wing disc,17
+Wkd,5
+Wood,8
+Wound fluid,8
+Wrc,13
+Xcp,11
+Xylem,9
+Y-79 cell,12
+Yolk sac,43
+Yolk sac cancer cell,5
+Yoshida sarcoma cell,5
+ZR-75-30 cell,24
+Zona pellucida,18
+Zygote,18
+a11,8
+a15,6
+a2,5
+a24,9
+aa94,5
+ac2,5
+adipose-derived stem cell,33
+ae1,10
+ae2,28
+ae3,54
+af1,20
+alphaT3-1 cell,7
+aml193,6
+arl6,30
+at1 cell,6
+b12,12
+b18,14
+b19,14
+b21,17
+b69,10
+b82,7
+b84,6
+b85,8
+b95.8,5
+b95a,5
+beta-TC3 cell,5
+bf2,14
+bl20,12
+bp86,7
+brl1,6
+bud8,8
+c32,9
+c83,6
+caki2,6
+cas1,14
+cc1,15
+cc81,5
+chp126,5
+chse214,7
+d17,8
+d2,5
+d36,7
+da1,13
+dg1,7
+dg2,5
+dg3,10
+dm15,7
+dr9,19
+e2,7
+e21,6
+el2,11
+em2,14
+em3,6
+f1,9
+fh1,23
+fh4,8
+fh6,6
+foreign-body giant cell,6
+free-living state,7
+frhk4,6
+g/g,38
+g2,22
+gh1,8
+gk1.5,5
+gl1,6
+gl6,6
+gp16,5
+hf1,7
+hr5,6
+hutu80,11
+i10,5
+igr1,6
+imr5,8
+jf1,13
+jm2,6
+jr1,5
+k1,11
+l14,5
+l35,5
+l540,5
+lat1,36
+lc90,9
+llcmk2,6
+lm5,5
+ls1,5
+marc145,6
+mbl2,17
+mc2,9
+mdamb157,7
+me180,7
+melan-a cell,10
+messa/dx5,5
+mfe296,5
+ml3,8
+mnng/hos,7
+mp1,15
+mp10,7
+mp4,5
+mt3,7
+n18,8
+nb41a3,5
+ncih1650,9
+nd7/23,15
+non-Hodgkin lymphoma cell,5
+non-neuronal cell,39
+nt2d1,7
+nuc1,21
+oa1,13
+oaw42,6
+okt8,10
+p1,10
+p190,11
+p3h3,6
+p3hr1,11
+p3u1,7
+p92,14
+p93,6
+p95,11
+pa317,5
+pb1,18
+pd5,5
+pg13,7
+phi1,7
+pi1,23
+pro-B-lymphocyte cell line,12
+psi2,9
+psn1,9
+qt35,5
+qt6,7
+r2c,6
+rab9,50
+ri1,5
+rj2.2.5,11
+rn22,6
+rpmi1788,5
+rt1,14
+rtg2,16
+sbc2,5
+sc1,16
+sknep1,11
+smc1,29
+sp95,6
+sw13,6
+tn368,6
+tn5b14,6
+tsA-201 cell,5
+u,10
+vp8,11
+vx2,9
+wc1,20
+werirb1,14
+wi38va13,7
+x63ag8.653,6
+yac1,13

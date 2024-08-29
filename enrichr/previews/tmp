@@ -1,0 +1,2519 @@
+==> Achilles_fitness_decrease_counts.csv <==
+Pathway,Count
+22RV1-prostate,113
+697-haematopoietic and lymphoid tissue,230
+786O-kidney,74
+A1207-central nervous system,115
+A172-central nervous system,97
+A204-soft tissue,64
+A2058-skin,162
+A549-lung,61
+A673-bone,137
+
+==> Achilles_fitness_increase_counts.csv <==
+Pathway,Count
+22RV1-prostate,30
+697-haematopoietic and lymphoid tissue,65
+786O-kidney,95
+A1207-central nervous system,183
+A172-central nervous system,74
+A204-soft tissue,120
+A2058-skin,61
+A549-lung,91
+A673-bone,58
+
+==> Aging_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+Rat liver 4 months vs 12 months GSE11097 aging:192,279
+Rat liver 4 months vs 12 months GSE11097 aging:190,299
+Human brain (frontal cortex) 55 years vs 82 years GSE53890 aging:229,287
+Mouse muscle 70 days vs 720 days GDS4904 aging:85,261
+Human CD4+Tlyphocytes 40 years vs 52 years GSE62373 aging:177,359
+Mouse bone marrow adipocyte 14 months vs 18 months GSE25905 aging:296,329
+Human CD4+Tlyphocytes 61 years vs 72 years GSE62373 aging:184,363
+Mouse liver 3 months vs 12 months GDS1990 aging:128,250
+Mouse inguinal fat 5 months vs 24 months GSE25325 aging:280,276
+
+==> Aging_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+Rat liver 4 months vs 12 months GSE11097 aging:192,321
+Rat liver 4 months vs 12 months GSE11097 aging:190,301
+Human brain (frontal cortex) 55 years vs 82 years GSE53890 aging:229,313
+Mouse muscle 70 days vs 720 days GDS4904 aging:85,339
+Human CD4+Tlyphocytes 40 years vs 52 years GSE62373 aging:177,241
+Mouse bone marrow adipocyte 14 months vs 18 months GSE25905 aging:296,271
+Human CD4+Tlyphocytes 61 years vs 72 years GSE62373 aging:184,237
+Mouse liver 3 months vs 12 months GDS1990 aging:128,350
+Mouse inguinal fat 5 months vs 24 months GSE25325 aging:280,324
+
+==> Allen_Brain_Atlas_10x_scRNA_2021_counts.csv <==
+Pathway,Count
+Human Astro L1 FGFR3 SERPINI2 down,976
+Human Astro L1 FGFR3 SERPINI2 up,101
+Human Astro L1-6 FGFR3 AQP1 down,707
+Human Astro L1-6 FGFR3 AQP1 up,45
+Human Astro L1-6 FGFR3 PLCG1 down,880
+Human Astro L1-6 FGFR3 PLCG1 up,64
+Human Endo L2-5 NOSTRIN SRGN down,703
+Human Endo L2-5 NOSTRIN SRGN up,43
+Human Exc L2 LAMP5 KCNG3 down,49
+
+==> Allen_Brain_Atlas_down_counts.csv <==
+Pathway,Count
+A4 noradrenergic cell group,300
+"AOB, glomerular layer",300
+"AOB, granular layer",300
+"AOB, internal plexiform layer",300
+"AOB, mitral cell layer",300
+"AOB, outer plexiform layer",300
+Abducens nucleus,300
+Accessory facial motor nucleus,300
+Accessory olfactory bulb,387
+
+==> Allen_Brain_Atlas_up_counts.csv <==
+Pathway,Count
+A4 noradrenergic cell group,301
+"AOB, glomerular layer",301
+"AOB, granular layer",301
+"AOB, internal plexiform layer",301
+"AOB, mitral cell layer",301
+"AOB, outer plexiform layer",301
+Abducens nucleus,301
+Accessory facial motor nucleus,301
+Accessory olfactory bulb,379
+
+==> ARCHS4_Cell-lines_counts.csv <==
+Pathway,Count
+22RV1,2395
+293F,2395
+A172,2395
+A375,2395
+A431,2395
+A549,2395
+A673,2395
+ASPC1,2395
+BEAS2B,2395
+
+==> ARCHS4_IDG_Coexp_counts.csv <==
+Pathway,Count
+PRKAG1 IDG kinase ARCHS4 coexpression,299
+PRKAB1 IDG kinase ARCHS4 coexpression,299
+ADCK2 IDG kinase ARCHS4 coexpression,299
+ADCK5 IDG kinase ARCHS4 coexpression,299
+ALPK3 IDG kinase ARCHS4 coexpression,299
+ADCK4 IDG kinase ARCHS4 coexpression,299
+ALPK2 IDG kinase ARCHS4 coexpression,299
+BCKDK IDG kinase ARCHS4 coexpression,299
+CAMKV IDG kinase ARCHS4 coexpression,299
+
+==> ARCHS4_Kinases_Coexp_counts.csv <==
+Pathway,Count
+AKT1 human kinase ARCHS4 coexpression,299
+AKT2 human kinase ARCHS4 coexpression,299
+AKT3 human kinase ARCHS4 coexpression,299
+CDC42BPA human kinase ARCHS4 coexpression,299
+CDC42BPB human kinase ARCHS4 coexpression,299
+CDC42BPG human kinase ARCHS4 coexpression,299
+CIT human kinase ARCHS4 coexpression,299
+DMPK human kinase ARCHS4 coexpression,299
+GRK1 human kinase ARCHS4 coexpression,299
+
+==> ARCHS4_TFs_Coexp_counts.csv <==
+Pathway,Count
+NFYA human tf ARCHS4 coexpression,299
+ARX human tf ARCHS4 coexpression,299
+HOXA11 human tf ARCHS4 coexpression,299
+SOX8 human tf ARCHS4 coexpression,299
+ZFX human tf ARCHS4 coexpression,299
+DLX6 human tf ARCHS4 coexpression,299
+ETV1 human tf ARCHS4 coexpression,299
+PAX6 human tf ARCHS4 coexpression,299
+TEAD3 human tf ARCHS4 coexpression,299
+
+==> ARCHS4_Tissues_counts.csv <==
+Pathway,Count
+ADIPOSE (BULK TISSUE),2316
+ADRENAL GLAND,2316
+ALPHA CELL,2316
+ALVEOLAR CELL TYPE II,2316
+ALVEOLAR MACROPHAGE,2316
+AMNIOTIC FLUID,2316
+ASTROCYTE,2316
+ATRIUM,2316
+BASAL CELL,2316
+
+==> Azimuth_Cell_Types_2021_counts.csv <==
+Pathway,Count
+Acinar CL0002064,10
+Activated Stellate CL0002410,10
+Adventitial Fibroblast CL0000057,10
+Airway Smooth Muscle UBERON0004225,10
+Alpha Islet Cell CL0000171,10
+Alveolar Epithelial Type 1 CL0002062,10
+Alveolar Epithelial Type 2 CL0002063,13
+Alveolar Fibroblast CL0000057,10
+Artery UBERON0001637,10
+
+==> BioCarta_2013_counts.csv <==
+Pathway,Count
+DEATH PATHWAY,33
+TCAPOPTOSIS PATHWAY,11
+CCR3 PATHWAY,23
+NEUTROPHIL PATHWAY,8
+ALTERNATIVE PATHWAY,9
+PGC1A PATHWAY,24
+PML PATHWAY,17
+CALCINEURIN PATHWAY,19
+RAN PATHWAY,5
+
+==> BioCarta_2015_counts.csv <==
+Pathway,Count
+acetylation and deacetylation of rela in nucleus,5
+actions of nitric oxide in the heart,42
+activation of camp-dependent protein kinase pka,29
+activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor,43
+activation of pkc through g-protein coupled receptors,11
+adp-ribosylation factor,29
+agrin in postsynaptic differentiation,47
+akap95 role in mitosis and chromosome dynamics,14
+akt signaling pathway,18
+
+==> BioCarta_2016_counts.csv <==
+Pathway,Count
+Classical Complement Pathway Homo sapiens h classicPathway,15
+Lectin Induced Complement Pathway Homo sapiens h lectinPathway,13
+Alternative Complement Pathway Homo sapiens h alternativePathway,10
+Inhibition of Matrix Metalloproteinases Homo sapiens h reckPathway,8
+Reversal of Insulin Resistance by Leptin Homo sapiens h leptinPathway,10
+Eicosanoid Metabolism Homo sapiens h eicosanoidPathway,23
+Mechanism of Acetaminophen Activity and Toxicity Homo sapiens h AcetaminophenPathway,7
+Regulators of Bone Mineralization Homo sapiens h npp1Pathway,11
+Platelet Amyloid Precursor Protein Pathway Homo sapiens h plateletAppPathway,14
+
+==> BioPlanet_2019_counts.csv <==
+Pathway,Count
+2-LTR circle formation,5
+4-1BB-dependent immune response,20
+ABC transporters,47
+ABCA transporters in lipid homeostasis,17
+ACE inhibitor pathway,17
+ADP signalling through P2Y purinoceptor 1,6
+ADP signalling through P2Y purinoceptor 12,27
+ADP-ribosylation factor,29
+AKAP95 role in mitosis and chromosome dynamics,15
+
+==> BioPlex_2017_counts.csv <==
+Pathway,Count
+ATXN2,19
+ARSA,13
+MED20,13
+TCEAL1,29
+PRPF19,37
+MYF6,11
+SEMG2,20
+KLHL10,32
+C5orf34,13
+
+==> Cancer_Cell_Line_Encyclopedia_counts.csv <==
+Pathway,Count
+NCIH810 LUNG,315
+MEG01 HAEMATOPOIETIC AND LYMPHOID TISSUE,248
+COV434 OVARY,278
+PECAPJ49 UPPER AERODIGESTIVE TRACT,46
+PC3 PROSTATE,83
+NCO2 HAEMATOPOIETIC AND LYMPHOID TISSUE,231
+SW900 LUNG,41
+HS172T URINARY TRACT,150
+VMCUB1 URINARY TRACT,119
+
+==> CCLE_Proteomics_2020_counts.csv <==
+Pathway,Count
+22RV1 PROSTATE TenPx24,854
+697 HAEMATOPOIETIC AND LYMPHOID TISSUE TenPx30,752
+769P KIDNEY TenPx25,552
+786O KIDNEY TenPx10,366
+8305C THYROID TenPx30,730
+8505C THYROID TenPx40,560
+A101D SKIN TenPx38,964
+A172 CENTRAL NERVOUS SYSTEM TenPx24,644
+A204 SOFT TISSUE TenPx23,717
+
+==> CellMarker_Augmented_2021_counts.csv <==
+Pathway,Count
+Proximal Tubular cell:Kidney,101
+Ito Cell (Hepatic Stellate cell):Liver,6
+Trophoblast cell:Endometrium,100
+Primordial Germ cell:Germ,92
+Epithelial cell:Corneal Epithelium,98
+Cytotrophoblast:Placenta,98
+Periosteum-derived Progenitor cell:Periosteum,101
+Amnion Epithelial cell:Amniotic Membrane,86
+Primitive Streak cell:Primitive Streak,98
+
+==> ChEA_2013_counts.csv <==
+Pathway,Count
+PAX6-23342162-BETA-FORBRAIN-LENS-MOUSE,1001
+SRY-25088423-EMBRYONIC GONADS-MOUSE,3083
+HOXB4-20404135-EML-MOUSE,1824
+GATA1-19941827-MEL-mouse,1834
+SOX2-19030024-MESC-mouse,863
+ELF1-17652178-JURKAT-HUMAN,133
+NFIB-24661679-E16.5 LUNG-MOUSE,573
+E2F4-17652178-JURKAT-HUMAN,1002
+BMI1-19503595-MEFC-mouse,661
+
+==> ChEA_2015_counts.csv <==
+Pathway,Count
+VDR 24763502 ChIP-Seq THP-1 Human,1288
+ELK1 22589737 ChIP-Seq MCF10A Human,928
+SPI1 23127762 ChIP-Seq K562 Human,1389
+REST 21632747 ChIP-Seq MESC Mouse,2339
+SUZ12 18555785 ChIP-Seq MESC Mouse,1058
+STAT3 22323479 ChIP-Seq MACROPHAGE Mouse,38
+CCND1 20090754 ChIP-ChIP RETINA Mouse,2137
+JUN 26020271 ChIP-Seq SMOOTH MUSCLE Human,2000
+SMAD1 18555785 ChIP-Seq MESC Mouse,610
+
+==> ChEA_2016_counts.csv <==
+Pathway,Count
+BP1 19119308 ChIP-ChIP Hs578T Human,18
+FOXP1 22492998 ChIP-Seq STRATIUM Mouse,26
+E4F1 26484288 ChIP-Seq MOUSE EMBRYONIC FIBROBLAST Mouse,30
+RBPJ 22232070 ChIP-Seq NCS Mouse,34
+TCF21 23034159 ChIP-ChIP E13 GONADS Rat,37
+GATA1 22025678 ChIP-Seq K562 Human,38
+HOXA2 22223247 ChIP-Seq E11.5 EMBRYO Mouse,38
+STAT3 22323479 ChIP-Seq MACROPHAGE Mouse,38
+TP63 17297297 ChIP-ChIP HaCaT Human,40
+
+==> ChEA_2022_counts.csv <==
+Pathway,Count
+BP1 19119308 ChIP-ChIP Hs578T Human,18
+FOXP1 22492998 ChIP-Seq STRATIUM Mouse,16
+E4F1 26484288 ChIP-Seq MOUSE EMBRYONIC FIBROBLAST Mouse,17
+RBPJ 22232070 ChIP-Seq NCS Mouse,24
+TCF21 23034159 ChIP-ChIP E13 GONADS Rat,22
+GATA1 22025678 ChIP-Seq K562 Human,27
+HOXA2 22223247 ChIP-Seq E11.5 EMBRYO Mouse,23
+STAT3 22323479 ChIP-Seq MACROPHAGE Mouse,32
+TP63 17297297 ChIP-ChIP HaCaT Human,34
+
+==> Chromosome_Location_counts.csv <==
+Pathway,Count
+chr16q,5
+chr5q23,86
+chr16q24,129
+chr8q24,239
+chr4p,3
+chr13q11,24
+chr7p21,60
+chr10q23,148
+chr13q13,50
+
+==> Chromosome_Location_hg19_counts.csv <==
+Pathway,Count
+chr6 ssto hap7,190
+chr16,1113
+chr6 cox hap2,235
+chr4,1031
+chrY,141
+chr20,757
+chr19 gl000209 random,9
+chrUn gl000220,31
+chr7 gl000195 random,5
+
+==> ClinVar_2019_counts.csv <==
+Pathway,Count
+4p partial monosomy syndrome,6
+achromatopsia,5
+acute lymphoid leukemia,7
+acute myeloid leukemia,20
+adult junctional epidermolysis bullosa,5
+age-related macular degeneration,13
+aicardi goutieres syndrome,5
+alpha-dystroglycan related dystrophy,6
+alzheimer's disease,10
+
+==> CORUM_counts.csv <==
+Pathway,Count
+BCL6-HDAC4 complex (human),2
+BCL6-HDAC5 complex (human),2
+BCL6-HDAC7 complex (human),2
+Multisubunit ACTR coactivator complex (human),4
+6S-nuclear aryl hydrocarbon (Ah) receptor ligand-activated complex (mouse),2
+BLOC-3 (biogenesis of lysosome-related organelles complex 3) (human),2
+BLOC-2 (biogenesis of lysosome-related organelles complex 2) (human),3
+MUS81-CDS1 complex (human),2
+NCOR complex (human),6
+
+==> COVID-19_Related_Gene_Sets_2021_counts.csv <==
+Pathway,Count
+100 gene most correlated to LDLRAD4 based on ARCHS4 co-expression,80
+152 Down Genes from GEN3VA Mouse Lung; Accession: GSE19137 Platform: GPL1261 Entry 6,148
+178 positive hits from CRISPR screen of Heaton et al. in A549-ACE2 cells,170
+184 proteins up-regualated at 0h in SARS-CoV-2 infected cells from Bouhaddou et al. 2020,182
+192 negative hits from CRISPR screen of Heaton et al. in A549-ACE2 cells,180
+197 proteins down-regualated at 4h in SARS-CoV-2 infected cells from Bouhaddou et al. 2020,196
+21 Positive hits from CRISPR screen from Hoffmann et al. (PMID 32935098) in Huh-7.5 cells at 37 deg C,20
+235 proteins up-regualated in SARS-CoV-2 infected cells from Bouhaddou et al. 2020,233
+238 proteins down-regualated  in SARS-CoV-2 infected cells from Bouhaddou et al. 2020,236
+
+==> COVID-19_Related_Gene_Sets_counts.csv <==
+Pathway,Count
+COVID19-E protein host PPI from Krogan,6
+COVID19-M protein host PPI from Krogan,30
+COVID19-N protein host PPI from Krogan,15
+COVID19-Nsp1 protein host PPI from Krogan,6
+COVID19-Nsp10 protein host PPI from Krogan,14
+COVID19-Nsp12 protein host PPI from Krogan,20
+COVID19-Nsp13 protein host PPI from Krogan,40
+COVID19-Nsp2 protein host PPI from Krogan,7
+COVID19-Nsp4 protein host PPI from Krogan,8
+
+==> Data_Acquisition_Method_Most_Popular_Genes_counts.csv <==
+Pathway,Count
+ChIP-seq,100
+Data aggregation,100
+GWAS,100
+KO Mice Phenotyping,100
+L1000 Expression Profiling,100
+Literature,100
+Mass Spectrometry,100
+Microarray,100
+Multiple Assays,100
+
+==> dbGaP_counts.csv <==
+Pathway,Count
+"Aortic Aneurysm, Abdominal",3
+Nasopharyngeal Neoplasms,4
+Glioma,5
+Carotid Stenosis,17
+Intracranial Aneurysm,7
+Optic Disk,8
+Breast Neoplasms,57
+Gout,12
+"F8 protein, human [Supplementary Concept]",3
+
+==> DepMap_WG_CRISPR_Screens_Broad_CellLines_2019_counts.csv <==
+Pathway,Count
+127399,337
+143B,336
+23132/87,468
+253J,432
+42-MG-BA,288
+5637,287
+59M,305
+639V,302
+647V,318
+
+==> DepMap_WG_CRISPR_Screens_Sanger_CellLines_2019_counts.csv <==
+Pathway,Count
+22Rv1,187
+23132/87,373
+42-MG-BA,282
+769-P,461
+8-MG-BA,762
+A-172,299
+A-253,223
+A-375,317
+A-549,228
+
+==> Descartes_Cell_Types_and_Tissue_2021_counts.csv <==
+Pathway,Count
+Acinar cells in Pancreas,91
+Adrenocortical cells in Adrenal,12
+AFP ALB positive cells in Placenta,251
+AFP ALB positive cells in Spleen,251
+Amacrine cells in Eye,9
+Antigen presenting cells in Thymus,209
+Astrocytes in Cerebellum,149
+Astrocytes in Cerebrum,190
+Astrocytes in Eye,85
+
+==> Diabetes_Perturbations_GEO_2022_counts.csv <==
+Pathway,Count
+GSE151030 S273A Mm WAT Dn,125
+GSE151030 S273A Mm WAT Up,85
+GSE106295 DKO Mm Heart Up,174
+GSE162037 Mrp4- Mm WAT Dn,163
+GSE162037 Mrp4- Mm WAT Up,156
+GSE149662 IRMOE Mm Muscle Dn,202
+GSE101537 CBP-KO Mm Islet Dn,191
+GSE149662 IRMOE Mm Muscle Up,180
+GSE101537 CBP-KO Mm Islet Up,194
+
+==> Disease_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+asthma DOID-2841 human GSE16032 sample 729,303
+Type 1 diabetes mellitus C0011854 human GSE10586 sample 9,213
+Diabetic Neuropathy C0011882 mouse GSE11343 sample 7,333
+tibial muscular dystrophy DOID-9884 human GSE42806 sample 539,335
+Cushing Syndrome C0010481 human GSE4060 sample 1,284
+"Leukemia, Chronic T-Cell C2363142 human GSE5788 sample 74",313
+Retinal damage C0235272 rat GSE1001 sample 312,279
+schizophrenia DOID-5419 human GSE21935 sample 855,350
+Infection by Yersinia enterocolitica C0238528 mouse GSE2973 sample 127,284
+
+==> Disease_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+asthma DOID-2841 human GSE16032 sample 729,297
+Type 1 diabetes mellitus C0011854 human GSE10586 sample 9,387
+Diabetic Neuropathy C0011882 mouse GSE11343 sample 7,267
+tibial muscular dystrophy DOID-9884 human GSE42806 sample 539,265
+Cushing Syndrome C0010481 human GSE4060 sample 1,316
+"Leukemia, Chronic T-Cell C2363142 human GSE5788 sample 74",287
+Retinal damage C0235272 rat GSE1001 sample 312,321
+schizophrenia DOID-5419 human GSE21935 sample 855,250
+Infection by Yersinia enterocolitica C0238528 mouse GSE2973 sample 127,316
+
+==> Disease_Signatures_from_GEO_down_2014_counts.csv <==
+Pathway,Count
+Actinic keratosis GSE2503,300
+Acute Lung Injury GSE1871,300
+Acute Lung Injury GSE10474,300
+Adenocarcinoma of lung GSE1037,300
+Adenoma GSE8514,300
+Adenoma GSE4183,300
+Alzheimer's Disease GSE1297,300
+Alzheimer's Disease GSE5281,300
+Anaplasmosis GSE2600,300
+
+==> Disease_Signatures_from_GEO_up_2014_counts.csv <==
+Pathway,Count
+Actinic keratosis GSE2503,300
+Acute Lung Injury GSE1871,300
+Acute Lung Injury GSE10474,300
+Adenocarcinoma of lung GSE1037,300
+Adenoma GSE8514,300
+Adenoma GSE4183,300
+Alzheimer's Disease GSE1297,300
+Alzheimer's Disease GSE5281,300
+Anaplasmosis GSE2600,300
+
+==> DisGeNET_counts.csv <==
+Pathway,Count
+"46, XX Testicular Disorders of Sex Development",9
+"46, XY Disorders of Sex Development",19
+"46, XY female",20
+"46,XY partial gonadal dysgenesis",11
+"5,10-Methylenetetrahydrofolate reductase deficiency",19
+"Abnormalities, Drug-Induced",5
+"Abortion, Habitual",6
+"Abortion, Tubal",109
+"Achondrogenesis, type IB (disorder)",5
+
+==> DrugMatrix_counts.csv <==
+Pathway,Count
+(+)-Pulegone-200 mg/kg in CMC-Rat-Kidney-1d-dn,317
+(+)-Pulegone-200 mg/kg in CMC-Rat-Kidney-1d-up,283
+(+)-Pulegone-200 mg/kg in CMC-Rat-Kidney-3d-dn,312
+(+)-Pulegone-200 mg/kg in CMC-Rat-Kidney-3d-up,288
+(+)-Pulegone-200 mg/kg in CMC-Rat-Kidney-5d-dn,314
+(+)-Pulegone-200 mg/kg in CMC-Rat-Kidney-5d-up,286
+(R)-Bicalutamide-1400 mg/kg in CMC-Rat-Kidney-1d-dn,276
+(R)-Bicalutamide-1400 mg/kg in CMC-Rat-Kidney-1d-up,324
+(R)-Bicalutamide-1400 mg/kg in CMC-Rat-Kidney-3d-dn,277
+
+==> Drug_Perturbations_from_GEO_2014_counts.csv <==
+Pathway,Count
+estradiol mus musculus gpl339 gse16854 chdir down,43
+letrozole homo sapiens gpl3921 gse33366 chdir down,404
+mifepristone homo sapiens gpl6947 gse39654 chdir down,298
+tamoxifen homo sapiens gpl96 gds2367 chdir down,156
+fluorouracil homo sapiens gpl550 zr-75-1 gds1627 chdir up,51
+estradiol homo sapiens gpl570 gds3283 chdir up,6814
+cisplatin homo sapiens gds3910 chdir up,1542
+cyclophosphamide mus musculus gpl13209 gse27421 chdir up,96
+colchicine homo sapiens gpl3386 gds1753 chdir down,161
+
+==> Drug_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+tretinoin DB00755 mouse GSE31280 sample 2829,216
+morphine 5288826 mouse GSE7762 sample 3489,387
+"cytarabine, 2xEC50, 3 d 6253 human GSE6930 sample 3423",318
+estradiol 5757 mouse GSE2889 sample 3608,431
+curcumin 969516 human GSE10896 sample 3408,385
+"cytarabine, EC50, 5 d 6253 human GSE6930 sample 3375",468
+neocarzinostatin 5282473 human GSE1676 sample 3113,301
+Etanercept DB00005 human GSE36177 sample 2596,223
+Retinoic acid 444795 human GSE32161 sample 3237,241
+
+==> Drug_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+tretinoin DB00755 mouse GSE31280 sample 2829,384
+morphine 5288826 mouse GSE7762 sample 3489,213
+"cytarabine, 2xEC50, 3 d 6253 human GSE6930 sample 3423",282
+estradiol 5757 mouse GSE2889 sample 3608,169
+curcumin 969516 human GSE10896 sample 3408,215
+"cytarabine, EC50, 5 d 6253 human GSE6930 sample 3375",132
+neocarzinostatin 5282473 human GSE1676 sample 3113,299
+Etanercept DB00005 human GSE36177 sample 2596,377
+Retinoic acid 444795 human GSE32161 sample 3237,359
+
+==> DSigDB_counts.csv <==
+Pathway,Count
+dopamine,31
+4-aminopyridine,36
+acetaminophen,21
+albendazole,21
+alprazolam,27
+amiodarone,46
+amitriptyline,32
+amoxapine,35
+bisacodyl,23
+
+==> Elsevier_Pathway_Collection_counts.csv <==
+Pathway,Count
+A-cell (X-like): Ghrelin and Nesfatin-1 Synthesis,15
+Acid Secretion by Collecting Duct of Kidney Nephron,7
+"Activin, Inhibin and Follistatin Action on Pituitary Gland",11
+Adenosine Role in Sleep Regulation,9
+Adipokines Production by Adipocyte,46
+ADORA1/2A -> Exocytosis,15
+ADORA2A/B -> Vasodilation,5
+ADORA3 -> Mast-Cell Degranulation,7
+ADRA1 -> Ion Channels,17
+
+==> ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X_counts.csv <==
+Pathway,Count
+NANOG CHEA,595
+AR CHEA,1095
+ETS1 ENCODE,156
+ZC3H11A ENCODE,129
+E2F6 ENCODE,3245
+IRF8 CHEA,121
+YY1 ENCODE,2753
+CHD1 ENCODE,655
+SRF ENCODE,299
+
+==> ENCODE_Histone_Modifications_2013_counts.csv <==
+Pathway,Count
+GM12878 H3K36me3,187
+HEE H3K4me3,925
+K562 H3K4me3,3460
+SKNSHRA H3K27me3,504
+HEPG2 H3K27me3,150
+HCF H3K4me3,925
+PANC1 H3K27ac,1999
+NHDFNEO H3K4me3,823
+HMEC H3K27me3,90
+
+==> ENCODE_Histone_Modifications_2015_counts.csv <==
+Pathway,Count
+H4K20me1 myotube hg19,2000
+H3K9ac HepG2 hg19,2000
+H3K27ac testis mm9,2000
+H3K9me3 mammary epithelial cell hg19,2000
+H3K4me3 K562 hg19,4606
+H3K9me3 A549 hg19,2000
+H3K27ac H1-hESC hg19,2000
+H3K27ac A549 hg19,2991
+H3K9ac myotube hg19,2000
+
+==> ENCODE_TF_ChIP-seq_2014_counts.csv <==
+Pathway,Count
+PML K562,5326
+P300 H1,2566
+RFX5 HELA-S3,6678
+E2F4 GM12878,3031
+SP1 HEPG2,3534
+CTCF H1,7157
+NFKB GM19193,1190
+TR4 HEPG2,737
+CREB1 H1,5307
+
+==> ENCODE_TF_ChIP-seq_2015_counts.csv <==
+Pathway,Count
+POLR2AphosphoS2 MEL cell line mm9,2000
+STAT1 HeLa-S3 hg19,945
+MAX HepG2 hg19,3158
+CREB1 HepG2 hg19,1423
+CTCF fibroblast of upper leg skin hg19,1665
+TRIM28 U2OS hg19,2000
+JUND MEL cell line mm9,257
+EZH2 keratinocyte hg19,2000
+MYOD1 C2C12 mm9,1026
+
+==> Enrichr_Libraries_Most_Popular_Genes_counts.csv <==
+Pathway,Count
+Achilles fitness decrease,105
+Achilles fitness increase,124
+Aging Perturbations from GEO down,103
+Aging Perturbations from GEO up,100
+Allen Brain Atlas down,102
+Allen Brain Atlas up,104
+ARCHS4 Cell-lines,120
+ARCHS4 IDG Coexp,100
+ARCHS4 Kinases Coexp,110
+
+==> Enrichr_Submissions_TF-Gene_Coocurrence_counts.csv <==
+Pathway,Count
+ADAMTS17,299
+ADAMTS19,299
+ADAR,299
+ADNP,299
+ADNP2,299
+AEBP2,299
+AFF1,299
+AFF3,299
+AFF4,299
+
+==> Enrichr_Users_Contributed_Lists_2020_counts.csv <==
+Pathway,Count
+"+E2, CtS +E2, si10 -E2, si10",21
++ly regulated SILAC Cradiomyoctes,45
+05 miR-TF genage,84
+06 miR-TF agemap,86
+1.5-FC Up,590
+10 percent of the longest transcripts of the human genome,1812
+100 genes for Ex 11,100
+100 upregulated genes in Trophectoderm (GSE66507),100
+1000 murine c10,874
+
+==> Epigenomics_Roadmap_HM_ChIP-seq_counts.csv <==
+Pathway,Count
+H3K4me3 CD8 Memory Primary Cells,9655
+H3K79me1 IMR90,2902
+H3K4ac IMR90,6751
+H3K4me1 CD4+ CD25int CD127+ Tmem Primary Cells,2991
+H3K27ac iPS DF 19.11,7920
+H3K9me3 Brain Cingulate Gyrus,115
+H3K4me1 CD34 Cultured Cells,6532
+H3K4me1 Adipose Nuclei,2902
+H3K9me3 Adult Liver,240
+
+==> ESCAPE_counts.csv <==
+Pathway,Count
+CHiP POU5F1-18700969,567
+RAD21-21589869 DOWN,659
+Protein POU5F1-19536159,2
+Protein SALL4-19440552,6
+CHiP KLF4-19030024,1502
+CHiP SMAD1-18555785,610
+CHiP NANOG-18700969,344
+Protein NANOG-18454141,2
+CHiP PRDM14-21183938,1758
+
+==> FANTOM6_lncRNA_KD_DEGs_counts.csv <==
+Pathway,Count
+A1BG-AS1-ASO_G0268895_01-DEGs Up,345
+A1BG-AS1-ASO_G0268895_01-DEGs Down,442
+A1BG-AS1-ASO_G0268895_03-DEGs Up,711
+A1BG-AS1-ASO_G0268895_03-DEGs Down,1308
+AC004980.7-ASO_G0205485_01-DEGs Up,221
+AC004980.7-ASO_G0205485_01-DEGs Down,647
+AC004980.7-ASO_G0205485_03-DEGs Up,13
+AC004980.7-ASO_G0205485_03-DEGs Down,12
+AC005592.2-ASO_G0231185_02-DEGs Up,157
+
+==> GeDiPNet_2023_counts.csv <==
+Pathway,Count
+1P36 Deletion Syndrome,5
+22Q11 Deletion Syndrome,10
+22Q11 Partial Monosomy Syndrome,9
+22Q11.2 Deletion Syndrome,9
+3M Syndrome,5
+"46, XX Gonadal Dysgenesis",9
+"46, XX Gonadal Sex Reversal",6
+"46, XY Complete Gonadal Dysgenesis",10
+"46, XY Disorder Of Sex Development",9
+
+==> Gene_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+Pmp22 KO mouse GSE1947 sample 969,332
+HIPK2 KD human GSE43881 sample 2873,336
+Kdm6a KD mouse GSE45034 sample 1302,255
+SMC3 KD human GSE38252 sample 2222,302
+Nr3c1 KO mouse GSE23724 sample 3014,334
+Mef2d KD mouse GSE47150 sample 366,271
+RFWD2 KD human GSE27914 sample 1243,303
+Kcnip3 KO mouse GSE16874 sample 1031,261
+Runx1 KO mouse GSE2592 sample 277,289
+
+==> Gene_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+Pmp22 KO mouse GSE1947 sample 969,268
+HIPK2 KD human GSE43881 sample 2873,264
+Kdm6a KD mouse GSE45034 sample 1302,345
+SMC3 KD human GSE38252 sample 2222,298
+Nr3c1 KO mouse GSE23724 sample 3014,266
+Mef2d KD mouse GSE47150 sample 366,329
+RFWD2 KD human GSE27914 sample 1243,297
+Kcnip3 KO mouse GSE16874 sample 1031,339
+Runx1 KO mouse GSE2592 sample 277,311
+
+==> Genes_Associated_with_NIH_Grants_counts.csv <==
+Pathway,Count
+R01HL043339,4
+R01DK054736,5
+T32CA070083,4
+R01GM078270,3
+ZIAAG000928,14
+R01AI020059,5
+R37AI023081,18
+R01DK097376,4
+R01CA081157,7
+
+==> GeneSigDB_counts.csv <==
+Pathway,Count
+19951989-Table2,28
+16152586-Table1,14
+15467184-Table3a,30
+18081427-TableS7,556
+18081427-TableS8,751
+18302714-Figure1b,18
+19408105-Table4,51
+15467184-Table3b,29
+18535662-TableS2a,978
+
+==> Genome_Browser_PWMs_counts.csv <==
+Pathway,Count
+RGAGGAARY V$PU1 Q6,522
+KRCTCNNNNMANAGC UNKNOWN,66
+AAAYWAACM V$HFH4 01,264
+YYCATTCAWW UNKNOWN,194
+CYTAGCAAY UNKNOWN,153
+CAGCTG V$AP4 Q5,1561
+GGCNKCCATNK UNKNOWN,122
+RRAGTTGT UNKNOWN,258
+GATTGGY V$NFY Q6 01,1190
+
+==> GlyGen_Glycosylated_Proteins_2022_counts.csv <==
+Pathway,Count
+G00031MO,27
+G00406II,44
+G00912UN,135
+G01614ZM,22
+G01650EU,34
+G02030ZB,76
+G02315DX,16
+G02628JF,33
+G02815KT,34
+
+==> GO_Biological_Process_2013_counts.csv <==
+Pathway,Count
+protein secretion (GO:0009306),15
+rRNA transcription (GO:0009303),13
+positive regulation of DNA replication (GO:0045740),23
+respiratory burst (GO:0045730),9
+positive regulation of protein catabolic process (GO:0045732),20
+positive regulation of DNA repair (GO:0045739),15
+negative regulation of adenylate cyclase activity (GO:0007194),26
+inhibition of adenylate cyclase activity by G-protein signaling (GO:0007193),13
+regulation of transcription factor activity (GO:0051090),66
+
+==> GO_Biological_Process_2015_counts.csv <==
+Pathway,Count
+positive regulation of insulin secretion involved in cellular response to glucose stimulus (GO:0035774),14
+retinoid metabolic process (GO:0001523),81
+type B pancreatic cell proliferation (GO:0044342),8
+CDP-diacylglycerol metabolic process (GO:0046341),14
+cellular response to heat (GO:0034605),29
+definitive hemopoiesis (GO:0060216),14
+dendrite development (GO:0016358),35
+amino sugar catabolic process (GO:0046348),13
+negative regulation of lymphocyte mediated immunity (GO:0002707),25
+
+==> GO_Biological_Process_2017b_counts.csv <==
+Pathway,Count
+tRNA modification (GO:0006400),38
+minus-end-directed organelle transport along microtubule (GO:0072385),8
+termination of mitochondrial transcription (GO:0006393),15
+purine nucleotide interconversion (GO:0015950),32
+regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway (GO:1903381),16
+retinal metabolic process (GO:0042574),63
+protein-tetrapyrrole linkage (GO:0017006),84
+negative regulation of type III interferon production (GO:0034345),7
+regulation of translation in response to stress (GO:0043555),22
+
+==> GO_Biological_Process_2017_counts.csv <==
+Pathway,Count
+monocyte activation (GO:0042117),8
+cobalamin metabolic process (GO:0009235),21
+prostaglandin biosynthetic process (GO:0001516),12
+prostaglandin metabolic process (GO:0006693),9
+cyclooxygenase pathway (GO:0019371),11
+chromatin silencing (GO:0006342),37
+positive regulation of intracellular estrogen receptor signaling pathway (GO:0033148),6
+histone H3-K4 methylation (GO:0051568),14
+blood vessel endothelial cell proliferation involved in sprouting angiogenesis (GO:0002043),6
+
+==> GO_Biological_Process_2018_counts.csv <==
+Pathway,Count
+positive regulation of posttranscriptional gene silencing (GO:0060148),11
+regulation of cell cycle process (GO:0010564),90
+angiotensin-activated signaling pathway (GO:0038166),7
+"DNA-templated transcription, termination (GO:0006353)",106
+regulation of protein sumoylation (GO:0033233),17
+regulation of cellular response to stress (GO:0080135),104
+potassium ion import (GO:0010107),38
+protein complex disassembly (GO:0043241),46
+protein insertion into mitochondrial membrane (GO:0051204),8
+
+==> GO_Biological_Process_2021_counts.csv <==
+Pathway,Count
+'de novo' posttranslational protein folding (GO:0051084),31
+2-oxoglutarate metabolic process (GO:0006103),14
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process (GO:0050428),6
+3'-phosphoadenosine 5'-phosphosulfate metabolic process (GO:0050427),25
+3'-UTR-mediated mRNA destabilization (GO:0061158),16
+3'-UTR-mediated mRNA stabilization (GO:0070935),18
+5-phosphoribose 1-diphosphate biosynthetic process (GO:0006015),5
+5-phosphoribose 1-diphosphate metabolic process (GO:0046391),5
+5S class rRNA transcription by RNA polymerase III (GO:0042791),6
+
+==> GO_Biological_Process_2023_counts.csv <==
+Pathway,Count
+'De Novo' AMP Biosynthetic Process (GO:0044208),6
+'De Novo' Post-Translational Protein Folding (GO:0051084),32
+2-Oxoglutarate Metabolic Process (GO:0006103),14
+3'-UTR-mediated mRNA Destabilization (GO:0061158),15
+3'-UTR-mediated mRNA Stabilization (GO:0070935),18
+3'-Phosphoadenosine 5'-Phosphosulfate Metabolic Process (GO:0050427),15
+5S Class rRNA Transcription By RNA Polymerase III (GO:0042791),5
+7-Methylguanosine RNA Capping (GO:0009452),5
+7-Methylguanosine Cap Hypermethylation (GO:0036261),7
+
+==> GO_Cellular_Component_2013_counts.csv <==
+Pathway,Count
+axon (GO:0030424),12
+dendrite (GO:0030425),17
+growth cone (GO:0030426),12
+trans-Golgi network (GO:0005802),22
+centrosome (GO:0005813),77
+microtubule organizing center (GO:0005815),91
+centriole (GO:0005814),10
+spindle (GO:0005819),15
+cytosol (GO:0005829),740
+
+==> GO_Cellular_Component_2015_counts.csv <==
+Pathway,Count
+ribonucleoprotein granule (GO:0035770),111
+plasma lipoprotein particle (GO:0034358),38
+proteasome accessory complex (GO:0022624),17
+cytosolic large ribosomal subunit (GO:0022625),52
+cytoplasmic stress granule (GO:0010494),32
+contractile ring (GO:0070938),9
+H4 histone acetyltransferase complex (GO:1902562),16
+plasma membrane raft (GO:0044853),58
+TOR complex (GO:0038201),11
+
+==> GO_Cellular_Component_2017b_counts.csv <==
+Pathway,Count
+"vacuolar proton-transporting V-type ATPase, V1 domain (GO:0000221)",11
+extrinsic component of autophagosome membrane (GO:0097635),15
+junctional sarcoplasmic reticulum membrane (GO:0014701),9
+Barr body (GO:0001740),26
+cytoplasmic ribonucleoprotein granule (GO:0036464),32
+phagocytic vesicle lumen (GO:0097013),49
+TEAD-2-YAP complex (GO:0071149),35
+vacuolar proton-transporting V-type ATPase complex (GO:0016471),9
+extrinsic component of periplasmic side of plasma membrane (GO:0031236),7
+
+==> GO_Cellular_Component_2017_counts.csv <==
+Pathway,Count
+external side of plasma membrane (GO:0009897),124
+"immunoglobulin complex, circulating (GO:0042571)",40
+blood microparticle (GO:0072562),174
+condensed chromosome kinetochore (GO:0000777),10
+"condensed nuclear chromosome, centromeric region (GO:0000780)",6
+mitochondrion (GO:0005739),921
+centrosome (GO:0005813),401
+mitochondrial respiratory chain complex III (GO:0005750),11
+P-body (GO:0000932),87
+
+==> GO_Cellular_Component_2018_counts.csv <==
+Pathway,Count
+platelet dense granule (GO:0042827),21
+chromatoid body (GO:0033391),8
+Golgi trans cisterna (GO:0000138),7
+elongin complex (GO:0070449),8
+telomerase holoenzyme complex (GO:0005697),22
+chromosomal region (GO:0098687),76
+lipid droplet (GO:0005811),64
+centriole (GO:0005814),95
+polysome (GO:0005844),63
+
+==> GO_Cellular_Component_2021_counts.csv <==
+Pathway,Count
+9+0 non-motile cilium (GO:0097731),8
+9+2 motile cilium (GO:0097729),57
+90S preribosome (GO:0030686),13
+acetylcholine-gated channel complex (GO:0005892),14
+acrosomal membrane (GO:0002080),13
+acrosomal vesicle (GO:0001669),48
+actin cytoskeleton (GO:0015629),316
+actin filament (GO:0005884),72
+actin-based cell projection (GO:0098858),83
+
+==> GO_Cellular_Component_2023_counts.csv <==
+Pathway,Count
+9+0 Non-Motile Cilium (GO:0097731),8
+9+2 Motile Cilium (GO:0097729),70
+90S Preribosome (GO:0030686),12
+AMPA Glutamate Receptor Complex (GO:0032281),19
+AP-1 Adaptor Complex (GO:0030121),11
+AP-2 Adaptor Complex (GO:0030122),8
+AP-3 Adaptor Complex (GO:0030123),6
+ATAC Complex (GO:0140672),13
+ATP-binding Cassette (ABC) Transporter Complex (GO:0043190),5
+
+==> GO_Molecular_Function_2013_counts.csv <==
+Pathway,Count
+chaperone binding (GO:0051087),16
+S-adenosylmethionine-dependent methyltransferase activity (GO:0008757),32
+unfolded protein binding (GO:0051082),59
+hormone binding (GO:0042562),19
+NF-kappaB binding (GO:0051059),14
+"transferase activity, transferring glycosyl groups (GO:0016757)",124
+"transferase activity, transferring acyl groups (GO:0016746)",95
+metal ion binding (GO:0046872),400
+transferase activity (GO:0016740),831
+
+==> GO_Molecular_Function_2015_counts.csv <==
+Pathway,Count
+serine-type endopeptidase activity (GO:0004252),167
+peptidoglycan binding (GO:0042834),11
+lipoprotein particle receptor activity (GO:0030228),14
+extracellular matrix binding (GO:0050840),51
+nucleoside-triphosphatase regulator activity (GO:0060589),330
+protein-cysteine S-palmitoyltransferase activity (GO:0019706),25
+NAD-dependent histone deacetylase activity (H4-K16 specific) (GO:0046970),12
+lysozyme activity (GO:0003796),10
+glutamate receptor activity (GO:0008066),27
+
+==> GO_Molecular_Function_2017b_counts.csv <==
+Pathway,Count
+phospholipase A2 activity (GO:0004623),52
+CCR9 chemokine receptor binding (GO:0031734),21
+D-glucose transmembrane transporter activity (GO:0055056),14
+8-oxo-GDP phosphatase activity (GO:0044716),8
+methylene-fatty-acyl-phospholipid synthase activity (GO:0004481),13
+voltage-gated proton channel activity (GO:0030171),6
+MAP kinase activity involved in innate immune response (GO:0038075),11
+"3',5'-cyclic-GMP phosphodiesterase activity (GO:0047555)",14
+acyl-CoA hydrolase activity (GO:0047617),15
+
+==> GO_Molecular_Function_2017_counts.csv <==
+Pathway,Count
+serine-type endopeptidase activity (GO:0004252),185
+immunoglobulin receptor binding (GO:0034987),46
+GTPase activator activity (GO:0005096),224
+Rab GTPase binding (GO:0017137),118
+ubiquinol-cytochrome-c reductase activity (GO:0008121),8
+potassium:chloride symporter activity (GO:0015379),6
+potassium ion symporter activity (GO:0022820),6
+RNA binding (GO:0003723),1194
+ubiquitin protein ligase activity (GO:0061630),143
+
+==> GO_Molecular_Function_2018_counts.csv <==
+Pathway,Count
+semaphorin receptor activity (GO:0017154),11
+7SK snRNA binding (GO:0097322),6
+androgen receptor binding (GO:0050681),42
+transcription regulatory region DNA binding (GO:0044212),374
+protein phosphatase inhibitor activity (GO:0004864),23
+transmembrane receptor protein serine/threonine kinase activity (GO:0004675),14
+RNA 7-methylguanosine cap binding (GO:0000340),9
+Lys48-specific deubiquitinase activity (GO:1990380),10
+protein serine/threonine kinase activity (GO:0004674),368
+
+==> GO_Molecular_Function_2021_counts.csv <==
+Pathway,Count
+"1,4-alpha-oligoglucan phosphorylase activity (GO:0004645)",5
+1-acylglycerol-3-phosphate O-acyltransferase activity (GO:0003841),13
+1-acylglycerophosphocholine O-acyltransferase activity (GO:0047184),6
+1-alkyl-2-acetylglycerophosphocholine esterase activity (GO:0003847),7
+1-phosphatidylinositol binding (GO:0005545),15
+1-phosphatidylinositol-3-kinase activity (GO:0016303),10
+1-phosphatidylinositol-3-kinase regulator activity (GO:0046935),16
+1-phosphatidylinositol-4-phosphate 3-kinase activity (GO:0035005),7
+1-phosphatidylinositol-4-phosphate 5-kinase activity (GO:0016308),6
+
+==> GO_Molecular_Function_2023_counts.csv <==
+Pathway,Count
+1-Acylglycerol-3-Phosphate O-acyltransferase Activity (GO:0003841),19
+1-Acylglycerophosphocholine O-acyltransferase Activity (GO:0047184),5
+1-Alkyl-2-Acetylglycerophosphocholine Esterase Activity (GO:0003847),6
+1-Phosphatidylinositol Binding (GO:0005545),14
+1-Phosphatidylinositol-3-Kinase Activity (GO:0016303),9
+1-Phosphatidylinositol-3-Kinase Regulator Activity (GO:0046935),14
+1-Phosphatidylinositol-4-Phosphate 3-Kinase Activity (GO:0035005),6
+1-Phosphatidylinositol-4-Phosphate 5-Kinase Activity (GO:0016308),6
+11-Cis Retinal Binding (GO:0005502),5
+
+==> GTEx_Aging_Signatures_2021_counts.csv <==
+Pathway,Count
+GTEx Uterus 20-29 vs 40-49 Up,250
+GTEx Uterus 20-29 vs 40-49 Down,250
+GTEx Thyroid 20-29 vs 40-49 Up,250
+GTEx Thyroid 20-29 vs 40-49 Down,250
+GTEx Kidney 20-29 vs 50-59 Up,250
+GTEx Kidney 20-29 vs 50-59 Down,250
+GTEx SalivaryGland 20-29 vs 40-49 Up,250
+GTEx SalivaryGland 20-29 vs 40-49 Down,250
+GTEx Vagina 20-29 vs 70-79 Up,250
+
+==> GTEx_Tissue_Expression_Down_counts.csv <==
+Pathway,Count
+GTEX-S341-0006-SM-3NM8D blood female 40-49 years,10684
+GTEX-WH7G-0005-SM-3NMBX blood male 40-49 years,10653
+GTEX-WFON-0005-SM-3NMC9 blood male 40-49 years,10082
+GTEX-X5EB-0006-SM-46MV5 blood male 40-49 years,10913
+GTEX-PWCY-0005-SM-33HBP blood female 20-29 years,10487
+GTEX-P4PP-0005-SM-2HMKX blood female 30-39 years,10330
+GTEX-R55G-0006-SM-2TC6O blood female 40-49 years,10699
+GTEX-XPVG-0006-SM-4B65Z blood male 50-59 years,10235
+GTEX-XUZC-0005-SM-4BOQ8 blood female 30-39 years,9061
+
+==> GTEx_Tissue_Expression_Up_counts.csv <==
+Pathway,Count
+GTEX-S341-0006-SM-3NM8D blood female 40-49 years,1002
+GTEX-WH7G-0005-SM-3NMBX blood male 40-49 years,844
+GTEX-WFON-0005-SM-3NMC9 blood male 40-49 years,1040
+GTEX-X5EB-0006-SM-46MV5 blood male 40-49 years,820
+GTEX-PWCY-0005-SM-33HBP blood female 20-29 years,1062
+GTEX-P4PP-0005-SM-2HMKX blood female 30-39 years,1149
+GTEX-R55G-0006-SM-2TC6O blood female 40-49 years,830
+GTEX-XPVG-0006-SM-4B65Z blood male 50-59 years,611
+GTEX-XUZC-0005-SM-4BOQ8 blood female 30-39 years,1227
+
+==> GTEx_Tissues_V8_2023_counts.csv <==
+Pathway,Count
+Adipose - Subcutaneous Female 60-69 Up,100
+Muscle - Skeletal Female 60-69 Up,100
+Artery - Tibial Female 60-69 Up,100
+Artery - Coronary Female 60-69 Up,82
+Heart - Atrial Appendage Female 60-69 Up,100
+Adipose - Visceral (Omentum) Female 60-69 Up,41
+Uterus Female 60-69 Up,100
+Vagina Female 60-69 Up,55
+Breast - Mammary Tissue Female 60-69 Up,44
+
+==> GWAS_Catalog_2019_counts.csv <==
+Pathway,Count
+Beta2-Glycoprotein I plasma levels,8
+"1,5-anhydroglucitol levels",9
+AIDS progression,16
+Abdominal aortic aneurysm,20
+Ability to confide in someone,22
+Accelerated cognitive decline after conversion of MCI to Alzheimer's disease,10
+Accelerometer-based physical activity measurement (average acceleration),6
+Acne (severe),223
+Activated partial thromboplastin time,36
+
+==> GWAS_Catalog_2023_counts.csv <==
+Pathway,Count
+BMI (Adjusted For Smoking Behaviour),54
+Body Mass Index (Joint Analysis Main Effects And Smoking Interaction),53
+Height,6159
+Itch Intensity From Mosquito Bite Adjusted By Bite Size,127
+Low Density Lipoprotein Cholesterol Levels,754
+Mosquito Bite Size,97
+Waist-to-hip Ratio Adjusted For BMI (Joint Analysis For Main Effect And Physical Activity Interaction),29
+Barrett's Esophagus,13
+Esophageal Adenocarcinoma,10
+
+==> HDSigDB_Human_2021_counts.csv <==
+Pathway,Count
+ABeta-induced Microglial Genes PMID14612454,518
+AD Changed Genes In Choroid Plexus GSE110226,2053
+AD Down-Regulated Genes In Choroid Plexus GSE110226,829
+AD Up-Regulated Genes In Choroid Plexus GSE110226,1231
+AR-ATXN3 Shared Co-Expressed Genes In HD-associated Brain Region PMID29249939,6
+ATN1-ATXN2 Shared Co-Expressed Genes In HD-associated Brain Region PMID29249939,473
+ATN1-HTT Shared Co-Expressed Genes In HD-associated Brain Region PMID29249939,62
+Activity-dependent Synaptic AMPA Receptor Removal CHDI115,89
+Aged Astrocyte-Enriched Genes In Mouse Cortex PMID23954174,356
+
+==> HDSigDB_Mouse_2021_counts.csv <==
+Pathway,Count
+ABeta-induced Microglial Genes PMID14612454,492
+AD Changed Genes In Choroid Plexus GSE110226,2032
+AD Down-Regulated Genes In Choroid Plexus GSE110226,808
+AD Up-Regulated Genes In Choroid Plexus GSE110226,1232
+AR-ATXN3 Shared Co-Expressed Genes In HD-associated Brain Region PMID29249939,5
+ATN1-ATXN2 Shared Co-Expressed Genes In HD-associated Brain Region PMID29249939,456
+ATN1-HTT Shared Co-Expressed Genes In HD-associated Brain Region PMID29249939,63
+Activity-dependent Synaptic AMPA Receptor Removal CHDI115,92
+Aged Astrocyte-Enriched Genes In Mouse Cortex PMID23954174,416
+
+==> HMDB_Metabolites_counts.csv <==
+Pathway,Count
+2-Ketobutyric acid (HMDB00005),18
+2-Methoxyestrone (HMDB00010),19
+Sulfatide (HMDB00024),11
+Tetrahydrobiopterin (HMDB00027),14
+Biotin (HMDB00030),11
+Androsterone (HMDB00031),25
+Aldosterone (HMDB00037),15
+Butyric acid (HMDB00039),11
+Acetic acid (HMDB00042),29
+
+==> HMS_LINCS_KinomeScan_counts.csv <==
+Pathway,Count
+MRT67307,172
+Sorafenib,106
+WZ4003,92
+AZ-628,72
+Motesanib,6
+Torin1,83
+KIN001-111,121
+Dabrafenib,195
+CGP60474,20
+
+==> HomoloGene_counts.csv <==
+Pathway,Count
+H.sapiens: The human species,172
+"Homininae: Hominids including including gorillas, chimpanzees",560
+Catarrhini: Higher primates,498
+Euarchontoglires: Superorder of Mammals including rodents and primates,285
+Boreoeutheria: Placental Mammals,2907
+Amniota: Four limbed vertebrates that can lay eggs on land,633
+Tetrapoda: First four limbed Vertebrates and Descendents,1483
+Euteleostomi: Bony vertebrates,6637
+Arthropoda: Insects,1439
+
+==> HuBMAP_ASCTplusB_augmented_2022_counts.csv <==
+Pathway,Count
+Paneth Cell Of Epithelium Proper Of Small intestine - Small Intestine,102
+Duodenal Goblet cell - Small Intestine,102
+Tuft cell - Small Intestine,103
+absorptive - Small Intestine,102
+enterocyte - Small Intestine,104
+Endocrine Lineage cell - Small Intestine,101
+Stem cell - Small Intestine,105
+endothelial - Small Intestine,103
+myofibroblast - Small Intestine,102
+
+==> HuBMAP_ASCT_plus_B_augmented_w_RNAseq_Coexpression_counts.csv <==
+Pathway,Count
+Absorptive (id:32),85
+Abt Entry (id:33),108
+Activated Dc (id:34),123
+Adipocyte (id:35),100
+Afferent Arteriole Endothelial Cell (id:39),102
+Airway Smooth Muscle (id:41),99
+Alveolar Macrophage (id:42),100
+Arterial Endothelial Cell (id:45),101
+Arteriole Endothelial Cell (id:46),100
+
+==> HumanCyc_2015_counts.csv <==
+Pathway,Count
+&gamma;-glutamyl cycle,7
+&gamma;-linolenate biosynthesis,14
+1D-myo-inositol hexakisphosphate biosynthesis II (mammalian),15
+2'-deoxy-&alpha;-D-ribose 1-phosphate degradation,6
+2-oxobutanoate degradation,8
+3-phosphoinositide biosynthesis,27
+3-phosphoinositide degradation,20
+4-hydroxy-2-nonenal detoxification,5
+BMP Signalling Pathway,8
+
+==> HumanCyc_2016_counts.csv <==
+Pathway,Count
+creatine-phosphate biosynthesis Homo sapiens PWY-6158,5
+mitochondrial L-carnitine shuttle Homo sapiens PWY-6111,5
+pyridoxal 5'-phosphate salvage Homo sapiens PLPSAL-PWY,5
+protein ubiquitylation Homo sapiens PWY-7511,44
+protein citrullination Homo sapiens PWY-4921,5
+inositol pyrophosphates biosynthesis Homo sapiens PWY-6369,7
+1D-myo-inositol hexakisphosphate biosynthesis II (mammalian) Homo sapiens PWY-6362,15
+"D-myo-inositol (1,3,4)-trisphosphate biosynthesis Homo sapiens PWY-6364",15
+"superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism Homo sapiens PWY-6358",20
+
+==> Human_Gene_Atlas_counts.csv <==
+Pathway,Count
+Thyroid,388
+CD33+ Myeloid,679
+Testis,384
+Salivarygland,57
+CD14+ Monocytes,383
+TestisLeydigCell,107
+Ovary,41
+CD8+ Tcells,602
+Tonsil,26
+
+==> Human_Phenotype_Ontology_counts.csv <==
+Pathway,Count
+Abnormality of B cell number (HP:0010975),9
+B lymphocytopenia (HP:0010976),8
+Hypobetalipoproteinemia (HP:0003563),8
+Gastrointestinal atresia (HP:0002589),17
+Birth length less than 3rd percentile (HP:0003561),8
+Peritonitis (HP:0002586),8
+Abnormality of the peritoneum (HP:0002585),17
+Colitis (HP:0002583),12
+Volvulus (HP:0002580),8
+
+==> huMAP_counts.csv <==
+Pathway,Count
+NOL12,47
+SND1,11
+RPL8,98
+COMMD1,8
+PDS5B,9
+TPR,48
+GNAI2,5
+LMNB1,14
+RPL5,137
+
+==> IDG_Drug_Targets_2022_counts.csv <==
+Pathway,Count
+Levobupivacaine,8
+(S)-nitrendipine,5
+Acamprosate,10
+Acarbose,5
+Paracetamol,16
+Acetazolamide,14
+Acetoxolone,6
+Acetylcholine,12
+Acetylcysteine,5
+
+==> InterPro_Domains_2019_counts.csv <==
+Pathway,Count
+14-3-3 domain,7
+"2-5-oligoadenylate synthetase, N-terminal",5
+2Fe-2S ferredoxin-type iron-sulfur binding domain,6
+3'-5' exonuclease domain,5
+"3'5'-cyclic nucleotide phosphodiesterase, catalytic domain",21
+3-beta hydroxysteroid dehydrogenase/isomerase,6
+"3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal",5
+"4Fe-4S ferredoxin-type, iron-sulphur binding domain",5
+AAA+ ATPase domain,135
+
+==> Jensen_COMPARTMENTS_counts.csv <==
+Pathway,Count
+Sperm head plasma membrane,12
+Sperm individualization complex,11
+Sperm plasma membrane,121
+Sphere organelle,8
+Spindle envelope,6
+Spindle matrix,18
+Spindle pole body,190
+Spine apparatus,107
+Spore wall,94
+
+==> Jensen_DISEASES_counts.csv <==
+Pathway,Count
+3-M syndrome,14
+3-Methylcrotonyl-CoA carboxylase deficiency,10
+3-methylglutaconic aciduria,28
+3p- syndrome,18
+46 XY gonadal dysgenesis,8
+ADULT syndrome,8
+AGAT deficiency,5
+ARC syndrome,12
+Aarskog-Scott syndrome,11
+
+==> Jensen_TISSUES_counts.csv <==
+Pathway,Count
+Adipose tissue,12174
+Adrenal cortex,4574
+Adrenal gland,16140
+Amygdala,5279
+Ascites,884
+B-lymphoblastoid cell,5983
+B-lymphocyte,8270
+BTO:0004410,9290
+BTO:0005453,7164
+
+==> KEA_2013_counts.csv <==
+Pathway,Count
+STK19,6
+RYK,4
+BUB1B,14
+STK10,5
+STK11,32
+STK16,8
+HIPK3,26
+HIPK2,43
+HIPK1,8
+
+==> KEA_2015_counts.csv <==
+Pathway,Count
+FGFR3,7
+MAPKAPK2,47
+ABL2,14
+CSNK1G2,12
+AKT1,210
+EIF2AK4,1
+DAPK1,9
+ITK,13
+RAF1,6
+
+==> KEGG_2013_counts.csv <==
+Pathway,Count
+HSA00010 GLYCOLYSIS AND GLUCONEOGENESIS,64
+HSA00020 CITRATE CYCLE,29
+HSA00030 PENTOSE PHOSPHATE PATHWAY,26
+HSA00031 INOSITOL METABOLISM,2
+HSA00040 PENTOSE AND GLUCURONATE INTERCONVERSIONS,25
+HSA00051 FRUCTOSE AND MANNOSE METABOLISM,42
+HSA00052 GALACTOSE METABOLISM,32
+HSA00053 ASCORBATE AND ALDARATE METABOLISM,9
+HSA00061 FATTY ACID BIOSYNTHESIS,6
+
+==> KEGG_2015_counts.csv <==
+Pathway,Count
+1 and 2 methylnaphthalene degradation,20
+3 chloroacrylic acid degradation,15
+abc transporters general,44
+acute myeloid leukemia,52
+adherens junction,75
+adipocytokine signaling pathway,71
+alanine and aspartate metabolism,33
+alkaloid biosynthesis i,5
+alkaloid biosynthesis ii,14
+
+==> KEGG_2016_counts.csv <==
+Pathway,Count
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate Homo sapiens hsa00532,20
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin Homo sapiens hsa00534,24
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis Homo sapiens hsa00563,25
+Steroid biosynthesis Homo sapiens hsa00100,20
+SNARE interactions in vesicular transport Homo sapiens hsa04130,34
+Protein export Homo sapiens hsa03060,23
+Protein processing in endoplasmic reticulum Homo sapiens hsa04141,169
+N-Glycan biosynthesis Homo sapiens hsa00510,49
+Other types of O-glycan biosynthesis Homo sapiens hsa00514,31
+
+==> KEGG_2019_Human_counts.csv <==
+Pathway,Count
+ABC transporters,45
+AGE-RAGE signaling pathway in diabetic complications,100
+AMPK signaling pathway,120
+Acute myeloid leukemia,66
+Adherens junction,72
+Adipocytokine signaling pathway,69
+Adrenergic signaling in cardiomyocytes,145
+African trypanosomiasis,37
+"Alanine, aspartate and glutamate metabolism",35
+
+==> KEGG_2019_Mouse_counts.csv <==
+Pathway,Count
+ABC transporters,48
+AGE-RAGE signaling pathway in diabetic complications,101
+AMPK signaling pathway,126
+Acute myeloid leukemia,69
+Adherens junction,72
+Adipocytokine signaling pathway,71
+Adrenergic signaling in cardiomyocytes,148
+African trypanosomiasis,39
+"Alanine, aspartate and glutamate metabolism",37
+
+==> KEGG_2021_Human_counts.csv <==
+Pathway,Count
+ABC transporters,45
+AGE-RAGE signaling pathway in diabetic complications,100
+AMPK signaling pathway,120
+Acute myeloid leukemia,67
+Adherens junction,71
+Adipocytokine signaling pathway,69
+Adrenergic signaling in cardiomyocytes,150
+African trypanosomiasis,37
+"Alanine, aspartate and glutamate metabolism",37
+
+==> KEGG_2021_Mouse_counts.csv <==
+Pathway,Count
+ABC transporters,50
+AGE-RAGE signaling pathway in diabetic complications,101
+AMPK signaling pathway,126
+Acute myeloid leukemia,70
+Adherens junction,71
+Adipocytokine signaling pathway,71
+Adrenergic signaling in cardiomyocytes,152
+African trypanosomiasis,39
+"Alanine, aspartate and glutamate metabolism",39
+
+==> Kinase_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+BRAF druginhibition 175 GSE42872,300
+BRAF druginhibition 38 GDS5085,300
+FGFR3 druginhibition 36 GDS5023,300
+ERBB3 knockdown 65 GSE19921,300
+BRAF knockdown 193 GSE5481,300
+AURKA druginhibition 196 GSE57810,300
+HUNK knockout 240 GSE14226,300
+TGFBR2 knockout 293 GSE46211,300
+TGFBR2 knockout 292 GSE46150,300
+
+==> Kinase_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+BRAF druginhibition 175 GSE42872,300
+BRAF druginhibition 38 GDS5085,300
+FGFR3 druginhibition 36 GDS5023,300
+ERBB3 knockdown 65 GSE19921,300
+BRAF knockdown 193 GSE5481,300
+AURKA druginhibition 196 GSE57810,300
+HUNK knockout 240 GSE14226,300
+TGFBR2 knockout 293 GSE46211,300
+TGFBR2 knockout 292 GSE46150,300
+
+==> KOMP2_Mouse_Phenotypes_2022_counts.csv <==
+Pathway,Count
+Increased Lean Body Mass (MP:0003960),284
+Decreased Erythrocyte Cell Number (MP:0002875),170
+Embryonic Lethality Prior To Organogenesis (MP:0013292),510
+Abnormal Uterus Morphology (MP:0001120),162
+Abnormal Bone Structure (MP:0003795),222
+Decreased Circulating Glucose Level (MP:0005560),204
+Abnormal Auditory Brainstem Response (MP:0004738),309
+Embryonic Lethality Prior To Tooth Bud Stage (MP:0013293),311
+Enlarged Spleen (MP:0000691),360
+
+==> L1000_Kinase_and_GPCR_Perturbations_down_counts.csv <==
+Pathway,Count
+ABCF1 knockdown 96h A375,300
+ABL1 knockdown 96h A375,300
+ABL2 knockdown 96h A375,300
+ACVR1 knockdown 96h A375,300
+ADCK3 knockdown 96h A375,300
+ADORA2A knockdown 96h A375,300
+ADORA2B knockdown 96h A375,300
+ADRA2A knockdown 96h A375,300
+ADRA2C knockdown 96h A375,300
+
+==> L1000_Kinase_and_GPCR_Perturbations_up_counts.csv <==
+Pathway,Count
+ABCF1 knockdown 96h A375,300
+ABL1 knockdown 96h A375,300
+ABL2 knockdown 96h A375,300
+ACVR1 knockdown 96h A375,300
+ADCK3 knockdown 96h A375,300
+ADORA2A knockdown 96h A375,300
+ADORA2B knockdown 96h A375,300
+ADRA2A knockdown 96h A375,300
+ADRA2C knockdown 96h A375,300
+
+==> Ligand_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+estradiol mouse uterus GSE23072 ligand:77,419
+Interleukin-1 beta mouse embryonic fibroblasts from IRAK-4 kinase deficient mutants GDS2641 ligand:59,331
+interleukin-12 mouse CD8 T cells GSE72791 ligand:236,432
+17beta-estradiol mouse uterus GDS1058 ligand:37,237
+Interleukin-13 human Breast cancer - MCF10CA1a cell line (pLKO-shSCR) GSE57677 ligand:242,276
+interleukin 28B human hepatocyte GDS4390 ligand:183,271
+interleukin 28B human hepatocyte GDS4390 ligand:189,201
+TGF-beta human Panc-1 cells GDS4106 ligand:16,286
+estradiol human MCF-7 cells GDS4052 ligand:268,242
+
+==> Ligand_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+estradiol mouse uterus GSE23072 ligand:77,181
+Interleukin-1 beta mouse embryonic fibroblasts from IRAK-4 kinase deficient mutants GDS2641 ligand:59,269
+interleukin-12 mouse CD8 T cells GSE72791 ligand:236,168
+17beta-estradiol mouse uterus GDS1058 ligand:37,363
+Interleukin-13 human Breast cancer - MCF10CA1a cell line (pLKO-shSCR) GSE57677 ligand:242,324
+interleukin 28B human hepatocyte GDS4390 ligand:183,329
+interleukin 28B human hepatocyte GDS4390 ligand:189,399
+TGF-beta human Panc-1 cells GDS4106 ligand:16,314
+estradiol human MCF-7 cells GDS4052 ligand:268,358
+
+==> LINCS_L1000_Chem_Pert_Consensus_Sigs_counts.csv <==
+Pathway,Count
+Afatinib Up,237
+Erlotinib Up,231
+Neratinib Up,232
+Lapatinib Up,244
+Pazopanib Up,240
+HMN-214 Up,240
+Fulvestrant Up,245
+Vorinostat Up,246
+Mitoxantrone Up,243
+
+==> LINCS_L1000_Chem_Pert_down_counts.csv <==
+Pathway,Count
+CPC001 HA1E 24H-hemado-10.0,46
+CPC001 HA1E 24H-ici-89406-10.0,56
+CPC001 HA1E 24H-n-benzylnaltrindole hydrochloride-10.0,101
+CPC001 HA1E 24H-cilnidipine-10.0,50
+CPC001 HA1E 24H-norketamine hydrochloride-10.0,53
+CPC001 HA1E 24H-sdz 21009-10.0,13
+CPC001 HA1E 24H-brefeldin a-10.0,211
+CPC001 HA1E 24H-trichostatin a-10.0,200
+CPC001 HA1E 24H-geldanamycin-10.0,166
+
+==> LINCS_L1000_Chem_Pert_up_counts.csv <==
+Pathway,Count
+CPC001 HA1E 24H-hemado-10.0,74
+CPC001 HA1E 24H-ici-89406-10.0,40
+CPC001 HA1E 24H-n-benzylnaltrindole hydrochloride-10.0,110
+CPC001 HA1E 24H-cilnidipine-10.0,11
+CPC001 HA1E 24H-norketamine hydrochloride-10.0,72
+CPC001 HA1E 24H-sdz 21009-10.0,60
+CPC001 HA1E 24H-brefeldin a-10.0,102
+CPC001 HA1E 24H-trichostatin a-10.0,198
+CPC001 HA1E 24H-geldanamycin-10.0,122
+
+==> LINCS_L1000_CRISPR_KO_Consensus_Sigs_counts.csv <==
+Pathway,Count
+A1BG Up,243
+A1CF Up,245
+A2M Up,242
+AADACL2 Up,243
+AADAT Up,239
+AAK1 Up,242
+AAMP Up,241
+AASS Up,246
+AATK Up,244
+
+==> LINCS_L1000_Ligand_Perturbations_down_counts.csv <==
+Pathway,Count
+SCF-SKBR3,162
+TNFA-SKBR3,159
+MSP-SKBR3,163
+IFNA-SKBR3,159
+PDGFBB-SKBR3,156
+EPR-SKBR3,172
+IL1-MCF10A,159
+EPG-SKBR3,148
+EGF-SKBR3,157
+
+==> LINCS_L1000_Ligand_Perturbations_up_counts.csv <==
+Pathway,Count
+SCF-SKBR3,159
+TNFA-SKBR3,153
+MSP-SKBR3,158
+IFNA-SKBR3,138
+PDGFBB-SKBR3,155
+EPR-SKBR3,156
+IL1-MCF10A,146
+EPG-SKBR3,162
+EGF-SKBR3,153
+
+==> lncHUB_lncRNA_Co-Expression_counts.csv <==
+Pathway,Count
+LINC01587,100
+LINC00544,100
+LINC00029,100
+LINC00470,100
+LINC01558,100
+LINC00525,100
+LINC00266-1,100
+LINC00467,100
+LINC01931,100
+
+==> MAGMA_Drugs_and_Diseases_counts.csv <==
+Pathway,Count
+African Trypanosomiasis,40
+Burkitts Lymphoma,10
+Crohns Disease,12
+Cushings Syndrome,7
+Ewings Sarcoma,17
+Graves Disease,17
+Hodgkins Lymphoma,11
+Kaposi Sarcoma,35
+Parkinsons Disease,16
+
+==> MAGNET_2023_counts.csv <==
+Pathway,Count
+Healthy Kupffer Cells 1 Seidman Et Al. 2020,522
+Ly6c Hi And Lo Recruited Macrophages 2 Seidman Et Al. 2020,791
+Ly6c Hi Recruited Macrophages 3 Seidman Et Al. 2020,250
+NASH Kupffer Cells 4 Seidman Et Al. 2020,277
+CCR2+IL1B+ Infiltrating Macrophages 1 Culemann Et Al. 2019,355
+CX3CR1+ Lining Macrophages 2 Culemann Et Al. 2019,296
+RETNLA+ Interstitial Macrophages 3 Culemann Et Al. 2019,251
+MHCII+ Interstitial Macrophages 4 Culemann Et Al. 2019,65
+CCR2+ARG1+ Infiltrating Macrophages 5 Culemann Et Al. 2019,304
+
+==> MCF7_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+v-Myb GSE2815 mcf7:76,148
+trans-retinoic acid + hydrocorti GSE32161 mcf7:20,276
+CDH11 siRNA 96 hrs GSE53668 mcf7:297,296
+RON and MSP overexpression GSE52567 mcf7:480,347
+cisplatin GSE28274 mcf7:48,346
+transfection with siRNA targeting metastasis suppressor ARGHDIB GSE53668 mcf7:259,173
+transfection with siRNA targeting metastasis suppressor ARGHDIB GSE53668 mcf7:258,140
+cysteine GSE62673 mcf7:167,300
+"ICI-182,780(Fulvestrant) GSE35428 mcf7:338",438
+
+==> MCF7_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+v-Myb GSE2815 mcf7:76,452
+trans-retinoic acid + hydrocorti GSE32161 mcf7:20,324
+CDH11 siRNA 96 hrs GSE53668 mcf7:297,304
+RON and MSP overexpression GSE52567 mcf7:480,253
+cisplatin GSE28274 mcf7:48,254
+transfection with siRNA targeting metastasis suppressor ARGHDIB GSE53668 mcf7:259,427
+transfection with siRNA targeting metastasis suppressor ARGHDIB GSE53668 mcf7:258,460
+cysteine GSE62673 mcf7:167,300
+"ICI-182,780(Fulvestrant) GSE35428 mcf7:338",162
+
+==> Metabolomics_Workbench_Metabolites_2022_counts.csv <==
+Pathway,Count
+(S)-Methylmalonate Semialdehyde,10
+"1,2-Diacyl-sn-glycerol",39
+1-(1-Alkenyl)-sn-glycero-3-phosphoethanolamine,17
+1-Acyl-sn-glycero-3-phosphocholine,23
+1-Acyl-sn-glycero-3-phosphoethanolamine,21
+1-Acyl-sn-glycerol 3-Phosphate,10
+1-Acylglycerol,5
+1-Organyl-2-lyso-sn-glycero-3-phosphocholine,21
+1-Phosphatidyl-D-myo-inositol,35
+
+==> MGI_Mammalian_Phenotype_2013_counts.csv <==
+Pathway,Count
+MP0008438 abnormal cutaneous collagen ,17
+MP0002909 abnormal adrenal gland ,25
+MP0000609 abnormal liver physiology ,442
+MP0001730 embryonic growth arrest ,222
+MP0001731 abnormal postnatal growth ,733
+MP0002210 abnormal sex determination ,426
+MP0000604 amyloidosis ,42
+MP0000598 abnormal liver morphology ,586
+MP0005334 abnormal fat pad ,235
+
+==> MGI_Mammalian_Phenotype_2017_counts.csv <==
+Pathway,Count
+MP:0000003 abnormal adipose tissue morphology,16
+MP:0000005 increased brown adipose tissue amount,30
+MP:0000008 increased white adipose tissue amount,32
+MP:0000010 abnormal abdominal fat pad morphology,18
+MP:0000013 abnormal adipose tissue distribution,12
+MP:0000015 abnormal ear pigmentation,8
+MP:0000017 big ears,4
+MP:0000018 small ears,19
+MP:0000022 abnormal ear shape,5
+
+==> MGI_Mammalian_Phenotype_Level_3_counts.csv <==
+Pathway,Count
+MP0001919 abnormal reproductive system ,1240
+MP0000685 abnormal immune system ,1575
+MP0010680 abnormal skin adnexa ,129
+MP0000516 abnormal urinary system ,629
+MP0002139 abnormal hepatobiliary system ,469
+MP0002138 abnormal hepatobiliary system ,619
+MP0002133 abnormal respiratory system ,622
+MP0002132 abnormal respiratory system ,529
+MP0000358 abnormal cell content/ ,275
+
+==> MGI_Mammalian_Phenotype_Level_4_2019_counts.csv <==
+Pathway,Count
+MP:0000600 liver hypoplasia,59
+MP:0001716 abnormal placenta labyrinth morphology,85
+MP:0001698 decreased embryo size,537
+MP:0001092 abnormal trigeminal ganglion morphology,36
+MP:0000961 abnormal dorsal root ganglion morphology,64
+MP:0000245 abnormal erythropoiesis,117
+MP:0000828 abnormal fourth ventricle morphology,14
+MP:0000826 abnormal third ventricle morphology,19
+MP:0005039 hypoxia,29
+
+==> MGI_Mammalian_Phenotype_Level_4_2021_counts.csv <==
+Pathway,Count
+abdominal situs ambiguus MP:0011250,10
+abdominal situs inversus MP:0011249,8
+aberrant origin of the right subclavian artery MP:0010465,12
+abnormal abdominal fat pad morphology MP:0000010,20
+abnormal abdominal wall morphology MP:0003257,12
+abnormal acrosome morphology MP:0008898,28
+abnormal actin cytoskeleton morphology MP:0020849,11
+abnormal action potential MP:0005402,88
+abnormal active avoidance behavior MP:0002798,9
+
+==> MGI_Mammalian_Phenotype_Level_4_counts.csv <==
+Pathway,Count
+MP0008438 abnormal cutaneous collagen ,16
+MP0002909 abnormal adrenal gland ,24
+MP0000609 abnormal liver physiology ,441
+MP0001730 embryonic growth arrest ,221
+MP0001731 abnormal postnatal growth ,732
+MP0002210 abnormal sex determination ,425
+MP0000604 amyloidosis ,41
+MP0000598 abnormal liver morphology ,585
+MP0005334 abnormal fat pad ,234
+
+==> Microbe_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+"Influenza A mouse blood, 1 day post-infection GSE57384 microbe:299",276
+Hepatitis C virus human CD4+ T-lymphocytes GDS4880 microbe:118,224
+Aeromonas caviae mouse small intestine (neonatal) GDS2552 microbe:166,297
+Trypanosoma cruzi mouse skin GSE13522 microbe:247,390
+gammaherpesvirus 68 (MHV-68) mouse spleen GDS4775 microbe:111,329
+Trypanosoma cruzi mouse skin GSE13522 microbe:249,285
+Leishmania braziliensis human skin GSE55664 microbe:256,300
+Leishmania braziliensis human skin GSE55664 microbe:257,300
+Yersinia enterocolitica mouse bone marrow-derived macrophages GDS1465 microbe:34,293
+
+==> Microbe_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+"Influenza A mouse blood, 1 day post-infection GSE57384 microbe:299",324
+Hepatitis C virus human CD4+ T-lymphocytes GDS4880 microbe:118,376
+Aeromonas caviae mouse small intestine (neonatal) GDS2552 microbe:166,303
+Trypanosoma cruzi mouse skin GSE13522 microbe:247,210
+gammaherpesvirus 68 (MHV-68) mouse spleen GDS4775 microbe:111,271
+Trypanosoma cruzi mouse skin GSE13522 microbe:249,315
+Leishmania braziliensis human skin GSE55664 microbe:256,300
+Leishmania braziliensis human skin GSE55664 microbe:257,300
+Yersinia enterocolitica mouse bone marrow-derived macrophages GDS1465 microbe:34,307
+
+==> miRTarBase_2017_counts.csv <==
+Pathway,Count
+hsa-miR-507,187
+hsa-miR-6723-5p,16
+hsa-miR-3934-3p,93
+hsa-miR-4657,73
+hsa-miR-130b-5p,342
+hsa-miR-6782-5p,95
+hsa-miR-190b,62
+hsa-miR-1286,103
+hsa-miR-126-3p,58
+
+==> MSigDB_Computational_counts.csv <==
+Pathway,Count
+MORF ATRX,211
+MORF ATOX1,80
+MORF BCL2,222
+MORF BNIP1,190
+MORF BAG5,57
+MORF BCL2L11,188
+MORF BECN1,101
+MORF BRCA1,264
+MORF BUB1,52
+
+==> MSigDB_Hallmark_2020_counts.csv <==
+Pathway,Count
+TNF-alpha Signaling via NF-kB,200
+Hypoxia,200
+Cholesterol Homeostasis,74
+Mitotic Spindle,199
+Wnt-beta Catenin Signaling,42
+TGF-beta Signaling,54
+IL-6/JAK/STAT3 Signaling,87
+DNA Repair,150
+G2-M Checkpoint,200
+
+==> MSigDB_Oncogenic_Signatures_counts.csv <==
+Pathway,Count
+GLI1 UP.V1 DN,29
+GLI1 UP.V1 UP,27
+E2F1 UP.V1 DN,193
+E2F1 UP.V1 UP,189
+EGFR UP.V1 DN,196
+EGFR UP.V1 UP,193
+ERB2 UP.V1 DN,197
+ERB2 UP.V1 UP,191
+GCNP SHH UP EARLY.V1 DN,169
+
+==> NCI-60_Cancer_Cell_Lines_counts.csv <==
+Pathway,Count
+MCF7,397
+T3M4,290
+U20S,458
+HSG,276
+HL60,1914
+U118,144
+GM1600,407
+GM2313,301
+PANC1,337
+
+==> NCI-Nature_2015_counts.csv <==
+Pathway,Count
+ALK1 signaling events,25
+ALK2 signaling events,11
+AP-1 transcription factor network,69
+ATF-2 transcription factor network,58
+ATM pathway,34
+ATR signaling pathway,39
+Alpha-synuclein signaling,32
+Alpha4 beta1 integrin signaling events,32
+Alpha6 beta4 integrin-ligand interactions,11
+
+==> NCI-Nature_2016_counts.csv <==
+Pathway,Count
+Effects of Botulinum toxin Homo sapiens d236ff84-6191-11e5-8ac5-06603eb7f303,9
+Glypican 3 network Homo sapiens 07762c7e-6193-11e5-8ac5-06603eb7f303,8
+Rapid glucocorticoid signaling Homo sapiens 01db03fd-6195-11e5-8ac5-06603eb7f303,8
+CD40/CD40L signaling Homo sapiens 1971792f-6190-11e5-8ac5-06603eb7f303,30
+p38 MAPK signaling pathway Homo sapiens 99bea41b-6194-11e5-8ac5-06603eb7f303,27
+TNF receptor signaling pathway Homo sapiens 316be05e-6196-11e5-8ac5-06603eb7f303,46
+Ceramide signaling pathway Homo sapiens d3747df2-6190-11e5-8ac5-06603eb7f303,44
+Caspase Cascade in Apoptosis Homo sapiens b9d3ef2e-618f-11e5-8ac5-06603eb7f303,55
+HIV-1 Nef: Negative effector of Fas and TNF-alpha Homo sapiens 41a75463-6193-11e5-8ac5-06603eb7f303,35
+
+==> NIH_Funded_PIs_2017_AutoRIF_ARCHS4_Predictions_counts.csv <==
+Pathway,Count
+Aakalu Vinay (University Of Illinois At Chicago),200
+Aarons Gregory (University Of California San Diego),200
+Aaronson Stuart A (Icahn School Of Medicine At Mount Sinai),200
+Abaci Hasan Erbil (Columbia University Health Sciences),200
+Abadir Peter M (Johns Hopkins University),200
+Abais-Battad Justine M (Medical College Of Wisconsin),200
+Aballay Alejandro (Duke University),200
+Abate-Shen Cory (Columbia University Health Sciences),200
+Abbate Antonio (Virginia Commonwealth University),200
+
+==> NIH_Funded_PIs_2017_GeneRIF_ARCHS4_Predictions_counts.csv <==
+Pathway,Count
+Aaronson Stuart A (Icahn School Of Medicine At Mount Sinai),200
+Abate-Shen Cory (Columbia University Health Sciences),200
+Abbate Antonio (Virginia Commonwealth University),200
+Abbott Derek W (Case Western Reserve University),200
+Abbott Geoffrey W (University Of California-Irvine),200
+Abdel-Mageed Asim B (Tulane University Of Louisiana),200
+Abdellatif Maha (Rbhs-New Jersey Medical School),200
+Abdul-Ghani Muhammad (University Of Texas Hsc San Antonio),200
+Abdulkadir Sarki A (Northwestern University At Chicago),200
+
+==> NIH_Funded_PIs_2017_Human_AutoRIF_counts.csv <==
+Pathway,Count
+Aakalu Vinay (University Of Illinois At Chicago),6
+Aarons Gregory (University Of California San Diego),8
+Aaronson Stuart A (Icahn School Of Medicine At Mount Sinai),100
+Abaci Hasan Erbil (Columbia University Health Sciences),7
+Abadir Peter M (Johns Hopkins University),5
+Abais-Battad Justine M (Medical College Of Wisconsin),7
+Aballay Alejandro (Duke University),13
+Abate-Shen Cory (Columbia University Health Sciences),54
+Abbate Antonio (Virginia Commonwealth University),97
+
+==> NIH_Funded_PIs_2017_Human_GeneRIF_counts.csv <==
+Pathway,Count
+Aaronson Stuart A (Icahn School Of Medicine At Mount Sinai),27
+Abate-Shen Cory (Columbia University Health Sciences),15
+Abbate Antonio (Virginia Commonwealth University),16
+Abbott Derek W (Case Western Reserve University),14
+Abbott Geoffrey W (University Of California-Irvine),9
+Abdel-Mageed Asim B (Tulane University Of Louisiana),29
+Abdellatif Maha (Rbhs-New Jersey Medical School),5
+Abdul-Ghani Muhammad (University Of Texas Hsc San Antonio),8
+Abdulkadir Sarki A (Northwestern University At Chicago),11
+
+==> Old_CMAP_down_counts.csv <==
+Pathway,Count
+ascorbic acid-1610,100
+mianserin-1385,100
+PF-00875133-00-5967,100
+thalidomide-5990,100
+carbenoxolone-3353,100
+trimethadione-4086,100
+diphenylpyraline-2205,100
+ribavirin-6521,100
+prilocaine-2314,100
+
+==> Old_CMAP_up_counts.csv <==
+Pathway,Count
+ascorbic acid-1610,100
+mianserin-1385,100
+PF-00875133-00-5967,100
+thalidomide-5990,100
+carbenoxolone-3353,100
+trimethadione-4086,100
+diphenylpyraline-2205,100
+ribavirin-6521,100
+prilocaine-2314,100
+
+==> OMIM_Disease_counts.csv <==
+Pathway,Count
+adenoma,14
+alopecia,11
+alzheimer disease,26
+anemia,61
+aneurysm,18
+anomalies,13
+arrhythmogenic right ventricular dysplasia,13
+asthma,23
+ataxia,60
+
+==> OMIM_Expanded_counts.csv <==
+Pathway,Count
+adenocarcinoma,83
+adenoma,80
+adrenoleukodystrophy,83
+aids,84
+albinism,86
+alopecia,88
+alzheimer disease,103
+amelogenesis imperfecta,84
+amyloidosis,84
+
+==> Orphanet_Augmented_2021_counts.csv <==
+Pathway,Count
+12p12.1 microdeletion syndrome ORPHA:313884,101
+12q14 microdeletion syndrome ORPHA:94063,102
+12q15q21.1 microdeletion syndrome ORPHA:289513,101
+14q11.2 microduplication syndrome ORPHA:261229,101
+15q11q13 microduplication syndrome ORPHA:238446,101
+15q13.3 microdeletion syndrome ORPHA:199318,101
+15q14 microdeletion syndrome ORPHA:261190,101
+15q24 microdeletion syndrome ORPHA:94065,101
+16p13.2 microdeletion syndrome ORPHA:500055,101
+
+==> Panther_2015_counts.csv <==
+Pathway,Count
+5-Hydroxytryptamine degredation,5
+5-arachidonylglycerol biosynthesis,6
+5HT1 type receptor mediated signaling pathway,27
+5HT2 type receptor mediated signaling pathway,30
+5HT3 type receptor mediated signaling pathway,13
+5HT4 type receptor mediated signaling pathway,16
+Adenine and hypoxanthine salvage pathway,5
+Adrenaline and noradrenaline biosynthesis,25
+Alpha adrenergic receptor signaling pathway,23
+
+==> Panther_2016_counts.csv <==
+Pathway,Count
+Androgen/estrogene/progesterone biosynthesis Homo sapiens P02727,8
+ATP synthesis Homo sapiens P02721,5
+Blood coagulation Homo sapiens P00011,38
+Plasminogen activating cascade Homo sapiens P00050,15
+Ubiquitin proteasome pathway Homo sapiens P00060,43
+Cell cycle Homo sapiens P00013,16
+Parkinson disease Homo sapiens P00049,81
+Apoptosis signaling pathway Homo sapiens P00006,102
+FAS signaling pathway Homo sapiens P00020,31
+
+==> PFOCR_Pathways_2023_counts.csv <==
+Pathway,Count
+PMC102186 F9,7
+PMC1064894 F3,11
+PMC1069621 F5,6
+PMC1083688 F2,5
+PMC1087229 F8,6
+PMC1087506 F8,7
+PMC1124928 F4,6
+PMC1140402 F2,5
+PMC1143566 F2,5
+
+==> PFOCR_Pathways_counts.csv <==
+Pathway,Count
+PMC102186 Mb2400926009,6
+PMC1064894 Ar1469-3,10
+PMC1069621 Zmb0080549030005,5
+PMC1087229 Zmk0050531440008,5
+PMC1087506 1465-9921-6-26-8,6
+PMC1174965 Ar1741-4,5
+PMC1175050 Ar1784-1,6
+PMC1183194 1471-2407-5-74-4,11
+PMC1183194 1471-2407-5-74-5,15
+
+==> PhenGenI_Association_2021_counts.csv <==
+Pathway,Count
+1-Alkyl-2-acetylglycerophosphocholine Esterase,24
+"13,16,19-Docosatrienoic Acid",34
+25-Hydroxyvitamin D 2,52
+3-Hydroxy-1-Methylpropylmercapturic Acid,335
+AIDS Dementia Complex,7
+Abdominal Fat,33
+Acceleration,27
+Acetaminophen,8
+Acne Vulgaris,28
+
+==> PheWeb_2019_counts.csv <==
+Pathway,Count
+ASCVD,15
+Abdominal hernia,19
+Abdominal pain,31
+Abnormal Papanicolaou smear of cervix and cervical HPV,31
+Abnormal chest sounds,14
+Abnormal coagulation profile,23
+Abnormal electrocardiogram [ECG] [EKG],29
+Abnormal findings examination of lungs,14
+Abnormal findings on mammogram or breast exam,36
+
+==> PPI_Hub_Proteins_counts.csv <==
+Pathway,Count
+CALM3,172
+PTPN11,168
+CDK1,659
+SPP382,145
+HMT1,175
+PCNA,146
+DIPA,134
+HTA2,172
+XRCC6,141
+
+==> ProteomicsDB_2020_counts.csv <==
+Pathway,Count
+Mixed PDB:200045 4Skin mix1 4Skin Fibro,371
+Mixed PDB:200045 4Skin mix1 4Skin iPS,365
+Mixed PDB:200045 4Skin mix2 4Skin Fibro,445
+Mixed PDB:200045 4Skin mix2 4Skin iPS,445
+Mixed PDB:200045 IMR90 mix1 IMR90 Fibro,223
+Mixed PDB:200045 IMR90 mix1 IMR90 iPS,223
+Mixed PDB:200045 gcpool scxfrac rep1,138
+Mixed PDB:200045 gcpool scxfrac rep2,200
+Mixed PDB:200045 gcpool sdsfrac rep1,224
+
+==> Proteomics_Drug_Atlas_2023_counts.csv <==
+Pathway,Count
+SR 142948 Up,145
+SR 142948 Down,142
+UK 356618 Up,145
+UK 356618 Down,147
+JW 480 Up,143
+JW 480 Down,141
+ML-265 Up,145
+ML-265 Down,146
+PF-04418948 Up,147
+
+==> Rare_Diseases_AutoRIF_ARCHS4_Predictions_counts.csv <==
+Pathway,Count
+11-beta-hydroxylase deficiency,200
+15q13.3 microdeletion syndrome,200
+16p11.2 deletion syndrome,200
+17-alpha-hydroxylase deficiency,200
+17-beta hydroxysteroid dehydrogenase 3 deficiency,200
+17q21.31 microdeletion syndrome,200
+1q21.1 microdeletion syndrome,200
+2-Hydroxyglutaric aciduria,200
+2-Methylacetoacetyl CoA thiolase deficiency,200
+
+==> Rare_Diseases_AutoRIF_Gene_Lists_counts.csv <==
+Pathway,Count
+11-beta-hydroxylase deficiency,22
+15q13.3 microdeletion syndrome,16
+16p11.2 deletion syndrome,41
+17-alpha-hydroxylase deficiency,21
+17-beta hydroxysteroid dehydrogenase 3 deficiency,5
+17q21.31 microdeletion syndrome,17
+1q21.1 microdeletion syndrome,22
+2-Hydroxyglutaric aciduria,32
+2-Methylacetoacetyl CoA thiolase deficiency,93
+
+==> Rare_Diseases_GeneRIF_ARCHS4_Predictions_counts.csv <==
+Pathway,Count
+15q13.3 microdeletion syndrome,200
+2-Hydroxyglutaric aciduria,200
+2-Methylacetoacetyl CoA thiolase deficiency,200
+21-hydroxylase deficiency,200
+22q11.2 deletion syndrome,200
+3 methylglutaconic aciduria type I,200
+3p deletion syndrome,200
+46 XX testicular disorder of sex development,200
+5-Nucleotidase syndrome,200
+
+==> Rare_Diseases_GeneRIF_Gene_Lists_counts.csv <==
+Pathway,Count
+15q13.3 microdeletion syndrome,5
+2-Hydroxyglutaric aciduria,6
+2-Methylacetoacetyl CoA thiolase deficiency,10
+21-hydroxylase deficiency,27
+22q11.2 deletion syndrome,74
+3 methylglutaconic aciduria type I,6
+3p deletion syndrome,13
+46 XX testicular disorder of sex development,6
+5-Nucleotidase syndrome,6
+
+==> Reactome_2013_counts.csv <==
+Pathway,Count
+3' -UTR-mediated translational regulation,103
+APC-Cdc20 mediated degradation of Nek2A,19
+APC/C:Cdh1-mediated degradation of Skp2,57
+Activation of Cdc25A by c-myc,1
+Apoptosis,117
+Axon guidance,35
+Biological oxidations,119
+Botulinum neurotoxicity,16
+Breakdown of hydrogen peroxide to water and molecular oxygen,1
+
+==> Reactome_2015_counts.csv <==
+Pathway,Count
+2-LTR circle formation,7
+3' -UTR-mediated translational regulation,104
+A tetrasaccharide linker sequence is required for GAG synthesis,26
+A third proteolytic cleavage releases NICD,9
+ABC-family proteins mediated transport,36
+ABCA transporters in lipid homeostasis,17
+ADP signalling through P2Y purinoceptor 1,25
+ADP signalling through P2Y purinoceptor 12,22
+AKT phosphorylates targets in the cytosol,13
+
+==> Reactome_2016_counts.csv <==
+Pathway,Count
+DNA Damage Reversal Homo sapiens R-HSA-73942,6
+Reversal of alkylation damage by DNA dioxygenases Homo sapiens R-HSA-73943,5
+Sperm:Oocyte Membrane Binding Homo sapiens R-HSA-1300652,5
+Sperm Motility And Taxes Homo sapiens R-HSA-1300642,9
+Fertilization Homo sapiens R-HSA-1187000,26
+Reproduction Homo sapiens R-HSA-1474165,26
+Interaction With The Zona Pellucida Homo sapiens R-HSA-1300644,10
+Vitamin C (ascorbate) metabolism Homo sapiens R-HSA-196836,8
+Facilitative Na+-independent glucose transporters Homo sapiens R-HSA-428790,13
+
+==> Reactome_2022_counts.csv <==
+Pathway,Count
+2-LTR Circle Formation R-HSA-164843,8
+GAG Synthesis Requires Tetrasaccharide Linker Sequence R-HSA-1971475,26
+ABC Transporter Disorders R-HSA-5619084,77
+ABC Transporters In Lipid Homeostasis R-HSA-1369062,18
+ABC-family Proteins Mediated Transport R-HSA-382556,102
+ADORA2B Mediated Anti-Inflammatory Cytokine Production R-HSA-9660821,131
+ADP Signaling Thru P2Y Purinoceptor 1 R-HSA-418592,25
+ADP Signaling Thru P2Y Purinoceptor 12 R-HSA-392170,22
+AKT Phosphorylates Targets In Cytosol R-HSA-198323,14
+
+==> RNAseq_Automatic_GEO_Signatures_Human_Down_counts.csv <==
+Pathway,Count
+Circrna Gallbladder Compared Matched GSE100363 1,250
+Inversion Ctcf Alters Topology GSE71275 1,250
+Ar-Wt Ligand-Independent Ar-V7 Splice GSE71334 1,250
+Ehmt1 Ehmt2 Fetal Hemoglobin GSE71421 1,250
+Prolyl Hydroxylation Synthesis Cardiomyocytes GSE71560 1,250
+Fus Sequencing Anti-Fus Immunoprecipitation GSE71812 1,250
+Gata3-Mediated Chromatin Reprogramming Breast GSE72141 1,250
+Ro60 Autoantigen Binds Retroelements GSE72420 1,250
+Moderate Dysplasia Mucosa Conversion GSE72627 1,250
+
+==> RNAseq_Automatic_GEO_Signatures_Human_Up_counts.csv <==
+Pathway,Count
+Circrna Gallbladder Compared Matched GSE100363 1,250
+Inversion Ctcf Alters Topology GSE71275 1,250
+Ar-Wt Ligand-Independent Ar-V7 Splice GSE71334 1,250
+Ehmt1 Ehmt2 Fetal Hemoglobin GSE71421 1,250
+Prolyl Hydroxylation Synthesis Cardiomyocytes GSE71560 1,250
+Fus Sequencing Anti-Fus Immunoprecipitation GSE71812 1,250
+Gata3-Mediated Chromatin Reprogramming Breast GSE72141 1,250
+Ro60 Autoantigen Binds Retroelements GSE72420 1,250
+Moderate Dysplasia Mucosa Conversion GSE72627 1,250
+
+==> RNAseq_Automatic_GEO_Signatures_Mouse_Down_counts.csv <==
+Pathway,Count
+Tet2 Dysregulates Behavior Stromal GSE100071 1,250
+Perturbation Ogt-Tet1 Interaction Embryonic GSE109540 1,250
+Pja2 P2Rx3 P2Rx7 Axis GSE109699 1,250
+Insm1 Delamination Down-Regulation Adherens GSE109709 1,250
+Effect Er-464195-01 Gene Intestine GSE109728 1,250
+Expression Profiles Cd4Low Hla-G GSE109844 1,250
+Bi-Directional Mesenchymal Transit Axin2Beta GSE109877 1,250
+Kdm6B Self-Renewal Leukemic Proliferative GSE110378 1,250
+Cell-Mediated Cytotoxicity Cytostatic Drug GSE110397 1,250
+
+==> RNAseq_Automatic_GEO_Signatures_Mouse_Up_counts.csv <==
+Pathway,Count
+Tet2 Dysregulates Behavior Stromal GSE100071 1,250
+Perturbation Ogt-Tet1 Interaction Embryonic GSE109540 1,250
+Pja2 P2Rx3 P2Rx7 Axis GSE109699 1,250
+Insm1 Delamination Down-Regulation Adherens GSE109709 1,250
+Effect Er-464195-01 Gene Intestine GSE109728 1,250
+Expression Profiles Cd4Low Hla-G GSE109844 1,250
+Bi-Directional Mesenchymal Transit Axin2Beta GSE109877 1,250
+Kdm6B Self-Renewal Leukemic Proliferative GSE110378 1,250
+Cell-Mediated Cytotoxicity Cytostatic Drug GSE110397 1,250
+
+==> RNA-Seq_Disease_Gene_and_Drug_Signatures_from_GEO_counts.csv <==
+Pathway,Count
+17-betaestradiol Oviduct epithelial cell line 1 nM GSE67207 down,497
+17-betaestradiol Oviduct epithelial cell line 1 nM GSE67207 up,496
+"2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) Primary B cell 30 nM 24 hr GSE80953 down",494
+"2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) Primary B cell 30 nM 24 hr GSE80953 up",495
+"2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) Primary B cell 30 nM 4 hr GSE80953 down",491
+"2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) Primary B cell 30 nM 4 hr GSE80953 up",496
+"2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) Primary B cell 30 nM 8 hr GSE80953 down",497
+"2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) Primary B cell 30 nM 8 hr GSE80953 up",488
+4-hydroxytamoxifen Embrionic stem cells 0.1 uM 0 hrs GSE84953 down,497
+
+==> Table_Mining_of_CRISPR_Studies_counts.csv <==
+Pathway,Count
+"Icaro, PMC6406408 (Table1)",10
+PMC6723146 (Table1),12
+PMC6723146 (Table2),13
+PMC6723146 (Table3),16
+"Accession refseq lcn numbers ncbi, PMC6381713 (Table1)",19
+"Actionable unique pairs drug recommended, PMC5085745 (Table1)",21
+"Activity target analysis, PMC5328670 (Table1)",13
+"Adjusted values al et listed, PMC6042961 (Table1)",27
+"Adk mda mb line knockdown, PMC6944449 (Table1)",18
+
+==> Tabula_Muris_counts.csv <==
+Pathway,Count
+B Cell Spleen CL:0000236,79
+T Cell Spleen CL:0000084,83
+Myeloid Cell Spleen CL:0000763,65
+Basal Cell Mammary CL:0000646,93
+Endothelial Cell Mammary CL:0000115,84
+Luminal Epithelial Cell Mammary Gland Mammary CL:0002326,88
+Stromal Cell Mammary CL:0000499,90
+T Cell Thymus CL:0000084,91
+Mesenchymal Stem Cell Thymus CL:0000134,73
+
+==> Tabula_Sapiens_counts.csv <==
+Pathway,Count
+Bladder-bladder Urothelial Cell,100
+Bladder-capillary Endothelial Cell,100
+Bladder-endothelial Cell Of Lymphatic Vessel,99
+Bladder-fibroblast,100
+Bladder-macrophage,100
+Bladder-mast Cell,100
+Bladder-myofibroblast Cell,100
+Bladder-nk Cell,100
+Bladder-pericyte Cell,100
+
+==> TargetScan_microRNA_2017_counts.csv <==
+Pathway,Count
+mmu-miR-467a,1739
+hsa-miR-4749-5p,1198
+hsa-miR-4467,803
+hsa-miR-154,1842
+mmu-miR-875-5p,1131
+hsa-miR-4278,1632
+mmu-miR-126-3p,124
+hsa-miR-525-3p,464
+hsa-miR-4520b-3p,1938
+
+==> TargetScan_microRNA_counts.csv <==
+Pathway,Count
+"ACTGTGA,MIR-27A,MIR-27B",476
+"GTTTGTT,MIR-495",258
+"AGGGCAG,MIR-18A",138
+"ATGTAGC,MIR-221,MIR-222",140
+"ACTGAAA,MIR-30A-3P,MIR-30E-3P",203
+"GAGCCAG,MIR-149",146
+"TCCGTCC,MIR-184",13
+"CCTGCTG,MIR-214",242
+"TGGTGCT,MIR-29A,MIR-29B,MIR-29C",521
+
+==> TF-LOF_Expression_from_GEO_counts.csv <==
+Pathway,Count
+cebpa 22442349 pbmc lof human gpl570 gds4407 up,438
+egr1 20019881 retina lof mouse gpl1261 gds3607 down,176
+hnf1b 16297991 hek293 embryonic gof mouse gpl96 gds1499 down,103
+nfe2l2 23639809 whole esophagus lof mouse gpl7202 gse39629 up,881
+nfe2l2 2383093 whole skin gof mouse gpl1261 gse35160 up,99
+gata4 21746915 heart lof mouse gpl6246 gds3931 down,255
+cdx2 21402776 jejunum epithelium lof mouse gpl11044 gse24633 up,118
+tcf3 21972416 linnegflt3poscd127posly6dneg bone marrow lof mouse gpl1261 gse27402 up,288
+znf217 22593193 mda mb 231 gof human gpl570 gse35511 up,922
+
+==> TF_Perturbations_Followed_by_Expression_counts.csv <==
+Pathway,Count
+NR3C1 KO MOUSE GSE23724 CREEDSID GENE 3014 UP,213
+MEF2D KD MOUSE GSE47150 CREEDSID GENE 366 UP,281
+KCNIP3 KO MOUSE GSE16874 CREEDSID GENE 1031 UP,245
+RUNX1 KO MOUSE GSE2592 CREEDSID GENE 277 UP,274
+OVOL1 KO MOUSE GSE55072 CREEDSID GENE 2617 UP,270
+RARA KD HUMAN GSE26298 CREEDSID GENE 69 UP,290
+TCF12 KO MOUSE GSE27402 CREEDSID GENE 2168 UP,315
+MYB KD HUMAN GSE49286 CREEDSID GENE 1835 UP,333
+MYOD1 MUT MOUSE GSE6487 CREEDSID GENE 1178 UP,229
+
+==> TG_GATES_2020_counts.csv <==
+Pathway,Count
+14d AAA,914
+14d AAF,2307
+14d AA,102
+14d ACA,60
+14d ACZ,125
+14d ADP,27
+14d AJM,141
+14d AMB,51
+14d AMT,365
+
+==> The_Kinase_Library_2023_counts.csv <==
+Pathway,Count
+AAK1,744
+ACVR2A,701
+ACVR2B,690
+AKT1,877
+AKT2,867
+AKT3,847
+ALK2,678
+ALK4,709
+ALPHAK3,751
+
+==> Tissue_Protein_Expression_from_Human_Proteome_Map_counts.csv <==
+Pathway,Count
+adult adrenal,301
+adult colon,301
+adult esophagus,301
+adult frontal cortex,301
+adult gallbladder,301
+adult heart,301
+adult kidney,301
+adult liver,301
+adult lung,301
+
+==> Tissue_Protein_Expression_from_ProteomicsDB_counts.csv <==
+Pathway,Count
+A-375 cell,301
+A-498 cell,301
+A-549 cell,301
+ACHN cell,301
+B-lymphocyte,301
+BICR16,301
+BICR56,301
+BT-474 cell,301
+BT-549 cell,301
+
+==> Transcription_Factor_PPIs_counts.csv <==
+Pathway,Count
+SMARCC2,114
+HSF1,109
+EGR1,35
+ZFPM2,15
+FOXA1,10
+CDKN2AIP,14
+CDX2,17
+NELFE,6
+SMARCC1,114
+
+==> TRANSFAC_and_JASPAR_PWMs_counts.csv <==
+Pathway,Count
+Gata1 (mouse),1863
+Tcfcp2l1 (mouse),17
+Stat3 (mouse),1762
+TP63 (human),1443
+NFE2L2 (human),84
+MZF1 (human),1389
+MYC (mouse),1699
+POU2F1 (human),1399
+RUNX1 (mouse),53
+
+==> TRRUST_Transcription_Factors_2019_counts.csv <==
+Pathway,Count
+AATF mouse,6
+ABL1 human,10
+AHR human,22
+AHR mouse,22
+APC human,12
+APEX1 human,7
+APEX1 mouse,8
+AR human,93
+AR mouse,13
+
+==> UK_Biobank_GWAS_v1_counts.csv <==
+Pathway,Count
+2005 nitrogen dioxide air pollution 24016 raw,4
+2006 nitrogen dioxide air pollution 24017 raw,3
+2007 particulate matter air pollution (pm10) 24019 raw,8
+A/AS levels or equivalent 6138 2,86
+Able to confide 2110,12
+Able to pay rent/mortgage as an adult 20525,7
+Accpeted invitation to complete dietary questionnaire 110001,4
+Added milk to filtered coffee 100280,4
+Adult-onset Still disease STILL ADULT,7
+
+==> Virus-Host_PPI_P-HIPSTer_2020_counts.csv <==
+Pathway,Count
+Adeno-associated virus - 2 Rep 52 protein,9
+Adeno-associated virus - 2 major coat protein VP3,26
+Adeno-associated virus - 2 major coat protein VP2,26
+Adeno-associated virus - 2 Rep 40 protein,9
+Adeno-associated virus - 2 assembly activating protein AAP,7
+Adeno-associated virus - 2 Rep 68 protein,20
+Adeno-associated virus - 2 major coat protein VP1,28
+Adeno-associated virus - 2 Rep 78 protein,20
+Adeno-associated virus - 3 capsid protein,28
+
+==> VirusMINT_counts.csv <==
+Pathway,Count
+JC polyomavirus,2
+Sendai virus (strain Fushimi),1
+Bovine papillomavirus type 1,28
+Human cytomegalovirus,1
+Bovine papillomavirus type 2,1
+Hepatitis delta virus (isolate D380),1
+Human herpesvirus 1,4
+Human immunodeficiency virus type 1 (isolate HXB3),2
+Vaccinia virus (strain L-IVP),7
+
+==> Virus_Perturbations_from_GEO_down_counts.csv <==
+Pathway,Count
+A-CA-04-2009(H1N1)MA Day1 GSE36328,300
+A-CA-04-2009(H1N1)MA Day3 GSE36328,300
+A-CA-04-2009(H1N1) 0Hour GSE47960,300
+A-CA-04-2009(H1N1) 0Hour GSE47961,300
+A-CA-04-2009(H1N1) 0Hour GSE47962,300
+A-CA-04-2009(H1N1) 0Hour GSE37571,300
+A-CA-04-2009(H1N1) 0Hour GSE40844,300
+A-CA-04-2009(H1N1) 12Hour GSE47960,300
+A-CA-04-2009(H1N1) 12Hour GSE47961,300
+
+==> Virus_Perturbations_from_GEO_up_counts.csv <==
+Pathway,Count
+A-CA-04-2009(H1N1)MA Day1 GSE36328,300
+A-CA-04-2009(H1N1)MA Day3 GSE36328,300
+A-CA-04-2009(H1N1) 0Hour GSE47960,300
+A-CA-04-2009(H1N1) 0Hour GSE47961,300
+A-CA-04-2009(H1N1) 0Hour GSE47962,300
+A-CA-04-2009(H1N1) 0Hour GSE37571,300
+A-CA-04-2009(H1N1) 0Hour GSE40844,300
+A-CA-04-2009(H1N1) 12Hour GSE47960,300
+A-CA-04-2009(H1N1) 12Hour GSE47961,300
+
+==> WikiPathway_2021_Human_counts.csv <==
+Pathway,Count
+15q11.2 copy number variation syndrome WP4940,9
+15q13.3 copy number variation syndrome WP4942,19
+16p11.2 distal deletion syndrome WP4950,31
+16p11.2 proximal deletion syndrome WP4949,74
+1q21.1 copy number variation syndrome WP4905,27
+22q11.2 copy number variation syndrome WP4657,131
+3q29 copy number variation syndrome WP4906,63
+"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression WP3879",18
+7-oxo-C and 7beta-HC pathways WP5064,27
+
+==> WikiPathway_2021_Mouse_counts.csv <==
+Pathway,Count
+ACE Inhibitor Pathway WP396,9
+Acetylcholine Synthesis WP175,7
+Adipogenesis genes WP447,134
+Aflatoxin B1 metabolism WP1262,5
+Alanine and aspartate metabolism WP240,15
+Alpha6-Beta4 Integrin Signaling Pathway WP488,67
+Alzheimer's disease WP2075,75
+Amino Acid metabolism WP662,95
+ApoE and miR-146 in inflammation and atherosclerosis WP3592,8
+
+==> WikiPathways_2013_counts.csv <==
+Pathway,Count
+Hs ACE Inhibitor Pathway WP554 22578,5
+Hs ACE Inhibitor Pathway WP554 30178,5
+Hs Acetylcholine Synthesis WP528 29049,7
+Hs Adipogenesis WP236 28133,112
+Hs Alanine and aspartate metabolism WP106 20905,12
+Hs Alpha6-Beta4 Integrin Signaling Pathway WP244 21193,63
+Hs amino acid conjugation of benzoic acid WP521 29685,1
+Hs Androgen Receptor Signaling Pathway WP138 20973,99
+Hs Apoptosis Modulation by HSP70 WP384 21486,13
+
+==> WikiPathways_2015_counts.csv <==
+Pathway,Count
+ACE Inhibitor Pathway(Homo sapiens),17
+ACE Inhibitor Pathway(Mus musculus),8
+AGE/RAGE pathway(Homo sapiens),66
+AMPK Signaling(Homo sapiens),69
+ATM Signaling Pathway(Homo sapiens),40
+Acetylcholine Synthesis(Homo sapiens),7
+Acetylcholine Synthesis(Mus musculus),6
+Adipogenesis genes(Mus musculus),129
+Adipogenesis(Homo sapiens),134
+
+==> WikiPathways_2016_counts.csv <==
+Pathway,Count
+Heme Biosynthesis Homo sapiens WP561,9
+Heme Biosynthesis Mus musculus WP18,9
+Deregulation of Rab and Rab Effector Genes in Bladder Cancer Homo sapiens WP2291,16
+Arachidonate Epoxygenase / Epoxide Hydrolase Homo sapiens WP678,7
+Electron Transport Chain Mus musculus WP295,93
+Electron Transport Chain Homo sapiens WP111,103
+Oxidative phosphorylation Homo sapiens WP623,60
+Oxidative phosphorylation Mus musculus WP1248,53
+Striated Muscle Contraction Homo sapiens WP383,38
+
+==> WikiPathways_2019_Human_counts.csv <==
+Pathway,Count
+"4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression WP3879",18
+ACE Inhibitor Pathway WP554,17
+AGE/RAGE pathway WP2324,66
+AMP-activated Protein Kinase (AMPK) Signaling WP1403,69
+ATM Signaling Network in Development and Disease  WP3878,45
+ATM Signaling Pathway WP2516,40
+ATR Signaling WP3875,9
+Acetylcholine Synthesis WP528,7
+Adipogenesis WP236,130
+
+==> WikiPathways_2019_Mouse_counts.csv <==
+Pathway,Count
+ACE Inhibitor Pathway WP396,9
+Acetylcholine Synthesis WP175,7
+Adipogenesis genes WP447,134
+Aflatoxin B1 metabolism WP1262,5
+Alanine and aspartate metabolism WP240,15
+Alpha6-Beta4 Integrin Signaling Pathway WP488,67
+Alzheimers Disease WP2075,75
+Amino Acid metabolism WP662,95
+ApoE and miR-146 in inflammation and atherosclerosis WP3592,8

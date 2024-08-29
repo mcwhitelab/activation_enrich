@@ -1,0 +1,153 @@
+Pathway,Count
+creatine-phosphate biosynthesis Homo sapiens PWY-6158,5
+mitochondrial L-carnitine shuttle Homo sapiens PWY-6111,5
+pyridoxal 5'-phosphate salvage Homo sapiens PLPSAL-PWY,5
+protein ubiquitylation Homo sapiens PWY-7511,44
+protein citrullination Homo sapiens PWY-4921,5
+inositol pyrophosphates biosynthesis Homo sapiens PWY-6369,7
+1D-myo-inositol hexakisphosphate biosynthesis II (mammalian) Homo sapiens PWY-6362,15
+"D-myo-inositol (1,3,4)-trisphosphate biosynthesis Homo sapiens PWY-6364",15
+"superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism Homo sapiens PWY-6358",20
+"D-myo-inositol (1,4,5)-trisphosphate degradation Homo sapiens PWY-6363",13
+3-phosphoinositide degradation Homo sapiens PWY-6368,20
+superpathway of inositol phosphate compounds Homo sapiens PWY-6371,68
+3-phosphoinositide biosynthesis Homo sapiens PWY-6352,27
+"D-myo-inositol (1,4,5)-trisphosphate biosynthesis Homo sapiens PWY-6351",25
+D-myo-inositol-5-phosphate metabolism Homo sapiens PWY-6367,19
+phospholipases Homo sapiens LIPASYN-PWY,38
+superpathway of cholesterol biosynthesis Homo sapiens PWY66-5,25
+cholesterol biosynthesis III (via desmosterol) Homo sapiens PWY66-4,13
+cholesterol biosynthesis I Homo sapiens PWY66-341,13
+"cholesterol biosynthesis II (via 24,25-dihydrolanosterol) Homo sapiens PWY66-3",13
+zymosterol biosynthesis Homo sapiens PWY-6074,6
+ketogenesis Homo sapiens PWY66-367,5
+mevalonate pathway Homo sapiens PWY-922,10
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate) Homo sapiens PWY-5910,12
+GDP-mannose biosynthesis Homo sapiens PWY-5659,6
+TCA cycle Homo sapiens PWY66-398,17
+superpathway of conversion of glucose to acetyl CoA and entry into the TCA cycle Homo sapiens PWY66-407,46
+glycolysis Homo sapiens PWY66-400,24
+gluconeogenesis Homo sapiens PWY66-399,24
+sucrose degradation Homo sapiens PWY66-373,8
+GDP-glucose biosynthesis II Homo sapiens PWY-5661-1,6
+glycogen biosynthesis Homo sapiens PWY-5067,8
+glycogenolysis Homo sapiens PWY-5941,9
+D-galactose degradation V (Leloir pathway) Homo sapiens PWY66-422,6
+UDP-N-acetyl-D-glucosamine biosynthesis II Homo sapiens UDPNACETYLGALSYN-PWY,5
+UDP-N-acetyl-D-galactosamine biosynthesis II Homo sapiens PWY-5514,9
+methionine salvage cycle III Homo sapiens PWY-7527,10
+cysteine biosynthesis Homo sapiens PWY-6292,6
+pyruvate decarboxylation to acetyl CoA Homo sapiens PYRUVDEHYD-PWY,5
+superpathway of methionine degradation Homo sapiens PWY-5328,17
+2-oxobutanoate degradation Homo sapiens PWY-5130,8
+threonine degradation Homo sapiens PWY66-428,6
+leucine degradation Homo sapiens LEU-DEG2-PWY,12
+isoleucine degradation Homo sapiens ILEUDEG-PWY,12
+valine degradation Homo sapiens VALDEG-PWY,13
+GABA shunt Homo sapiens GLUDEG-I-PWY,7
+glutathione redox reactions I Homo sapiens PWY-4081,6
+reactive oxygen species degradation Homo sapiens DETOX1-PWY-1,11
+palmitate biosynthesis Homo sapiens PWY-5994,7
+oleate biosynthesis Homo sapiens PWY-5996,5
+stearate biosynthesis Homo sapiens PWY-5972,12
+fatty acid &beta;-oxidation Homo sapiens FAO-PWY,16
+fatty acid &beta;-oxidation (peroxisome) Homo sapiens PWY66-391,15
+fatty acid activation Homo sapiens PWY-5143,8
+&gamma;-linolenate biosynthesis Homo sapiens PWY-6000,14
+icosapentaenoate biosynthesis II (metazoa) Homo sapiens PWY-7049,13
+"bile acid biosynthesis, neutral pathway Homo sapiens PWY-6061",14
+allopregnanolone biosynthesis Homo sapiens PWY-7455,6
+androgen biosynthesis Homo sapiens PWY66-378,7
+superpathway of steroid hormone biosynthesis Homo sapiens PWY-7305,16
+estradiol biosynthesis I Homo sapiens PWY66-380,5
+superpathway of tryptophan utilization Homo sapiens PWY66-401,38
+superpathway of melatonin degradation Homo sapiens PWY-6402,12
+melatonin degradation I Homo sapiens PWY-6398,11
+nicotine degradation IV Homo sapiens PWY66-201,15
+nicotine degradation III Homo sapiens PWY66-221,8
+bupropion degradation Homo sapiens PWY66-241,5
+acetone degradation I (to methylglyoxal) Homo sapiens PWY-5451,8
+thyroid hormone metabolism II (via conjugation and/or degradation) Homo sapiens PWY-6261,6
+spermine and spermidine degradation I Homo sapiens PWY-6117,5
+2'-deoxy-&alpha;-D-ribose 1-phosphate degradation Homo sapiens PWY-7180,6
+putrescine degradation III Homo sapiens PWY-0,10
+serotonin degradation Homo sapiens PWY-6313,9
+noradrenaline and adrenaline degradation Homo sapiens PWY-6342,10
+dopamine degradation Homo sapiens PWY6666-2,5
+ethanol degradation II Homo sapiens PWY66-21,6
+ethanol degradation IV Homo sapiens PWY66-162,6
+oxidative ethanol degradation III Homo sapiens PWY66-161,7
+serotonin and melatonin biosynthesis Homo sapiens PWY-6030,5
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde Homo sapiens PWY-5653,5
+NAD de novo biosynthesis Homo sapiens NADSYN-PWY,12
+tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde Homo sapiens PWY-5651,7
+tryptophan degradation Homo sapiens TRYPTOPHAN-DEGRADATION-1,9
+L-kynurenine degradation Homo sapiens PWY-6309,13
+lysine degradation II (pipecolate pathway) Homo sapiens PWY66-425,6
+superpathway of choline degradation to L-serine Homo sapiens PWY66-414,7
+glycine betaine degradation Homo sapiens PWY-3661-1,5
+folate polyglutamylation Homo sapiens PWY-2161,5
+folate transformations I Homo sapiens PWY-2201,11
+serine and glycine biosynthesis Homo sapiens SER-GLYSYN-PWY,7
+histidine degradation Homo sapiens PWY-5030,5
+adenosine ribonucleotides de novo biosynthesis Homo sapiens PWY-7219,25
+superpathway of purine nucleotide salvage Homo sapiens PWY66-409,45
+purine nucleotides de novo biosynthesis Homo sapiens PWY-841,45
+purine deoxyribonucleosides salvage Homo sapiens PWY-7224,12
+guanosine ribonucleotides de novo biosynthesis Homo sapiens PWY-7221,12
+guanosine nucleotides de novo biosynthesis Homo sapiens PWY-7228,15
+adenosine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7227,11
+guanosine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7226,11
+pyrimidine deoxyribonucleotides biosynthesis from CTP Homo sapiens PWY-7210,15
+pyrimidine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7184,15
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis Homo sapiens PWY-7211,21
+superpathway of pyrimidine ribonucleotides de novo biosynthesis Homo sapiens PWY0-162,14
+UTP and CTP de novo biosynthesis Homo sapiens PWY-7176,12
+CMP phosphorylation Homo sapiens PWY-7205,10
+pyrimidine deoxyribonucleotide phosphorylation Homo sapiens PWY-7197,11
+superpathway of pyrimidine deoxyribonucleoside salvage Homo sapiens PWY-7200,16
+pyrimidine deoxyribonucleosides salvage Homo sapiens PWY-7199,5
+pyrimidine ribonucleosides degradation Homo sapiens PWY-7209,6
+triacylglycerol degradation Homo sapiens LIPAS-PWY,14
+retinol biosynthesis Homo sapiens PWY-6857,18
+the visual cycle I (vertebrates) Homo sapiens PWY-6861,16
+retinoate biosynthesis I Homo sapiens PWY-6872,8
+urate biosynthesis/inosine 5'-phosphate degradation Homo sapiens PWY-5695,6
+purine nucleotides degradation Homo sapiens PWY-6353,11
+adenosine nucleotides degradation Homo sapiens SALVADEHYPOX-PWY,8
+tyrosine degradation Homo sapiens TYRFUMCAT-PWY,5
+glutathione-mediated detoxification Homo sapiens PWY-4061,24
+4-hydroxy-2-nonenal detoxification Homo sapiens PWY-7112,5
+sphingomyelin metabolism/ceramide salvage Homo sapiens PWY3DJ-11281,8
+sphingosine and sphingosine-1-phosphate metabolism Homo sapiens PWY3DJ-11470,10
+&gamma;-glutamyl cycle Homo sapiens PWY-4041,8
+leukotriene biosynthesis Homo sapiens PWY66-375,7
+C20 prostanoid biosynthesis Homo sapiens PWY66-374,9
+ceramide de novo biosynthesis Homo sapiens PWY3DJ-12,7
+dermatan sulfate degradation (metazoa) Homo sapiens PWY-6576,6
+chondroitin sulfate degradation (metazoa) Homo sapiens PWY-6573,7
+coenzyme A biosynthesis Homo sapiens COA-PWY-1,6
+tRNA charging Homo sapiens TRNA-CHARGING-PWY,38
+selenocysteine biosynthesis Homo sapiens PWY-6281,6
+tRNA splicing Homo sapiens PWY-6689,5
+dolichyl-diphosphooligosaccharide biosynthesis Homo sapiens MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS,10
+heparan sulfate biosynthesis (late stages) Homo sapiens PWY-6558,22
+heparan sulfate biosynthesis Homo sapiens PWY-6564,29
+glycoaminoglycan-protein linkage region biosynthesis Homo sapiens PWY-6557,7
+dermatan sulfate biosynthesis Homo sapiens PWY-6571,13
+chondroitin sulfate biosynthesis Homo sapiens PWY-6569,17
+chondroitin sulfate biosynthesis (late stages) Homo sapiens PWY-6567,8
+"fructose 2,6-bisphosphate synthesis Homo sapiens PWY66-423",5
+triacylglycerol biosynthesis Homo sapiens TRIGLSYN-PWY,27
+CDP-diacylglycerol biosynthesis Homo sapiens PWY-5667,22
+glycerol degradation Homo sapiens PWY-4261,5
+tetrapyrrole biosynthesis Homo sapiens PWY-5189,5
+heme biosynthesis Homo sapiens PWY-5920,9
+terminal O-glycans residues modification Homo sapiens PWY-7434,13
+mucin core 1 and core 2 O-glycosylation Homo sapiens PWY-7433,28
+ubiquinol-10 biosynthesis Homo sapiens PWY-5872,7
+pentose phosphate pathway Homo sapiens PENTOSE-P-PWY,7
+urea cycle Homo sapiens PWY-4984,5
+citrulline-nitric oxide cycle Homo sapiens PWY-4983,5
+phosphatidylethanolamine biosynthesis II Homo sapiens PWY4FS-6,6
+phosphatidylcholine biosynthesis Homo sapiens PWY3O-450,6

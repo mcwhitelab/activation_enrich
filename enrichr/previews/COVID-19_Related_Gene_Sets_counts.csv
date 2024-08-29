@@ -1,0 +1,206 @@
+Pathway,Count
+COVID19-E protein host PPI from Krogan,6
+COVID19-M protein host PPI from Krogan,30
+COVID19-N protein host PPI from Krogan,15
+COVID19-Nsp1 protein host PPI from Krogan,6
+COVID19-Nsp10 protein host PPI from Krogan,14
+COVID19-Nsp12 protein host PPI from Krogan,20
+COVID19-Nsp13 protein host PPI from Krogan,40
+COVID19-Nsp2 protein host PPI from Krogan,7
+COVID19-Nsp4 protein host PPI from Krogan,8
+COVID19-Nsp7 protein host PPI from Krogan,32
+COVID19-Nsp8 protein host PPI from Krogan,24
+COVID19-Nsp9 protein host PPI from Krogan,16
+COVID19-Orf3a protein host PPI from Krogan,8
+COVID19-Orf8 protein host PPI from Krogan,47
+COVID19-Orf9b protein host PPI from Krogan,11
+COVID19-Orf9c protein host PPI from Krogan,26
+COVID19-All 332 protein host PPI from Krogan,332
+ACE2 Co-expressed genes from ARCHS4,100
+ACE2 top 50 Geneshot AutoRIF,50
+ACE2 top 200 Geneshot AutoRIF ARCHS4 predictions,200
+ACE2 top 200 Geneshot AutoRIF Enrichr co-occurrence predictions,200
+SARS top 50 Geneshot AutoRIF,50
+TMPRSS2 top 50 Geneshot AutoRIF,50
+SARS 133 Literature-Associated Genes from Geneshot GeneRIF,133
+ACE2 Pathway from BioCarta 2013,12
+ACE2 PPI from the NCBI Gene database,10
+SARS coronavirus protease from BioPlanet 2019,7
+SARS coronavirus endoRNAse from Virus-Host PPI P-HIPSTer 2020,6
+SARS coronavirus protein E from Virus-Host PPI P-HIPSTer 2020,15
+SARS coronavirus hypothetical protein sars7a from Virus-Host PPI P-HIPSTer 2020,38
+SARS coronavirus hypothetical protein sars9b from Virus-Host PPI P-HIPSTer 2020,17
+SARS coronavirus orf1ab from Virus-Host PPI P-HIPSTer 2020,194
+SARS coronavirus 2-O-ribose methyltransferase from Virus-Host PPI P-HIPSTer 2020,11
+SARS coronavirus leader protein from Virus-Host PPI P-HIPSTer 2020,20
+SARS coronavirus formerly known as growth-factor-like protein from Virus-Host PPI P-HIPSTer 2020,17
+SARS coronavirus nsp7-pp1a from Virus-Host PPI P-HIPSTer 2020,36
+SARS coronavirus nsp9-pp1a from Virus-Host PPI P-HIPSTer 2020,13
+SARS coronavirus nucleocapsid protein from Virus-Host PPI P-HIPSTer 2020,29
+SARS coronavirus nsp3-pp1a from Virus-Host PPI P-HIPSTer 2020,118
+SARS coronavirus nsp8-pp1a from Virus-Host PPI P-HIPSTer 2020,45
+SARS coronavirus RNA-dependent RNA polymerase from Virus-Host PPI P-HIPSTer 2020,9
+SARS coronavirus E2 glycoprotein precursor from Virus-Host PPI P-HIPSTer 2020,72
+SARS coronavirus nsp4-pp1a from Virus-Host PPI P-HIPSTer 2020,16
+SARS coronavirus P2 envelope protein from Virus-Host PPI P-HIPSTer 2020,15
+COVID-19 patients BALF up,679
+COVID-19 patients BALF down,325
+COVID-19 patients PBMC up,707
+COVID-19 patients PBMC down,315
+SARS-CoV-2/Human Interactome Gene Set from Guzzi,92
+SARS Perturbation Down Genes Mouse Lung from GSE68820:GPL7202:1,76
+SARS Perturbation Up Genes Mouse Lung from GSE68820:GPL7202:2,441
+SARS Perturbation Down Genes Mouse Lung from GSE68820:GPL7202:2,59
+SARS Perturbation Up Genes Mouse Lung from GSE68820:GPL7202:3,430
+SARS Perturbation Down Genes Mouse Lung from GSE68820:GPL7202:3,70
+SARS Perturbation Up Genes Mouse Lung from GSE68820:GPL7202:4,357
+SARS Perturbation Down Genes Mouse Lung from GSE68820:GPL7202:4,143
+SARS Perturbation Up Genes Mouse Lung from GSE19137:GPL1261:1,320
+SARS Perturbation Down Genes Mouse Lung from GSE19137:GPL1261:1,180
+SARS Perturbation Up Genes Mouse Lung from GSE19137:GPL1261:2,254
+SARS Perturbation Down Genes Mouse Lung from GSE19137:GPL1261:2,246
+SARS Perturbation Up Genes Mouse Lung from GSE19137:GPL1261:3,366
+SARS Perturbation Down Genes Mouse Lung from GSE19137:GPL1261:3,134
+SARS Perturbation Up Genes Mouse Lung from GSE19137:GPL1261:4,276
+SARS Perturbation Down Genes Mouse Lung from GSE19137:GPL1261:4,224
+SARS Perturbation Up Genes Mouse Lung from GSE19137:GPL1261:5,291
+SARS Perturbation Down Genes Mouse Lung from GSE19137:GPL1261:5,209
+SARS Perturbation Up Genes Mouse Lung from GSE19137:GPL1261:6,348
+Down Genes Mouse Lung from GSE19137:GPL1261:6,152
+Coronavirus Perturbation Up Genes Calu-3 2B4 from GSE45042:GPL6480:1,357
+Coronavirus Perturbation Down Genes Calu-3 2B4 from GSE45042:GPL6480:1,143
+Coronavirus Perturbation Up Genes Calu-3 2B4 from GSE45042:GPL6480:2,326
+Coronavirus Perturbation Down Genes Calu-3 2B4 from GSE45042:GPL6480:2,174
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:1,119
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:1,381
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:2,91
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:2,409
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:3,7
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:3,493
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:4,23
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:4,477
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:5,338
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:5,162
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:6,231
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:6,269
+SARS-CoV perturbation Up Genes Vero E6 from GSE30589:GPL570:7,217
+SARS-CoV perturbation Down Genes Vero E6 from GSE30589:GPL570:7,283
+SARS-CoV perturbation Up Genes bronchial epithelial 2B4 from GSE17400:GPL570:1,272
+SARS-CoV perturbation Down Genes bronchial epithelial 2B4 from GSE17400:GPL570:1,228
+SARS-CoV perturbation Up Genes bronchial epithelial 2B4 from GSE17400:GPL570:2,209
+SARS-CoV perturbation Down Genes bronchial epithelial 2B4 from GSE17400:GPL570:2,291
+SARS-CoV perturbation Up Genes bronchial epithelial 2B4 from GSE17400:GPL570:3,267
+SARS-CoV perturbation Down Genes bronchial epithelial 2B4 from GSE17400:GPL570:3,233
+SARS-CoV perturbation Up Genes bronchial epithelial 2B4 from GSE17400:GPL570:4,189
+SARS-CoV perturbation Down Genes bronchial epithelial 2B4 from GSE17400:GPL570:4,311
+SARS-CoV perturbation Up Genes bronchial epithelial 2B4 from GSE17400:GPL570:5,311
+SARS-CoV perturbation Down Genes bronchial epithelial 2B4 from GSE17400:GPL570:5,189
+SARS-CoV perturbation Up Genes bronchial epithelial 2B4 from GSE17400:GPL570:6,402
+SARS-CoV perturbation Down Genes bronchial epithelial 2B4 from GSE17400:GPL570:6,98
+SARS perturbation Up Genes PBMCs GDS1028:GPL201,280
+SARS perturbation Down Genes PBMCs GDS1028:GPL201,220
+SARS perturbation Up Genes airway epithelium (HAE) from GSE47961:GPL6480:1,201
+SARS perturbation Down Genes airway epithelium (HAE) from GSE47961:GPL6480:1,299
+SARS perturbation Up Genes airway epithelium (HAE) from GSE47961:GPL6480:2,236
+SARS perturbation Down Genes airway epithelium (HAE) from GSE47961:GPL6480:2,264
+SARS perturbation Up Genes airway epithelium (HAE) from GSE47961:GPL6480:3,286
+SARS perturbation Down Genes airway epithelium (HAE) from GSE47961:GPL6480:3,214
+SARS perturbation Up Genes airway epithelium (HAE) from GSE47961:GPL6480:4,388
+SARS perturbation Down Genes airway epithelium (HAE) from GSE47961:GPL6480:4,112
+SARS perturbation Up Genes airway epithelium (HAE) from GSE47961:GPL6480:5,431
+SARS perturbation Down Genes airway epithelium (HAE) from GSE47961:GPL6480:5,69
+SARS perturbation Up Genes airway epithelium (HAE) from GSE47961:GPL6480:6,386
+SARS perturbation Down Genes airway epithelium (HAE) from GSE47961:GPL6480:6,114
+Up-regulated genes from COVID-19 infected bronchoalveolar lavage from patients,145
+Down-regulated genes from COVID-19 infected bronchoalveolar lavage from patients,384
+Gr5vs Gr 4,99
+Chloroquine-7251 from Old_CMAP_down,100
+Chloroquine-1719 from Old_CMAP_down,100
+Chloroquine-2869 from Old_CMAP_down,100
+Chloroquine-7012 from Old_CMAP_down,100
+Up-regulated genes in A549 infected with COVID-19 extracted from GSE147507,500
+Down-regulated genes in A549 infected with COVID-19 extracted from GSE147507,500
+Healthy lung biopsy vs. COVID-19 infected lung series 15 from GSE147507 up genes,500
+Healthy lung biopsy vs. COVID-19 infected lung series 15 from GSE147507 down genes,500
+MERS-CoV 38 Literature-Associated Genes from Geneshot GeneRIF,38
+MERS-Cov Top 200 Predicted Genes from Geneshot GeneRIF via AutoRIF Co-Occurrence Gene Similarity,200
+MERS-Cov 6 Predicted Kinases Genes from Geneshot GeneRIF via AutoRIF Co-Occurrence Gene Similarity,6
+Genes whose expression is altered by MHV infection,122
+Genes whose expression is altered by SARS=COV-2 infection,142
+Down-regulated by MERS infection of Calu3 cells,500
+Up-regulated by MERS infection of Calu3 cells,500
+Up-regulated by SARS-COV-2 infection of Calu3 cells,500
+Down-regulated by SARS-COV-2 infection of Calu3 cells,500
+Down-regulated by MERS and COVID-19 in Calu3 from two separate studies,61
+Up-regulated by SARS-CoV-2 in lung tissue from GSE147507,500
+Down-regulated by SARS-CoV-2 in lung tissue from GSE147507,500
+Up-regulated by SARS-CoV-2 in NHBE from GSE147507,500
+Down-regulated by SARS-CoV-2 in NHBE from GSE147507,500
+Up-regulated by SARS-CoV-2 0.2 MOI in A549 from GSE147507,500
+Down-regulated by SARS-CoV-2 0.2 MOI in A549 from GSE147507,500
+Up-regulated by SARS-CoV-2 2 MOI in A549 from GSE147507,500
+Down-regulated by SARS-CoV-2 2 MOI in A549 from GSE147507,500
+Up-regulated by SARS-CoV-2 2 MOI in Calu-3 from GSE147507,500
+Down-regulated by SARS-CoV-2 2 MOI in Calu-3 from GSE147507,500
+Up-regulated by MERS-CoV in Calu-3 6hr from GSE139516,500
+Down-regulated by MERS-CoV in Calu-3 6hr from GSE139516,500
+Up-regulated by MERS-CoV in Calu-3 24hr from GSE139516,500
+Down-regulated by MERS-CoV in Calu-3 24hr from GSE139516,500
+Up-regulated by MERS-CoV in Calu-3 from GSE122876,500
+Down-regulated by MERS-CoV in Calu-3 from GSE122876,500
+Up-regulated by SARS-CoV-1 in Calu-3 4hr from GSE148729,499
+Down-regulated by SARS-CoV-1 in Calu-3 4hr from GSE148729,498
+Up-regulated by SARS-CoV-1 in Calu-3 from GSE148729,498
+Down-regulated by SARS-CoV-1 in Calu-3 from GSE148729,499
+Up-regulated by SARS-CoV-2 in Calu-3 4hr from GSE148729,499
+Down-regulated by SARS-CoV-2 in Calu-3 4hr from GSE148729,499
+Up-regulated by SARS-CoV-2 in Calu-3 24hr from GSE148729,499
+Down-regulated by SARS-CoV-2 in Calu-3 24hr from GSE148729,500
+Up-regulated by MHV-A59 in murine liver 3d from GSE146074,500
+Down-regulated by MHV-A59 in murine liver 3d from GSE146074,500
+Up-regulated by MHV-A59 in murine liver 5d from GSE146074,500
+Down-regulated by MHV-A59 in murine liver 5d from GSE146074,500
+Up-regulated by MHV-A59 in murine spleen 3d from GSE146074,500
+Down-regulated by MHV-A59 in murine spleen 3d from GSE146074,500
+Up-regulated by MHV-A59 in murine spleen 5d from GSE146074,500
+Down-regulated by MHV-A59 in murine spleen 5d from GSE146074,500
+Up-regulated by SARS-CoV-2 0.2 MOI in A549 transduced with ACE2 vector from GSE147507,500
+Down-regulated by SARS-CoV-2 0.2 MOI in A549 transduced with ACE2 vector from GSE147507,500
+Up-regulated by SARS-CoV-2 2 MOI in A549 transduced with ACE2 vector from GSE147507,500
+Down-regulated by SARS-CoV-2 2 MOI in A549 transduced with ACE2 vector from GSE147507,500
+Up-regulated by SARS-CoV-2 in ferret nasal wash from GSE147507,389
+Down-regulated by SARS-CoV-2 in ferret nasal wash from GSE147507,420
+Up-regulated by SARS-CoV-2 in ferret trachea from GSE147507,436
+Down-regulated by SARS-CoV-2 in ferret trachea from GSE147507,434
+Up-regulated by SARS-CoV-2 in intestinal organoids 24hr differentiation from GSE149312,500
+Down-regulated by SARS-CoV-2 in intestinal organoids 24hr differentiation  from GSE149312,500
+Up-regulated by SARS-CoV-2 in intestinal organoids 24hr expansion from GSE149312,500
+Down-regulated by SARS-CoV-2 in intestinal organoids 24hr expansion from GSE149312,500
+Up-regulated by SARS-CoV-2 in intestinal organoids 60hr differentiation from GSE149312,500
+Down-regulated by SARS-CoV-2 in intestinal organoids 60hr differentiation  from GSE149312,500
+Up-regulated by SARS-CoV-2 in intestinal organoids 60hr expension from GSE149312,500
+Down-regulated by SARS-CoV-2 in intestinal organoids 60hr expension from GSE149312,500
+Up-regulated by SARS-CoV-1 in intestinal organoids 24hr from GSE149312,500
+Down-regulated by SARS-CoV-1 in intestinal organoids 24hr from GSE149312,500
+Up-regulated by SARS-CoV-1 in intestinal organoids 60hr from GSE149312,500
+Down-regulated by SARS-CoV-1 in intestinal organoids 60hr from GSE149312,500
+Genome-wide CRISPR screen reveals host genes that regulate SARS-CoV-2 infection,27
+Up-regulated by cystine and theanine in IAV-infected mouse spleen,660
+Down-regulated by cystine and theanine in IAV-infected mouse spleen,630
+Up-regulated by IAV-infection in mouse spleen,523
+Down-regulated by IAV-infection in mouse spleen,455
+Up-regulated due to SARS-CoV-2 infection from a phosphoproteomics study,12
+Up-regulated by SARS-CoV-2 infection in Vero E6 from GSE153940,450
+Down-regulated by SARS-CoV-2 infection in Vero E6 from GSE153940,447
+Up-regulated by SARS-CoV-2 in cardiomyocytes from GSE150392,500
+Down-regulated by SARS-CoV-2 in cardiomyocytes from GSE150392,499
+Up-regulated by SARS-CoV-2 in A549-ACE2 treated with Terfenadine from GSE154613,500
+Down-regulated by SARS-CoV-2 in A549-ACE2 treated with Terfenadine from GSE154613,500
+Up-regulated by SARS-CoV-2 in A549-ACE2 treated with Trifluoperazine from GSE154613,500
+Down-regulated by SARS-CoV-2 in A549-ACE2 treated with Trifluoperazine from GSE154613,500
+Up-regulated by SARS-CoV-2 in pancreatic organoids from GSE151803,500
+Down-regulated by SARS-CoV-2 in pancreatic organoids from GSE151803,500
+Up-regulated by SARS-CoV-2 in liver organoids from GSE151803,500
+Down-regulated by SARS-CoV-2 in liver organoids from GSE151803,500
+Up-regulated by SARS-CoV-2 in mouse lung tissue from GSE150847,500
+Down-regulated by SARS-CoV-2 in mouse lung tissue from GSE150847,500

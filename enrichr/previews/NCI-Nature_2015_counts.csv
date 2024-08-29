@@ -1,0 +1,210 @@
+Pathway,Count
+ALK1 signaling events,25
+ALK2 signaling events,11
+AP-1 transcription factor network,69
+ATF-2 transcription factor network,58
+ATM pathway,34
+ATR signaling pathway,39
+Alpha-synuclein signaling,32
+Alpha4 beta1 integrin signaling events,32
+Alpha6 beta4 integrin-ligand interactions,11
+Alpha9 beta1 integrin signaling events,25
+Alternative NF-kappaB pathway,6
+Angiopoietin receptor Tie2-mediated signaling,48
+Arf1 pathway,19
+Arf6 downstream pathway,15
+Arf6 signaling events,35
+Arf6 trafficking events,49
+Atypical NF-kappaB pathway,17
+Aurora A signaling,31
+Aurora B signaling,39
+BARD1 signaling events,29
+BCR signaling pathway,63
+BMP receptor signaling,42
+Beta1 integrin cell surface interactions,65
+Beta2 integrin cell surface interactions,29
+Beta3 integrin cell surface interactions,43
+Beta5 beta6 beta7 and beta8 integrin cell surface interactions,17
+C-MYB transcription factor network,81
+C-MYC pathway,22
+CD40/CD40L signaling,30
+CDC42 signaling events,69
+CXCR3-mediated signaling events,42
+CXCR4-mediated signaling events,100
+Calcineurin-regulated NFAT-dependent transcription in lymphocytes,45
+Calcium signaling in the CD4+ TCR pathway,28
+Canonical NF-kappaB pathway,23
+Canonical Wnt signaling pathway,20
+Caspase Cascade in Apoptosis,55
+Cellular roles of Anthrax toxin,17
+Ceramide signaling pathway,44
+Circadian rhythm pathway,15
+Class I PI3K signaling events,46
+Class I PI3K signaling events mediated by Akt,34
+Class IB PI3K non-lipid kinase events,6
+Coregulation of Androgen receptor activity,57
+DNA-PK pathway in nonhomologous end joining,16
+Degradation of beta catenin,17
+Direct p53 effectors,135
+Downstream signaling in na&#xef;ve CD8+ T cells,63
+E-cadherin signaling in keratinocytes,21
+E-cadherin signaling in the nascent adherens junction,38
+E2F transcription factor network,72
+EGF receptor (ErbB1) signaling pathway,32
+EGFR-dependent Endothelin signaling events,8
+EPHA forward signaling,34
+EPHA2 forward signaling,17
+EPHB forward signaling,36
+EPO signaling pathway,33
+Effects of Botulinum toxin,9
+Endogenous TLR signaling,24
+Endothelins,62
+Ephrin B reverse signaling,30
+EphrinA-EPHA pathway,8
+EphrinB-EPHB pathway,6
+ErbB receptor signaling network,13
+ErbB1 downstream signaling,102
+ErbB2/ErbB3 signaling events,42
+ErbB4 signaling events,35
+FAS (CD95) signaling pathway,38
+FGF signaling pathway,139
+FOXA1 transcription factor network,44
+FOXA2 and FOXA3 transcription factor networks,45
+FOXM1 transcription factor network,39
+Fanconi anemia pathway,46
+Fc-epsilon receptor I signaling in mast cells,57
+FoxO family signaling,48
+GMCSF-mediated signaling events,35
+Glucocorticoid receptor regulatory network,82
+Glypican 1 network,27
+Glypican 3 network,8
+HIF-1-alpha transcription factor network,65
+HIF-2-alpha transcription factor network,34
+HIV-1 Nef: Negative effector of Fas and TNF-alpha,35
+Hedgehog signaling events mediated by Gli proteins,47
+Hypoxic and oxygen homeostasis regulation of HIF-1-alpha,18
+IFN-gamma pathway,39
+IGF1 pathway,28
+IL1-mediated signaling events,31
+IL12 signaling mediated by STAT4,32
+IL12-mediated signaling events,61
+IL2 signaling events mediated by PI3K,34
+IL2 signaling events mediated by STAT5,30
+IL2-mediated signaling events,54
+IL23-mediated signaling events,37
+IL27-mediated signaling events,26
+IL3-mediated signaling events,26
+IL4-mediated signaling events,60
+IL5-mediated signaling events,14
+IL6-mediated signaling events,45
+IL8- and CXCR1-mediated signaling events,27
+IL8- and CXCR2-mediated signaling events,33
+Insulin Pathway,43
+Insulin-mediated glucose transport,26
+Integrin family cell surface interactions,26
+Integrin-linked kinase signaling,45
+Integrins in angiogenesis,73
+Internalization of ErbB1,37
+JNK signaling in the CD4+ TCR pathway,13
+LKB1 signaling events,45
+LPA receptor mediated events,65
+LPA4-mediated signaling events,15
+Lissencephaly gene (LIS1) in neuronal migration and development,28
+N-cadherin signaling events,33
+Nectin adhesion pathway,28
+Nephrin/Neph1 signaling in the kidney podocyte,31
+Netrin-mediated signaling events,30
+Neurotrophic factor-mediated Trk receptor signaling,60
+Noncanonical Wnt signaling pathway,32
+Nongenotropic Androgen signaling,30
+Notch signaling pathway,68
+Notch-mediated HES/HEY network,48
+Osteopontin-mediated events,31
+PAR1-mediated thrombin signaling events,42
+PAR4-mediated thrombin signaling events,15
+PDGF receptor signaling network,6
+PDGFR-alpha signaling pathway,22
+PDGFR-beta signaling pathway,125
+PLK1 signaling events,44
+PLK3 signaling events,5
+Plasma membrane estrogen receptor signaling,38
+Plexin-D1 Signaling,23
+Posttranslational regulation of adherens junction stability and dissassembly,48
+Presenilin action in Notch and Wnt signaling,46
+RAC1 signaling pathway,53
+RXR and RAR heterodimerization with other nuclear receptor,21
+Rapid glucocorticoid signaling,8
+Ras signaling in the CD4+ TCR pathway,13
+Reelin signaling pathway,29
+Regulation of Androgen receptor activity,52
+Regulation of CDC42 activity,30
+Regulation of RAC1 activity,38
+Regulation of Ras family activation,30
+Regulation of RhoA activity,46
+Regulation of Telomerase,66
+Regulation of cytoplasmic and nuclear SMAD2/3 signaling,16
+Regulation of nuclear SMAD2/3 signaling,80
+Regulation of nuclear beta catenin signaling and target gene transcription,79
+Regulation of p38-alpha and p38-beta,30
+Regulation of retinoblastoma protein,63
+Retinoic acid receptors-mediated signaling,27
+RhoA signaling pathway,44
+Role of Calcineurin-dependent NFAT signaling in lymphocytes,51
+S1P1 pathway,21
+S1P2 pathway,24
+S1P3 pathway,29
+S1P4 pathway,14
+S1P5 pathway,8
+SHP2 signaling,53
+Signaling events mediated by HDAC Class I,65
+Signaling events mediated by HDAC Class II,34
+Signaling events mediated by HDAC Class III,25
+Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met),75
+Signaling events mediated by PRL,23
+Signaling events mediated by PTP1B,52
+Signaling events mediated by Stem cell factor receptor (c-Kit),52
+Signaling events mediated by TCPTP,40
+Signaling events mediated by VEGFR1 and VEGFR2,65
+Signaling events mediated by focal adhesion kinase,58
+Signaling events mediated by the Hedgehog family,22
+Signaling events regulated by Ret tyrosine kinase,38
+Signaling mediated by p38-alpha and p38-beta,38
+Signaling mediated by p38-gamma and p38-delta,9
+Sphingosine 1-phosphate (S1P) pathway,21
+Stabilization and expansion of the E-cadherin adherens junction,40
+Sumoylation by RanBP2 regulates transcriptional repression,11
+Syndecan-1-mediated signaling events,46
+Syndecan-2-mediated signaling events,33
+Syndecan-3-mediated signaling events,17
+Syndecan-4-mediated signaling events,31
+TCR signaling in na&#xef;ve CD4+ T cells,62
+TCR signaling in na&#xef;ve CD8+ T cells,51
+TGF-beta receptor signaling,54
+TNF receptor signaling pathway,46
+TRAIL signaling pathway,28
+Thromboxane A2 receptor signaling,54
+Trk receptor signaling mediated by PI3K and PLC-gamma,34
+Trk receptor signaling mediated by the MAPK pathway,33
+Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling,42
+VEGF and VEGFR signaling network,7
+VEGFR1 specific signals,25
+VEGFR3 signaling in lymphatic endothelium,24
+Validated nuclear estrogen receptor alpha network,62
+Validated nuclear estrogen receptor beta network,15
+Validated targets of C-MYC transcriptional activation,77
+Validated targets of C-MYC transcriptional repression,62
+Validated transcriptional targets of AP1 family members Fra1 and Fra2,35
+Validated transcriptional targets of TAp63 isoforms,51
+Validated transcriptional targets of deltaNp63 isoforms,45
+Visual signal transduction: Cones,23
+Visual signal transduction: Rods,23
+Wnt signaling network,28
+a4b7 Integrin signaling,8
+a6b1 and a6b4 Integrin signaling,44
+amb2 Integrin signaling,40
+mTOR signaling pathway,67
+p38 MAPK signaling pathway,26
+p38 signaling mediated by MAPKAP kinases,21
+p53 pathway,86
+p73 transcription factor network,73
+p75(NTR)-mediated signaling,66

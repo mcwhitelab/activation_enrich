@@ -1,0 +1,1396 @@
+Pathway,Count
+African Trypanosomiasis,40
+Burkitts Lymphoma,10
+Crohns Disease,12
+Cushings Syndrome,7
+Ewings Sarcoma,17
+Graves Disease,17
+Hodgkins Lymphoma,11
+Kaposi Sarcoma,35
+Parkinsons Disease,16
+Refetoff Syndrome,5
+Tourettes Disorder,71
+Waldenstroms Macroglobulinemia WM,23
+Wilms Tumor,17
+Wolff Parkinson White Syndrome WPW,11
+Zellweger Syndrome,17
+Zollinger Ellison Syndrome,13
+Abdominal Distension,17
+Abstinence From Alcohol,24
+Acetaminophen Overdose,26
+Acne Vulgaris AV,7
+Acquired Immunodeficiency Syndrome AIDS,31
+Acromegaly,32
+Acute Abdominal Visceral Spasm,5
+Acute Coronary Syndrome ACS,19
+Acute Glomerulonephritis AGN,12
+Acute Intermittent Porphyria AIP,43
+Acute Lymphoblastic Leukemia ALL,15
+Acute Myeloid Leukemia AML,5
+Adrenal Cortical Carcinoma,8
+Aggressive Systemic Mastocytosis ASM,13
+Allergic Rhinitis,18
+Amblyopia,12
+Amebiasis,12
+Amyotrophic Lateral Sclerosis ALS,24
+Anaphylactic Shock,32
+Androgenetic Alopecia,13
+Anemia,34
+Anesthetic,30
+Angioedema,16
+Anterior Uveitis,5
+Anthrax,5
+Anticoagulent,11
+Aphthous Ulcers,18
+Ascariasis,5
+Aspergillosis,10
+Asthma,6
+Astrocytoma,11
+Attention Deficit Hyperactivity Disorder ADHD,12
+Backache,12
+Benign Prostatic Hyperplasia BPH,16
+Bile Acid Synthesis Disorders,17
+Bile Stimulation,8
+Bipolar Disorder,9
+Bladder Cancer,146
+Bloating,9
+Brainstem Glioma,11
+Breast Cancer,104
+Bronchitis,5
+Bulimia Nervosa,30
+Bursitis,42
+Carcinoid Tumors,12
+Cardiac Arrest,32
+Cardiomyopathy,6
+Caudal Epidural Block,12
+Celiac Disease,19
+Cerebral Vasospasm,31
+Cerebrovascular Insufficiency,17
+Cervical Cancer,15
+Chest Congestion,8
+Chicken Pox,6
+Chlamydia,20
+Cholera,5
+Chronic Eosinophilic Leukemia CEL,68
+Chronic Lymphocytic Leukemia CLL,10
+Chronic Myeloid Leukemia CML,23
+Chronic Myelomonocytic Leukemia CMMoL,34
+Chronic Obstructive Pulmonary Disease COPD,5
+Chronic Renal Failure,12
+Chronic Stable Angina,13
+Chronic Venous Insufficiency CVI,5
+Claudication,13
+Colitis,16
+Colorectal Cancer,104
+Congenital Adrenal Hyperplasia,31
+Congenital Heart Defects,15
+Congestive Heart Failure,19
+Conjunctivitis,18
+Contact Dermatitis,5
+Coronary Artery Disease CAD,13
+Coronary Heart Disease,5
+Cough Suppressant,26
+Cutaneous T Cell Lymphoma CTCL,10
+Cutaneous Candidiasis,5
+Cutaneous Mast Cell Tumors,5
+Cyclitis,26
+Cycloplegia,12
+Cystic Hydatid Disease,8
+Dandruff,10
+Deep Vein Thrombosis DVT,6
+Depression,6
+Dermatitis,6
+Dermatitis Herpetiformis DH,11
+Dermatofibrosarcoma Protuberans DFSP,68
+Dermatomyositis,31
+Dermatosis,8
+Diabetes Mellitus,7
+Diabetic Nephropathy,16
+Diarrhea,7
+Diphtheria,20
+Dizziness,12
+Drowsiness,8
+Duodenal Ulcer Disease,20
+Dyschromia,17
+Dysthymic Disorder,12
+Ear Infections,20
+Eczema,5
+Emphysema,5
+Endocrine Adenoma,13
+Endometriosis,5
+Enteritis,83
+Ependymoma,11
+Epicondylitis,31
+Epilepsy,5
+Erectile Dysfunction,10
+Erythrasma,20
+Esophageal Candidiasis,9
+Esophageal Varices,5
+Exercise Induced Bronchoconstriction EIB,18
+Fatigue,8
+Fescue Toxicosis,6
+Fever,88
+Fibromyalgia,5
+Follicular Lymphoma,18
+Fungal Infection,17
+Gastric Adenocarcinoma,104
+Gastroesophageal Reflux Disease GERD,13
+Gastrointestinal Parasites,5
+Gastrointestinal Roundworms,5
+Gastrointestinal Stromal Tumors GIST,68
+General Anaesthetic,17
+Generalized Anxiety Disorder GAD,7
+Genitial Herpes,6
+Genitourinary Tract Infections,20
+Gestational Choriocarcinoma,106
+Gestational Trophoblastic Disease GTD,17
+Giardiasis,10
+Glaucoma,5
+Glioblastoma,11
+Goiter,17
+Gonorrhea,20
+Gout,27
+Gram Positive Bacterial Infections,43
+Hairy Cell Leukemia,21
+Head And Neck Squamous Cell Carcinoma HNSCC,21
+Headache,8
+Heart Attack,62
+Heavy Leg Syndrome,5
+Hemorrhagic Cystitis,17
+Hemorrhoids,14
+Hepatic Cirrhosis,12
+Hepatic Encephalopathy HE,5
+Hepatic Injury,26
+Hepatocellular Carcinoma HCC,85
+Hookworm,5
+Human Immunodeficiency Virus HIV 1,5
+Hydatidiform Mole,106
+Hyperaldosteronism,40
+Hypereosinophilic Syndrome HES,68
+Hyperglycemia,8
+Hyperprolactinemia,32
+Hyperthyroidism,6
+Hypertriglyceridemia,30
+Hyperuricemia,12
+Hypoactive Sexual Desire Disorder,6
+Hypocalcemia,10
+Hypoglycemia,17
+Hypokalemia,40
+Hypoparathyroidism,10
+Hypothyroidism,8
+Ichthyosis Vulgaris,12
+Idiopathic Pulmonary Fibrosis IPF,22
+Indigestion,8
+Inflammatory Bowel Disease,5
+Influenza A Virus Infection,7
+Insomnia,6
+Iritis,26
+Iron Overload,11
+Irritability,69
+Itching,39
+Joint Inflammation,5
+Kidney Stones,27
+Labor Induction,8
+Left Ventricular Systolic Dysfunction LVSD,20
+Leishmaniasis,5
+Leprosy,11
+Listeria,20
+Local Anesthetic,13
+Lumbar Epidural Block,12
+Lupus,83
+Lymphangioleiomyomatosis,57
+Malaria,5
+Malignant Hyperthermia MH,9
+Mantle Cell Lymphoma MCL,14
+Mastocytoma,14
+Medullary Thyroid Cancer MTC,16
+Medulloblastoma,11
+Melanoma,18
+Meningitis,5
+Menstrual Pain,7
+Mesothelioma,14
+Mouth Inflammation,25
+Multiple Myeloma,84
+Multiple Sclerosis,13
+Muscle Pain,88
+Muscle Relaxant,5
+Mycosis,16
+Mydriasis,12
+Myelodysplastic Diseases MDS,34
+Myelofibrosis,6
+Myeloma,35
+Myocardial Perfusion Imaging MPI,5
+Myxedema Coma,9
+Narcolepsy,6
+Nephrotic Syndrome,12
+Neuroblastoma,10
+Neuroendocrine Tumors Of Pancreatic Origin PNET,41
+Nicotinism,7
+Non Hodgkin Lymphoma NHL,11
+Non Small Cell Lung Cancer NSCLC,10
+Obesity,6
+Obsessive Compulsive Disorder OCD,17
+Onchocerciasis,40
+Oropharyngeal Candidiasis,35
+Osteoporosis,11
+Otitis,5
+Ovarian Cancer,146
+Pancreatic Cancer,104
+Panic Disorders,30
+Parenchymal Neurocysticercosis,8
+Pelvic Inflammatory Disease,10
+Peptic Ulcer Disease PUD,25
+Percutaneous Coronary Intervention PCI,5
+Peripheral T Cell Lymphoma PTCL,14
+Peripheral Nerve Block,12
+Peripheral Neuropathy,21
+Peroxisomal Disorders,17
+Pharyngitis,7
+Pheochromocytoma,12
+Pinworm,5
+Plague,5
+Pneumonia,10
+Poison Antidote,6
+Polycystic Ovary Syndrom PCOS,15
+Polycythemia Vera,12
+Postpartum Hemorrhage PPH,5
+Premature Ejaculation PE,5
+Premenstrual Syndrome,21
+Preservative,24
+Primary Dysmenorrhea PD,63
+Primary Peritoneal Cancer PPC,9
+Prostate Cancer,6
+Psoriasis,17
+Psoriatic Arthritis,6
+Punctate Keratitis,26
+Pyelonephritis,5
+Refactory Angina,5
+Renal Angiomyolipoma,41
+Renal Cell Carcinoma RCC,15
+Renal Homotransplantation,26
+Renal Toxicity,6
+Respiratory Tract Infections,20
+Restless Leg Syndrome,39
+Retinoblastoma,10
+Reverse Sedative,7
+Rhabdomyosarcoma,17
+Ringworm,5
+Schizophrenia,9
+Sciata,5
+Scleroderma,8
+Seasonal Affective Disorder,19
+Sedative,8
+Seizures,47
+Shingles,6
+Sinusitis,5
+Sjogrens Syndrome,5
+Skin Infections,20
+Sleep Cycle Support,34
+Sleeplessness,21
+Small Lymphocytic Lymphoma SLL,10
+Social Anxiety Disorder,31
+Soft Tissue Sarcoma STS,45
+Spontaneous Preterm Birth,7
+Statis Dermatitis,5
+Subependymal Giant Cell Astrocytoma SEGA,41
+Sunscreen Lotion,5
+Syphilis,20
+Tapeworm,28
+Tendinitis,42
+Testicular Carcinoma,146
+Tetanus,43
+Thalassemia,11
+Throat Infections,20
+Thrombocytopenia,7
+Thyroid Cancer,12
+Thyroiditis,16
+Tinea Corporis,5
+Tinea Cruris,5
+Tinea Versicolor,5
+Tonsillitis,7
+Toothache,88
+Transfusional Hemosiderosis,11
+Tremors,28
+True Histiocytic Lymphoma THL,10
+Tuberculosis,15
+Tuberous Sclerosis Complex TSC,41
+Ulcerative Colitis,5
+Urea Cycle Disorders,14
+Urinary Frequency,5
+Urinary Incontinence,6
+Urinary Retention,5
+Urinary Tract Infections,7
+Urticaria,9
+Varicose Veins,30
+Vascular Spasm,16
+Vasospastic Angina,13
+Virus Herpes Simplex HSV,39
+Vitamin B6 Deficiency,5
+Vulvovaginal Candidiasis,35
+Weight Loss Aid,10
+Whipworm,5
+Xerosis Cutis,12
+Yeast Infection,14
+ATC Code A01A,18
+ATC Code A02B,25
+ATC Code A03A,9
+ATC Code A03B,5
+ATC Code A05A,17
+ATC Code A07A,14
+ATC Code A07D,14
+ATC Code A08A,10
+ATC Code A10B,7
+ATC Code A11H,15
+ATC Code A14A,50
+ATC Code B01A,6
+ATC Code B02B,7
+ATC Code B05B,12
+ATC Code B05C,5
+ATC Code C01A,9
+ATC Code C01B,24
+ATC Code C01C,19
+ATC Code C01D,5
+ATC Code C01E,15
+ATC Code C02A,13
+ATC Code C02B,11
+ATC Code C02C,7
+ATC Code C02D,17
+ATC Code C03B,12
+ATC Code C03C,14
+ATC Code C03D,19
+ATC Code C05B,5
+ATC Code C05C,5
+ATC Code C08C,13
+ATC Code C08D,13
+ATC Code C08E,11
+ATC Code C09A,7
+ATC Code C09C,9
+ATC Code C10A,62
+ATC Code D01A,35
+ATC Code D01B,5
+ATC Code D02A,12
+ATC Code D03A,11
+ATC Code D05A,10
+ATC Code D05B,17
+ATC Code D06B,6
+ATC Code D07A,7
+ATC Code D07X,6
+ATC Code D09A,5
+ATC Code D10A,7
+ATC Code D10B,38
+ATC Code G02A,8
+ATC Code G03C,5
+ATC Code G04B,15
+ATC Code G04C,16
+ATC Code H02A,5
+ATC Code H03A,9
+ATC Code H03B,6
+ATC Code J01B,5
+ATC Code J01C,20
+ATC Code J01D,7
+ATC Code J01E,6
+ATC Code J01F,10
+ATC Code J01M,10
+ATC Code J02A,9
+ATC Code J04A,15
+ATC Code J04B,11
+ATC Code J05A,6
+ATC Code L01A,11
+ATC Code L01B,34
+ATC Code L01C,21
+ATC Code L01D,5
+ATC Code L01X,15
+ATC Code L02A,31
+ATC Code L02B,7
+ATC Code L03A,11
+ATC Code L04A,26
+ATC Code M03A,5
+ATC Code M03B,13
+ATC Code M03C,9
+ATC Code M04A,27
+ATC Code M05B,11
+ATC Code N01A,7
+ATC Code N02A,6
+ATC Code N02B,88
+ATC Code N03A,47
+ATC Code N04B,7
+ATC Code N05A,8
+ATC Code N05B,7
+ATC Code N05C,6
+ATC Code N06A,6
+ATC Code N06B,12
+ATC Code N06D,12
+ATC Code N07A,5
+ATC Code N07B,24
+ATC Code N07X,24
+ATC Code P01B,5
+ATC Code P02B,7
+ATC Code P02C,8
+ATC Code P02D,28
+ATC Code P03A,39
+ATC Code R01B,6
+ATC Code R02A,17
+ATC Code R03B,12
+ATC Code R03D,12
+ATC Code R05C,26
+ATC Code S01A,6
+ATC Code S01C,83
+ATC Code S01E,5
+ATC Code S01F,6
+ATC Code S01H,7
+ATC Code S01X,26
+ATC Code S02A,5
+ATC Code S02B,83
+ATC Code S02D,16
+ATC Code S03A,5
+ATC Code S03B,83
+ATC Code V03A,26
+R Apomorphine,16
+17 Hydroxyprogesterone Caproate,7
+5 Fluorouracil,104
+5 Hydroxytryptophan,6
+Abamectin,5
+Abemaciclib,14
+Abiraterone,6
+Acalabrutinib,14
+Acamprosate,24
+Acarbose,7
+Aceclidine,5
+Acenocoumarol,6
+Acepromazine,8
+Acetazolamide,13
+Acetylcholine,8
+Acetylcysteine,26
+Acitretin,17
+Aclarubicin,5
+Aclidinium,5
+Acriflavine,17
+Acyclovir,6
+Adapalene,7
+Adenosine,11
+Afatinib,10
+Agomelatine,6
+Albendazole,8
+Albuterol,6
+Alcuronium,5
+Alectinib,8
+Alendronate,11
+Alfuzosin,16
+Allopurinol,27
+Alpelisib,33
+Alprostadil,15
+Amantadine,7
+Amcinonide,7
+Amifostine,6
+Amiloride,19
+Aminoglutethimide,7
+Aminophylline,12
+Aminosalicylate,5
+Amiodarone,24
+Amisulpride,9
+Amitriptyline,45
+Amlexanox,18
+Amlodipine,13
+Amodiaquine,5
+Amoxapine,52
+Amoxicillin,20
+Amrinone,19
+Amsacrine,15
+Anastrozole,14
+Anisindione,6
+Apremilast,6
+Aripiprazole,34
+Arsenic Trioxide,7
+Artemether,5
+Artemisinin,7
+Asenapine,20
+Aspirin,88
+Atomoxetine,12
+Atorvastatin,62
+Atropine,12
+Avatrombopag,7
+Axitinib,15
+Azacitidine,34
+Azathioprine,26
+Azithromycin,10
+Baclofen,13
+Baricitinib,8
+Beclomethasone,12
+Belinostat,14
+Benazepril,7
+Benserazide,5
+Benzbromarone,15
+Bepridil,11
+Betamethasone,9
+Bethanechol,5
+Bexarotene,10
+Bicalutamide,8
+Binimetinib,18
+Biperiden,7
+Boceprevir,13
+Bortezomib,84
+Bosutinib,23
+Bremelanotide,6
+Brexpiprazole,5
+Brigatinib,5
+Brimonidine,9
+Brinzolamide,7
+Bromocriptine,32
+Budesonide,12
+Bumetanide,14
+Bupivacaine,12
+Bupropion,17
+Buspirone,7
+Butalbital,20
+Cabazitaxel,19
+Cabergoline,20
+Cabozantinib,16
+Caffeine,57
+Calcitriol,10
+Candesartan,9
+Capecitabine,32
+Capsaicin,16
+Captopril,16
+Carbachol,7
+Carbamazepine,47
+Carbenoxolone,25
+Carbidopa,9
+Carbimazole,6
+Carfilzomib,50
+Carmustine,11
+Carvedilol,19
+Cefadroxil,7
+Cefdinir,5
+Cefradine,5
+Celecoxib,63
+Ceritinib,12
+Cetirizine,5
+Cevimeline,5
+Chloramphenicol,5
+Chloroprocaine,8
+Chloroquine,12
+Chlorothiazide,6
+Chlorotrianisene,5
+Chloroxine,10
+Chlorpromazine,43
+Chlorpropamide,11
+Chlorprothixene,12
+Chlorthalidone,12
+Chlorzoxazone,5
+Cholic Acid,17
+Cilostazol,13
+Cimetidine,13
+Cinchocaine,7
+Ciprofloxacin,10
+Cisplatin,146
+Citalopram,38
+Cladribine,21
+Clarithromycin,13
+Clemastine,9
+Cleviprex,6
+Clofarabine,9
+Clofibrate,15
+Clomethiazole,6
+Clomipramine,17
+Clonidine,13
+Clopidogrel,19
+Cloprostenol,5
+Clorotepine,10
+Clotrimazole,35
+Clozapine,79
+Cobicistat,5
+Cobimetinib,14
+Colchicine,49
+Copanlisib,18
+Cortisone,5
+Coumarin,19
+Cridanimod,5
+Crisaborole,6
+Crizotinib,20
+Cyclobenzaprine,5
+Cyclophosphamide,10
+Cyclosporin A,10
+Cyclothiazide,8
+Cyclovalone,8
+Cyproheptadine,13
+Cytarabine,41
+Cytisine,7
+Dabigatran,9
+Dabrafenib,23
+Dacarbazine,14
+Dactinomycin,17
+Dalfampridine,46
+Danazol,16
+Dantrolene,9
+Dapoxetine,5
+Dapsone,11
+Darifenacin,6
+Dasatinib,74
+Daunorubicin,65
+Debrisoquin,7
+Decitabine,12
+Deferasirox,11
+Deferiprone,5
+Dehydroepiandrosterone,50
+Delavirdine,6
+Dequalinium,12
+Desipramine,30
+Deslanoside,9
+Desoximetasone,6
+Desvenlafaxine,6
+Dexamethasone,83
+Dexmedetomidine,8
+Dexrazoxane,6
+Dextromethorphan,26
+Diacerein,9
+Diazoxide,17
+Diclofenac,31
+Diclofenamide,5
+Dicoumarol,8
+Dicycloverine,9
+Didanosine,13
+Dienestrol,7
+Diflunisal,5
+Digitoxin,18
+Digoxin,34
+Dihydroergocristine,17
+Dihydroergotamine,10
+Dilazep,5
+Diltiazem,13
+Dinoprost,8
+Diosmin,5
+Diphenhydramine,7
+Diphenidol,5
+Dipyridamole,52
+Disopyramide,8
+Disulfiram,39
+Docetaxel,21
+Dolasetron,8
+Dolutegravir,7
+Domperidone,6
+Donepezil,7
+Dopamine,28
+Dorzolamide,7
+Dosulepin,8
+Doxazosin,5
+Doxepin,18
+Doxofylline,5
+Doxorubicin,93
+Dronedarone,23
+Droperidol,7
+Droxidopa,10
+Duloxetine,21
+Dyclonine,9
+Dyphylline,7
+Econazole,5
+Edaravone,5
+Efavirenz,24
+Eletriptan,8
+Eltrombopag,7
+Enalapril,20
+Encorafenib,8
+Enflurane,30
+Enilconazole,12
+Enoxolone,11
+Entrectinib,59
+Ephedrine,6
+Ephedrine Racemic,20
+Epinephrine,32
+Epirubicin,30
+Epoprostenol,5
+Eptifibatide,5
+Ergonovine,5
+Ergotamine,19
+Erlotinib,53
+Erythromycin,20
+Erythromycin Estolate,7
+Erythromycin Ethylsuccinate,7
+Escitalopram,18
+Eslicarbazepine Acetate,10
+Esomeprazole,9
+Estradiol,31
+Estramustine,15
+Estrone,9
+Ethanolamine Oleate,5
+Ethosuximide,5
+Ethotoin,10
+Ethoxzolamide,13
+Etomidate,17
+Etoposide,50
+Etravirine,6
+Everolimus,41
+Exemestane,14
+Fadrozole,6
+Fasudil,31
+Febuxostat,12
+Fedratinib,6
+Felbamate,12
+Felodipine,14
+Fenbendazole,5
+Fenofibrate,30
+Fenoldopam,9
+Fesoterodine,7
+Finasteride,13
+Flecainide,7
+Flibanserin,10
+Floxuridine,14
+Fluconazole,9
+Fludarabine,20
+Fludarabine Phosphate,6
+Flumazenil,19
+Flunarizine,9
+Flunisolide,10
+Fluocinonide,5
+Fluoxetine,30
+Flupentixol,10
+Fluphenazine,16
+Flupirtine,18
+Fluspirilene,23
+Flutamide,20
+Fluvastatin,21
+Fluvoxamine,13
+Fomepizole,6
+Fulvestrant,14
+Furosemide,13
+Gabapentin,39
+Galantamine,20
+Gefitinib,68
+Gemcitabine,79
+Gemfibrozil,12
+Glimepiride,8
+Glipizide,8
+Gliquidone,8
+Glyburide,23
+Glycopyrrolate,5
+Granisetron,13
+Griseofulvin,5
+Guanfacine,7
+Halofuginone,8
+Haloperidol,71
+Halothane,32
+Hexachlorophene,43
+Hexylresorcinol,5
+Histamine,11
+Homoharringtonine,5
+Hydrochlorothiazide,41
+Hydrocortisone,39
+Hydroflumethiazide,10
+Hydroquinone,17
+Hydroxychloroquine,10
+Hydroxyurea,14
+Hydroxyzine,8
+Hyoscyamine,5
+Ibrutinib,23
+Ibudilast,11
+Ibutilide,5
+Icosapent,12
+Idarubicin,36
+Idelalisib,6
+Ifosfamide,17
+Iloperidone,16
+Iloprost,9
+Imatinib,68
+Imipramine,32
+Indapamide,6
+Indinavir,12
+Indomethacin,42
+Indoramin,5
+Ingenol Mebutate,5
+Inositol,15
+Ipratropium,9
+Irbesartan,12
+Irinotecan,50
+Isoconazole,6
+Isoflurane,29
+Isoniazid,15
+Isotretinoin,11
+Isradipine,7
+Ixabepilone,21
+Ketanserin,20
+Ketoconazole,20
+Ketoprofen,5
+L Arginine,10
+L Citrulline,13
+L Methionine,10
+Labetalol,13
+Lamotrigine,26
+Lansoprazole,26
+Lapatinib,28
+Laropiprant,9
+Leflunomide,14
+Lenalidomide,14
+Lenvatinib,12
+Letrozole,15
+Leuprolide,8
+Levetiracetam,7
+Levodopa,36
+Levofloxacin,5
+Levomepromazine,21
+Levonordefrin,15
+Levosulpiride,11
+Levothyroxine,9
+Lidocaine,16
+Lidoflazine,5
+Linezolid,7
+Liothyronine,8
+Lisinopril,7
+Lisuride,16
+Lofepramine,5
+Loperamide,14
+Loratadine,16
+Lorlatinib,7
+Lornoxicam,5
+Losartan,9
+Lovastatin,45
+Loxapine,33
+Lurasidone,6
+Mafenide,7
+Malathion,5
+Maprotiline,12
+Masitinib,14
+Mebendazole,5
+Mecamylamine,11
+Meclizine,6
+Meclofenamic Acid,6
+Medetomidine,6
+Medroxyprogesterone,14
+Melatonin,34
+Melevodopa,8
+Meloxicam,5
+Menadione,30
+Mepacrine,10
+Mephentermine,10
+Mephenytoin,12
+Mepyramine,7
+Mesalazine,21
+Mesoridazine,8
+Mestranol,9
+Metaraminol,7
+Metergoline,19
+Metformin,37
+Metharbital,20
+Methazolamide,10
+Methimazole,18
+Methocarbamol,5
+Methotrexate,106
+Methoxsalen,10
+Methoxyflurane,25
+Methyldopa,29
+Methylergometrine,11
+Methylprednisolone,16
+Methysergide,17
+Metirosine,11
+Metixene,5
+Metoclopramide,14
+Metoprolol,8
+Metronidazole,5
+Mexiletine,5
+Mianserin,17
+Miconazole,14
+Midostaurin,26
+Mifepristone,20
+Miglitol,5
+Milnacipran,5
+Milrinone,5
+Miltefosine,5
+Minoxidil,13
+Mirtazapine,19
+Misoprostol,5
+Mitotane,8
+Mitoxantrone,40
+Molindone,5
+Montelukast,18
+Nabumetone,7
+Nadolol,5
+Nafamostat,11
+Naftopidil,5
+Nalbuphine,6
+Naloxone,14
+Naltrexone,8
+Naproxen,12
+Naratriptan,5
+Nateglinide,12
+Nedocromil,6
+Nelfinavir,12
+Neomycin,5
+Neratinib,11
+Nevirapine,22
+Niacin,11
+Nicardipine,15
+Niclosamide,28
+Nicorandil,5
+Nicotinamide,6
+Nicotine,55
+Nifedipine,57
+Niflumic Acid,10
+Nilotinib,13
+Nilutamide,8
+Nimesulide,15
+Nimodipine,16
+Nintedanib,22
+Niraparib,9
+Nisoldipine,15
+Nitrendipine,8
+Nitroxoline,14
+Nonivamide,6
+Norepinephrine,27
+Norethindrone,9
+Norgestimate,5
+Norgestrel,7
+Nortriptyline,34
+Noscapine,5
+Octreotide,12
+Olanzapine,90
+Olaparib,30
+Olopatadine,6
+Omeprazole,34
+Ondansetron,10
+Orlistat,10
+Osimertinib,5
+Oxatomide,6
+Oxcarbazepine,20
+Oxybenzone,5
+Oxybutynin,7
+Oxymetazoline,12
+Oxyquinoline,6
+Oxytocin,9
+Paclitaxel,101
+Palbociclib,47
+Paliperidone,9
+Pamidronate,5
+Pancuronium,5
+Panobinostat,17
+Pantoprazole,7
+Papaverine,16
+Paracetamol,38
+Paroxetine,31
+Pazopanib,45
+Peficitinib,5
+Pemetrexed,14
+Pentoxifylline,36
+Perhexiline,7
+Perphenazine,21
+PF 06463922,7
+Phenacemide,10
+Phenelzine,17
+Phenoxybenzamine,12
+Phenprocoumon,7
+Phentolamine,13
+Phenylbutyrate,14
+Phenylephrine,14
+Phenytoin,39
+Pilocarpine,14
+Pimozide,31
+Pinacidil,5
+Pindolol,6
+Pioglitazone,16
+Pipamperone,6
+Pirarubicin,8
+Pirenzepine,8
+Piretanide,6
+Pirfenidone,9
+Piribedil,12
+Piroxicam,11
+Plerixafor,6
+Podophyllotoxin,24
+Ponatinib,30
+Pramipexole,14
+Pranlukast,7
+Prasugrel,8
+Pravastatin,35
+Prazosin,15
+Prednicarbate,5
+Prednisolone,26
+Prednisone,31
+Prilocaine,11
+Primidone,32
+Probenecid,9
+Procaine,18
+Prochlorperazine,24
+Progesterone,74
+Proguanil,5
+Promazine,18
+Promethazine,15
+Propafenone,11
+Propantheline,6
+Propofol,29
+Propranolol,17
+Propylthiouracil,17
+Protriptyline,7
+Pyrazinamide,9
+Pyridoxine,5
+Pyrimethamine,11
+Quercetin,84
+Quetiapine,46
+Quinestrol,5
+Quinidine,21
+Quinine,12
+Rabeprazole,12
+Raloxifene,30
+Raltitrexed,8
+Ramatroban,5
+Ranitidine,14
+Ranolazine,8
+Regadenoson,5
+Regorafenib,28
+Repaglinide,16
+Reserpine,25
+Resorcinol,6
+Retinol,31
+Ribavirin,36
+Ribociclib,16
+Rifampin,21
+Rifapentine,5
+Riluzole,24
+Rimexolone,5
+Risperidone,69
+Ritonavir,25
+Rizatriptan,5
+Rocuronium,6
+Romidepsin,19
+Ropinirole,15
+Ropivacaine,5
+Rosuvastatin,13
+Rotigotine,7
+Roxithromycin,9
+Rufinamide,12
+Rutin,11
+Ruxolitinib,12
+Safinamide,15
+Saquinavir,8
+Scopolamine,6
+Selegiline,9
+Serotonin,21
+Sertraline,21
+Sevoflurane,32
+Sildenafil,14
+Silibinin,13
+Simeprevir,9
+Simvastatin,55
+Siponimod,5
+Sirolimus,57
+SN 38,27
+Sofalcone,8
+Solifenacin Succinate,5
+Somatostatin,7
+Sonidegib,5
+Sorafenib,85
+Sotalol,10
+Spiperone,20
+Spironolactone,40
+Sulfanilamide,6
+Sulfaphenazole,8
+Sulfasalazine,28
+Sulfinpyrazone,12
+Sulindac,18
+Sumatriptan,18
+Sunitinib,43
+Suramin,40
+Tacrine,6
+Tacrolimus,34
+Talazoparib,11
+Tamoxifen,69
+Tamsulosin,6
+Tazarotene,8
+Telaprevir,7
+Telithromycin,7
+Telmisartan,8
+Temozolomide,20
+Temsirolimus,15
+Teniposide,8
+Tenoxicam,5
+Terazosin,10
+Terguride,13
+Tetracaine,11
+Thalidomide,35
+Thiethylperazine,11
+Thiocolchicoside,5
+Thioguanine,25
+Thiomersal,24
+Thiopental,11
+Thioproperazine,6
+Thiotepa,9
+Thiothixene,6
+Ticagrelor,8
+Ticlopidine,13
+Tiotropium,5
+Tiratricol,5
+Tirofiban,5
+Tivozanib,9
+Tizanidine,5
+Toceranib,5
+Tofacitinib,9
+Tolazamide,7
+Tolazoline,7
+Tolbutamide,8
+Tolterodine,10
+Topiramate,44
+Topotecan,15
+Torasemide,10
+Toremifene,7
+Trametinib,44
+Tranilast,11
+Trazodone,14
+Treprostinil,9
+Tretinoin,38
+Triamcinolone,23
+Triamterene,18
+Trichlormethiazide,8
+Triclabendazole,7
+Triclosan,7
+Trifluoperazine,31
+Triflupromazine,8
+Triflusal,5
+Trimethoprim,12
+Trimipramine,8
+Tropisetron,10
+Tryptophan,9
+Tubocurarine,8
+Umeclidinium,6
+Urapidil,5
+Urea,12
+Valproic Acid,21
+Vandetanib,55
+Varenicline,8
+Vasopressin,17
+Vemurafenib,30
+Venetoclax,15
+Venlafaxine,15
+Verapamil,47
+Vesnarinone,7
+Vilazodone,7
+Vinblastine,35
+Vinburnine,6
+Vincristine,57
+Vinorelbine,26
+Vinpocetine,5
+Voriconazole,10
+Vorinostat,47
+Vortioxetine,10
+Warfarin,36
+Xylometazoline,7
+Yohimbine,25
+Zafirlukast,17
+Zidovudine,31
+Zileuton,8
+Ziprasidone,34
+Zolmitriptan,6
+Zonisamide,37
+Zotepine,15
+Zuclopenthixol,9
+11 Beta Hydroxysteroid Dehydrogenase Inhibitor,25
+ALK Tyrosine Kinase Receptor Inhibitor,8
+ATP Channel Activator,5
+Abl Kinase Inhibitor,23
+BCL Inhibitor,15
+Bcr Abl Kinase Inhibitor,23
+Brutons Tyrosine Kinase BTK Inhibitor,14
+CDK Inhibitor,14
+DNA Alkylating Agent,11
+DNA Inhibitor,11
+DNA Methyltransferase Inhibitor,34
+DNA Polymerase Inhibitor,6
+DNA Replication Inhibitor,28
+DNA Synthesis Inhibitor,7
+DOPA Decarboxylase Inhibitor,5
+EGFR Inhibitor,10
+FABI Inhibitor,15
+FGFR Inhibitor,12
+FLT3 Inhibitor,6
+GABA Receptor Antagonist,20
+GABA Receptor Modulator,6
+HCV Inhibitor,13
+HDAC Inhibitor,14
+HIV Integrase Inhibitor,7
+HIV Protease Inhibitor,24
+HMGCR Inhibitor,62
+JAK Inhibitor,8
+KATP Activator,13
+KIT Inhibitor,74
+Kir6 Channel KATP Activator,13
+MEK Inhibitor,18
+NAD Precursor,11
+NADPH Inhibitor,8
+Na K ATPase Inhibitor,9
+PARP Inhibitor,9
+PDGFR Tyrosine Kinase Receptor Inhibitor,15
+PI3K Inhibitor,33
+PKC Inhibitor,12
+RAF Inhibitor,23
+RET Tyrosine Kinase Inhibitor,16
+RNA Polymerase Inhibitor,17
+RNA Synthesis Inhibitor,65
+SRC Inhibitor,23
+STAT Inhibitor,28
+TGF Beta Receptor Inhibitor,9
+TP53 Activator,10
+TRPV Agonist,16
+VEGFR Inhibitor,15
+Acetylcholine Receptor Agonist,5
+Acetylcholine Receptor Antagonist,5
+Adenosine Deaminase Inhibitor,21
+Adenosine Receptor Agonist,11
+Adenosine Receptor Antagonist,12
+Adenosine Reuptake Inhibitor,5
+Adrenergic Inhibitor,15
+Adrenergic Neuron Blocker,7
+Adrenergic Receptor Agonist,6
+Alcohol Dehydrogenase Inhibitor,6
+Aldehyde Dehydrogenase Inhibitor,39
+Androgen Biosynthesis Inhibitor,6
+Androgen Receptor Antagonist,8
+Angiogenesis Inhibitor,11
+Angiotensin Converting Enzyme Inhibitor,7
+Antiarrhythmic,11
+Antibacterial Agent,7
+Anticancer Agent,14
+Antimalarial Agent,5
+Antineoplastic Agent,8
+Antithyroid Agent,6
+Antiviral,36
+Apoptosis Stimulant,7
+Aromatase Inhibitor,14
+Aromatic L Amino Acid Decarboxylase Inhibitor,9
+Bacterial 30S Ribosomal Subunit Inhibitor,5
+Bacterial 50S Ribosomal Subunit Inhibitor,10
+Bacterial DNA Gyrase Inhibitor,10
+Bacterial Antifolate,11
+Benzodiazepine Receptor Agonist,5
+Benzodiazepine Receptor Antagonist,19
+Bile Acid,17
+Bone Resorption Inhibitor,11
+Bradykinin Receptor Antagonist,5
+Breast Cancer Resistance Protein Inhibitor,8
+Calcineurin Inhibitor,10
+Calcium Channel Blocker,13
+Capillary Stabilizing Agent,5
+Carbonic Anhydrase Activator,32
+Carbonic Anhydrase Inhibitor,13
+Carboxamide Antiepileptic,47
+Carnitine Palmitoyltransferase Inhibitor,7
+Cathepsin Inhibitor,14
+Chelating Agent,11
+Chloride Channel Blocker,15
+Cholinergic Receptor Agonist,7
+Collagenase Inhibitor,8
+Constitutive Androstane Receptor CAR Agonist,6
+Cytokine Production Inhibitor,10
+Dehydrogenase Inhibitor,26
+Dihydroorotate Dehydrogenase Inhibitor,14
+Dihydropteroate Synthetase Inhibitor,8
+Diuretic,6
+Dopamine Precursor,36
+Dopamine Receptor Agonist,16
+Dopamine Receptor Antagonist,8
+Dopamine Receptor Partial Agonist,5
+Dopamine Reuptake Inhibitor,17
+Ephrin Inhibitor,74
+Estrogenic Hormone,5
+Fatty Acid Synthase Inhibitor,9
+Fungal Lanosterol Demethylase Inhibitor,6
+Gap Junction Modulator,11
+Glucocorticoid Receptor Antagonist,7
+Glucosidase Inhibitor,7
+Glutamate Inhibitor,24
+Glutamate Receptor Antagonist,24
+Glutamate Receptor Modulator,8
+Growth Factor Receptor Activator,21
+Hemozoin Biocrystallization Inhibitor,12
+Histamine Receptor Agonist,5
+Histamine Receptor Modulator,18
+Hydantoin Antiepileptic,10
+Hydroxy Radical Formation Stimulant,12
+Hypoxia Inducible Factor Inhibitor,17
+Imidazoline Receptor Ligand,35
+Immunostimulant,5
+Inhaled Anaesthetic,29
+Insulin Secretagogue,8
+Insulin Sensitizer,15
+Interleukin Inhibitor,9
+Kainate Receptor Antagonist,44
+Lanosterol Demethylase Inhibitor,5
+Leukotriene Receptor Antagonist,11
+Lipase Inhibitor,10
+Lipoprotein Lipase Activator,12
+mTOR Inhibitor,41
+Melanin Inhibitor,17
+Melanocortin Receptor Agonist,6
+Melatonin Receptor Agonist,6
+Membrane Integrity Inhibitor,5
+Membrane Permeability Inhibitor,30
+Microtubule Inhibitor,19
+Microtubule Stabilizing Agent,21
+Mitochondrial DNA Polymerase Inhibitor,30
+Mucolytic Agent,26
+Mucus Protecting Agent,8
+Neurotransmitter,6
+Nitric Oxide Donor,5
+Nitric Oxide Precursor,10
+Nitric Oxide Scavenger,11
+Nitric Oxide Synthase Inhibitor,34
+Non Nucleoside Reverse Transcriptase Inhibitor,6
+Nootropic Agent,5
+Norepinephrine Inhibitor,45
+Norepinephrine Precursor,10
+Norepinephrine Reputake Inhibitor,52
+Norepinephrine Reuptake Inhibitor,45
+Norepinephrine Transporter Inhibitor,12
+Nucleoside Reverse Transcriptase Inhibitor,13
+Other Antibiotic,24
+Penicillin Binding Protein Inhibitor,20
+Phosphatase Inhibitor,30
+Phosphodiesterase Inhibitor,19
+Phospholipase Activator,5
+Platelet Aggregation Inhibitor,5
+Polar Auxin Transport Inhibitor,84
+Potassium Channel Activator,17
+Potassium Channel Blocker,24
+Progesterone Receptor Agonist,7
+Prolactin Inhibitor,17
+Prostacyclin Analog,8
+Prostaglandin Receptor Agonist,5
+Prostanoid Receptor Agonist,15
+Proteasome Inhibitor,84
+Protein Synthesis Inhibitor,7
+Protein Synthesis Stimulant,50
+Protein Tyrosine Kinase Inhibitor,5
+Proto Oncogene Tyrosine Protein Kinase Inhibitor,59
+Purinergic Receptor Antagonist,19
+Reducing Agent,6
+Retinoid Receptor Agonist,17
+Retinoid Receptor Ligand,31
+Rho Associated Kinase Inhibitor,31
+Ribonucleotide Reductase Inhibitor,21
+Selective Serotonin Reuptake Inhibitor SSRI,38
+Serotonin Receptor Antagonist,6
+Serotonin Receptor Partial Agonist,9
+Serotonin Reuptake Inhibitor,32
+Serotonin Transporter SERT Inhibitor,17
+Serotonin Norepinephrine Reuptake Inhibitor SNRI,45
+Sigma Receptor Agonist,26
+Smoothened Receptor Antagonist,5
+Solute Carrier Family Member Inhibitor,14
+Somatostatin Receptor Agonist,12
+Sphingosine 1 Phosphate Receptor Modulator,5
+Sterol Demethylase Inhibitor,5
+Structural Glycoprotein Antagonist,5
+Succinimide Antiepileptic,5
+Sulfonylurea,8
+Thiazide Diuretic,41
+Thrombopoietin Receptor Agonist,7
+Thymidylate Synthase Inhibitor,104
+Thyroid Hormone Stimulant,9
+Thyroid Peroxidase Inhibitor,17
+Topoisomerase Inhibitor,5
+Tricyclic Antidepressant,30
+Tubulin Polymerization Inhibitor,8
+Tumor Necrosis Factor Production Inhibitor,35
+Tyrosine Hydroxylase Inhibitor,11
+Tyrosine Kinase Inhibitor,74
+Uricosuric Blocker,9
+Vasodilator,15
+Vesicular Monoamine Transporter Inhibitor,25
+Vitamin B,11
+Vitamin K Antagonist,6
+Voltage Gated Calcium Channel Ligand,10
+Xanthine Oxidase Inhibitor,27

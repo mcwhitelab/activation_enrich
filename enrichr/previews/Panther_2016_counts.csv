@@ -1,0 +1,113 @@
+Pathway,Count
+Androgen/estrogene/progesterone biosynthesis Homo sapiens P02727,8
+ATP synthesis Homo sapiens P02721,5
+Blood coagulation Homo sapiens P00011,38
+Plasminogen activating cascade Homo sapiens P00050,15
+Ubiquitin proteasome pathway Homo sapiens P00060,43
+Cell cycle Homo sapiens P00013,16
+Parkinson disease Homo sapiens P00049,81
+Apoptosis signaling pathway Homo sapiens P00006,102
+FAS signaling pathway Homo sapiens P00020,31
+TGF-beta signaling pathway Homo sapiens P00052,88
+Toll receptor signaling pathway Homo sapiens P00054,49
+p38 MAPK pathway Homo sapiens P05918,32
+Oxidative stress response Homo sapiens P00046,24
+Interferon-gamma signaling pathway Homo sapiens P00035,28
+JAK/STAT signaling pathway Homo sapiens P00038,14
+Axon guidance mediated by Slit/Robo Homo sapiens P00008,18
+Axon guidance mediated by netrin Homo sapiens P00009,30
+Integrin signalling pathway Homo sapiens P00034,156
+CCKR signaling map ST Homo sapiens P06959,165
+Endothelin signaling pathway Homo sapiens P00019,75
+VEGF signaling pathway Homo sapiens P00056,54
+Angiogenesis Homo sapiens P00005,142
+EGF receptor signaling pathway Homo sapiens P00018,109
+FGF signaling pathway Homo sapiens P00021,99
+B cell activation Homo sapiens P00010,57
+T cell activation Homo sapiens P00053,73
+Ras Pathway Homo sapiens P04393,69
+Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade Homo sapiens P00032,29
+PDGF signaling pathway Homo sapiens P00047,112
+Interleukin signaling pathway Homo sapiens P00036,86
+PI3 kinase pathway Homo sapiens P00048,42
+Insulin/IGF pathway-protein kinase B signaling cascade Homo sapiens P00033,34
+Hypoxia response via HIF activation Homo sapiens P00030,24
+p53 pathway feedback loops 2 Homo sapiens P04398,45
+p53 pathway Homo sapiens P00059,71
+P53 pathway feedback loops 1 Homo sapiens P04392,7
+p53 pathway by glucose deprivation Homo sapiens P04397,21
+Huntington disease Homo sapiens P00029,124
+Metabotropic glutamate receptor group I pathway Homo sapiens P00041,23
+Inflammation mediated by chemokine and cytokine signaling pathway Homo sapiens P00031,188
+Cytoskeletal regulation by Rho GTPase Homo sapiens P00016,70
+Nicotinic acetylcholine receptor signaling pathway Homo sapiens P00044,68
+Muscarinic acetylcholine receptor 2 and 4 signaling pathway Homo sapiens P00043,39
+Metabotropic glutamate receptor group II pathway Homo sapiens P00040,30
+Metabotropic glutamate receptor group III pathway Homo sapiens P00039,54
+Ionotropic glutamate receptor pathway Homo sapiens P00037,45
+5HT3 type receptor mediated signaling pathway Homo sapiens P04375,16
+5HT4 type receptor mediated signaling pathway Homo sapiens P04376,16
+Beta3 adrenergic receptor signaling pathway Homo sapiens P04379,11
+Opioid prodynorphin pathway Homo sapiens P05916,18
+Opioid proenkephalin pathway Homo sapiens P05915,18
+Opioid proopiomelanocortin pathway Homo sapiens P05917,18
+5HT1 type receptor mediated signaling pathway Homo sapiens P04373,29
+Beta2 adrenergic receptor signaling pathway Homo sapiens P04378,28
+Beta1 adrenergic receptor signaling pathway Homo sapiens P04377,28
+Histamine H2 receptor mediated signaling pathway Homo sapiens P04386,9
+Enkephalin release Homo sapiens P05913,17
+Nicotine pharmacodynamics pathway Homo sapiens P06587,28
+Dopamine receptor mediated signaling pathway Homo sapiens P05912,52
+Adrenaline and noradrenaline biosynthesis Homo sapiens P00001,25
+Alpha adrenergic receptor signaling pathway Homo sapiens P00002,23
+5HT2 type receptor mediated signaling pathway Homo sapiens P04374,46
+Oxytocin receptor mediated signaling pathway Homo sapiens P04391,39
+Thyrotropin-releasing hormone receptor signaling pathway Homo sapiens P04394,41
+Histamine H1 receptor mediated signaling pathway Homo sapiens P04385,26
+Muscarinic acetylcholine receptor 1 and 3 signaling pathway Homo sapiens P00042,42
+Alzheimer disease-amyloid secretase pathway Homo sapiens P00003,56
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway Homo sapiens P00027,106
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway Homo sapiens P00026,127
+GABA-B receptor II signaling Homo sapiens P05731,35
+Endogenous cannabinoid signaling Homo sapiens P05730,23
+Angiotensin II-stimulated signaling through G proteins and beta-arrestin Homo sapiens P05911,34
+Cortocotropin releasing factor receptor signaling pathway Homo sapiens P04380,30
+Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction Homo sapiens P00028,31
+Synaptic vesicle trafficking Homo sapiens P05734,23
+2-arachidonoylglycerol biosynthesis Homo sapiens P05726,6
+Notch signaling pathway Homo sapiens P00045,38
+Alzheimer disease-presenilin pathway Homo sapiens P00004,99
+Cadherin signaling pathway Homo sapiens P00012,150
+Wnt signaling pathway Homo sapiens P00057,278
+Hedgehog signaling pathway Homo sapiens P00025,18
+Transcription regulation by bZIP transcription factor Homo sapiens P00055,42
+General transcription regulation Homo sapiens P00023,28
+General transcription by RNA polymerase I Homo sapiens P00022,15
+5-Hydroxytryptamine degredation Homo sapiens P04372,5
+Vasopressin synthesis Homo sapiens P04395,10
+Circadian clock system Homo sapiens P00015,8
+Formyltetrahydroformate biosynthesis Homo sapiens P02743,5
+Arginine biosynthesis Homo sapiens P02728,6
+De novo pyrimidine ribonucleotides biosythesis Homo sapiens P02740,9
+De novo pyrimidine deoxyribonucleotide biosynthesis Homo sapiens P02739,10
+De novo purine biosynthesis Homo sapiens P02738,26
+Salvage pyrimidine ribonucleotides Homo sapiens P02775,10
+Pyrimidine Metabolism Homo sapiens P02771,10
+Axon guidance mediated by semaphorins Homo sapiens P00007,17
+Adenine and hypoxanthine salvage pathway Homo sapiens P02723,5
+TCA cycle Homo sapiens P00051,9
+Pyruvate metabolism Homo sapiens P02772,8
+Glycolysis Homo sapiens P00024,17
+Pentose phosphate pathway Homo sapiens P02762,8
+Fructose galactose metabolism Homo sapiens P02744,10
+DNA replication Homo sapiens P00017,19
+Asparagine and aspartate biosynthesis Homo sapiens P02730,5
+N-acetylglucosamine metabolism Homo sapiens P02756,6
+Nicotine degradation Homo sapiens P05914,6
+Cholesterol biosynthesis Homo sapiens P00014,11
+Mannose metabolism Homo sapiens P02752,6
+Serine glycine biosynthesis Homo sapiens P02776,6
+Vitamin D metabolism and pathway Homo sapiens P04396,8
+Coenzyme A biosynthesis Homo sapiens P02736,6
+mRNA splicing Homo sapiens P00058,5
+Heme biosynthesis Homo sapiens P02746,11
