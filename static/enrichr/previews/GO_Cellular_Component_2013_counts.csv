@@ -1,0 +1,206 @@
+Pathway,Count
+axon (GO:0030424),12
+dendrite (GO:0030425),17
+growth cone (GO:0030426),12
+trans-Golgi network (GO:0005802),22
+centrosome (GO:0005813),77
+microtubule organizing center (GO:0005815),91
+centriole (GO:0005814),10
+spindle (GO:0005819),15
+cytosol (GO:0005829),740
+heterotrimeric G-protein complex (GO:0005834),9
+ribosome (GO:0005840),40
+transcription factor TFTC complex (GO:0033276),14
+voltage-gated calcium channel complex (GO:0005891),19
+nicotinic acetylcholine-gated receptor-channel complex (GO:0005892),13
+integral to plasma membrane (GO:0005887),926
+integral to mitochondrial membrane (GO:0032592),10
+cytoskeleton (GO:0005856),218
+eukaryotic translation initiation factor 3 complex (GO:0005852),14
+intermediate filament (GO:0005882),33
+plasma membrane (GO:0005886),808
+actin filament (GO:0005884),13
+organelle membrane (GO:0031090),288
+platelet alpha granule membrane (GO:0031092),10
+platelet alpha granule lumen (GO:0031093),33
+spindle microtubule (GO:0005876),20
+kinesin complex (GO:0005871),13
+microtubule associated complex (GO:0005875),67
+microtubule (GO:0005874),36
+cornified envelope (GO:0001533),16
+extracellular matrix (GO:0031012),64
+mitochondrial nucleoid (GO:0042645),29
+actomyosin (GO:0042641),13
+nuclear chromosome (GO:0000228),21
+pore complex (GO:0046930),44
+microsome (GO:0005792),54
+ER-Golgi intermediate compartment (GO:0005793),28
+Golgi apparatus (GO:0005794),223
+Golgi-associated vesicle (GO:0005798),17
+endoplasmic reticulum membrane (GO:0005789),95
+endoplasmic reticulum lumen (GO:0005788),22
+endoplasmic reticulum (GO:0005783),249
+integral to peroxisomal membrane (GO:0005779),10
+peroxisome (GO:0005777),52
+vacuole (GO:0005773),66
+vacuolar membrane (GO:0005774),15
+late endosome (GO:0005770),14
+calcium channel complex (GO:0034704),24
+early endosome (GO:0005769),31
+endosome (GO:0005768),90
+mitochondrial ribosome (GO:0005761),10
+lysosomal membrane (GO:0005765),11
+lysosome (GO:0005764),57
+mitochondrial small ribosomal subunit (GO:0005763),16
+mitochondrial intermembrane space (GO:0005758),11
+mitochondrial matrix (GO:0005759),57
+nuclear membrane (GO:0031965),38
+mitochondrial membrane (GO:0031966),61
+mitochondrial inner membrane presequence translocase complex (GO:0005744),9
+mitochondrial respiratory chain complex I (GO:0005747),42
+mitochondrial inner membrane (GO:0005743),35
+mitochondrial outer membrane (GO:0005741),23
+mitochondrion (GO:0005739),280
+cytoplasm (GO:0005737),1303
+nucleolus (GO:0005730),459
+small nucleolar ribonucleoprotein complex (GO:0005732),17
+vesicle (GO:0031982),112
+nuclear body (GO:0016604),47
+nuclear speck (GO:0016607),12
+PML body (GO:0016605),27
+vesicular fraction (GO:0042598),56
+filamentous actin (GO:0031941),9
+voltage-gated potassium channel complex (GO:0008076),39
+spectrin (GO:0008091),9
+proteasome complex (GO:0000502),25
+transcription elongation factor complex (GO:0008023),16
+synaptic vesicle (GO:0008021),13
+extracellular space (GO:0005615),287
+intracellular (GO:0005622),152
+basement membrane (GO:0005604),12
+perinuclear region of cytoplasm (GO:0048471),82
+nucleus (GO:0005634),1435
+nuclear envelope (GO:0005635),32
+nuclear pore (GO:0005643),39
+membrane fraction (GO:0005624),352
+soluble fraction (GO:0005625),167
+insoluble fraction (GO:0005626),363
+"DNA-directed RNA polymerase II, core complex (GO:0005665)",13
+nucleoplasm (GO:0005654),349
+anaphase-promoting complex (GO:0005680),9
+spliceosome (GO:0005681),54
+transcription factor complex (GO:0005667),75
+stress fiber (GO:0001725),12
+transcription factor TFIID complex (GO:0005669),17
+ruffle (GO:0001726),19
+chromosome (GO:0005694),31
+integral to Golgi membrane (GO:0030173),14
+integral to endoplasmic reticulum membrane (GO:0030176),22
+cell projection membrane (GO:0031253),13
+intrinsic to Golgi membrane (GO:0031228),17
+intrinsic to endoplasmic reticulum membrane (GO:0031227),23
+intrinsic to membrane (GO:0031224),1462
+AP-type membrane coat adaptor complex (GO:0030119),9
+transport vesicle (GO:0030133),27
+coated vesicle (GO:0030135),32
+clathrin-coated vesicle (GO:0030136),28
+SNARE complex (GO:0031201),11
+endocytic vesicle (GO:0030139),12
+secretory granule (GO:0030141),18
+transcriptional repressor complex (GO:0017053),16
+cell surface (GO:0009986),114
+membrane (GO:0016020),1148
+cytoplasmic membrane-bounded vesicle (GO:0016023),98
+integral to membrane (GO:0016021),1441
+external side of plasma membrane (GO:0009897),30
+actin cytoskeleton (GO:0015629),60
+microtubule cytoskeleton (GO:0015630),9
+cell-substrate junction (GO:0030055),52
+cell junction (GO:0030054),108
+collagen (GO:0005581),31
+fibrillar collagen (GO:0005583),11
+proteinaceous extracellular matrix (GO:0005578),55
+extracellular region (GO:0005576),460
+cellular component (GO:0005575),7324
+STAGA complex (GO:0030914),12
+lamellipodium (GO:0030027),16
+Golgi transport complex (GO:0017119),9
+condensed nuclear chromosome (GO:0000794),11
+cortical cytoskeleton (GO:0030863),13
+integrin complex (GO:0008305),22
+endosome membrane (GO:0010008),27
+heterochromatin (GO:0000792),9
+condensed chromosome (GO:0000793),16
+nuclear chromatin (GO:0000790),15
+nucleosome (GO:0000786),14
+chromatin (GO:0000785),44
+nuclear telomere cap complex (GO:0000783),9
+"chromosome, telomeric region (GO:0000781)",12
+kinetochore (GO:0000776),11
+intracellular membrane-bounded organelle (GO:0043231),2303
+intracellular organelle (GO:0043229),2798
+receptor complex (GO:0043235),89
+protein complex (GO:0043234),1154
+basolateral plasma membrane (GO:0016323),31
+apical plasma membrane (GO:0016324),35
+cell projection (GO:0042995),113
+very-low-density lipoprotein particle (GO:0034361),9
+high-density lipoprotein particle (GO:0034364),12
+nuclear matrix (GO:0016363),22
+cytoplasmic vesicle (GO:0031410),108
+protein serine/threonine phosphatase complex (GO:0008287),14
+protein phosphatase type 2A complex (GO:0000159),9
+T cell receptor complex (GO:0042101),12
+NuA4 histone acetyltransferase complex (GO:0035267),14
+integrator complex (GO:0032039),11
+eukaryotic translation initiation factor 4F complex (GO:0016281),9
+histone acetyltransferase complex (GO:0000123),47
+mediator complex (GO:0000119),20
+histone deacetylase complex (GO:0000118),25
+ubiquitin ligase complex (GO:0000151),52
+nuclear ubiquitin ligase complex (GO:0000152),13
+ATP-binding cassette (ABC) transporter complex (GO:0043190),9
+Golgi membrane (GO:0000139),39
+membrane raft (GO:0045121),42
+outer membrane (GO:0019867),33
+organelle inner membrane (GO:0019866),40
+anchored to plasma membrane (GO:0046658),11
+extrinsic to plasma membrane (GO:0019897),17
+extrinsic to membrane (GO:0019898),28
+cytoplasmic vesicle membrane (GO:0030659),26
+secretory granule membrane (GO:0030667),16
+neuron projection (GO:0043005),39
+SWI/SNF complex (GO:0016514),13
+sarcoplasmic reticulum membrane (GO:0033017),11
+cytosolic small ribosomal subunit (GO:0022627),35
+cytosolic large ribosomal subunit (GO:0022625),35
+small ribosomal subunit (GO:0015935),52
+large ribosomal subunit (GO:0015934),42
+vesicle membrane (GO:0012506),30
+cell soma (GO:0043025),10
+chromatin remodeling complex (GO:0016585),30
+synapse (GO:0045202),14
+small nuclear ribonucleoprotein complex (GO:0030532),24
+heterogeneous nuclear ribonucleoprotein complex (GO:0030530),16
+ribonucleoprotein complex (GO:0030529),266
+spindle pole (GO:0000922),14
+cell-cell adherens junction (GO:0005913),11
+adherens junction (GO:0005912),61
+cell-cell junction (GO:0005911),49
+gamma-tubulin complex (GO:0000930),10
+microvillus (GO:0005902),11
+caveola (GO:0005901),15
+cell cortex (GO:0005938),16
+midbody (GO:0030496),12
+cilium (GO:0005929),14
+tight junction (GO:0005923),9
+focal adhesion (GO:0005925),49
+cytoskeletal part (GO:0044430),339
+mitochondrial part (GO:0044429),271
+membrane part (GO:0044425),2055
+extracellular matrix part (GO:0044420),59
+extracellular region part (GO:0044421),423
+histone methyltransferase complex (GO:0035097),15
+myosin complex (GO:0016459),17
+proton-transporting two-sector ATPase complex (GO:0016469),16
+cytosolic part (GO:0044445),105

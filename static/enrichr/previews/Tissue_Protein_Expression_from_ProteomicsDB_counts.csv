@@ -1,0 +1,208 @@
+Pathway,Count
+A-375 cell,301
+A-498 cell,301
+A-549 cell,301
+ACHN cell,301
+B-lymphocyte,301
+BICR16,301
+BICR56,301
+BT-474 cell,301
+BT-549 cell,301
+CAL-27 cell,301
+CAL-33 cell,301
+CCRF-CEM cell,301
+CEM cell,301
+Caki-1 cell,301
+Colo-205 cell,301
+DU-145 cell,301
+EKVX cell,301
+GaMG cell,301
+HCC-1143,301
+HCC-1599,301
+HCC-1937 cell,301
+HCC-202,301
+HCC-2218,301
+HCC-2998 cell,301
+HCT-15 cell,301
+HEK-293 cell,301
+HES-3,301
+HFE145,301
+HL-60 cell,301
+HMELonza,301
+HMEpC cell,301
+HMT-3522 cell,301
+HOP-62 cell,301
+HOP-92 cell,301
+HSC-3 cell,301
+HSC-4 cell,301
+HT-29 cell,301
+HTC-116 cell,301
+HeLa cell,301
+HeLa-S3 cell,301
+Hep-G2 cell,301
+Hs-578T cell,301
+IGROV-1 cell,301
+JURKAT E-6.1 cell,301
+JURKAT cell,301
+K-562 cell,301
+KM-12 cell,301
+Kasumi-1 cell,301
+LNCaP cell,301
+LOX-IMVI cell,301
+M14 cell,301
+MALME-3M cell,301
+MCF-10A cell,301
+MCF-7 cell,301
+MCF-7/adr cell,301
+MDA-MB-231 cell,301
+MDA-MB-435 cell,301
+MDA-MB-453 cell,301
+MFM-223 cell,301
+MO3.13,301
+MOLT-4 cell,301
+MV4-11 cell,301
+Mixed,301
+NCI-H226 cell,301
+NCI-H23 cell,301
+NCI-H292 cell,301
+NCI-H322M cell,301
+NCI-H460 cell,301
+NCI-H522 cell,301
+NFF,301
+OSC19,301
+OSC20,301
+OVCAR-3 cell,301
+OVCAR-4 cell,301
+OVCAR-5 cell,301
+OVCAR-8/ADR cell,301
+PBMC cell line,301
+PC-3 cell,301
+RAMOS cell,301
+RCC 786-O cell,301
+RKO cell,301
+RPMI-8226 cell,301
+RXF-393 cell,301
+SAS cell,301
+SCC-15 cell,301
+SCC-25 cell,301
+SCC-4 cell,301
+SCC9,301
+SF-268 cell,301
+SF-295 cell,301
+SF-539 cell,301
+SH-SY5Y cell,301
+SIHN005A,301
+SIHN006,301
+SK-MEL-2 cell,301
+SK-MEL-28 cell,301
+SK-MEL-5 cell,301
+SK-N-BE(2) cell,301
+SKOV-3 cell,301
+SN-12C cell,301
+SNB-19 cell,301
+SNB-75 cell,301
+SR cell,301
+SW-480 cell,301
+SW-620 cell,301
+T-47D cell,301
+THP-1 cell,301
+TK-10 cell,301
+U-251 MG cell,301
+U2-OS cell,301
+UACC-257 cell,301
+UACC-62 cell,301
+UO-31 cell,301
+UPCI:SCC016,301
+UPCI:SCC040,301
+UPCI:SCC056,301
+UPCI:SCC075,301
+UPCI:SCC103,301
+UPCI:SCC122,301
+UPCI:SCC154,301
+UT-SCC-14 cell,301
+UT-SCC-24A cell,301
+UTSCC10,301
+UTSCC16A,301
+UTSCC21,301
+UTSCC30,301
+UTSCC40,301
+UTSCC67,301
+UTSCC73,301
+UTSCC74A,301
+UTSCC76A,301
+UTSCC87,301
+Unknown,301
+adipocyte,301
+adrenal gland,301
+amniocyte,301
+arachnoid cyst,301
+ascites,301
+bile,301
+blood,301
+blood platelet,301
+bone,301
+bone marrow stromal cell,301
+breast,301
+breast cancer cell,301
+cardia,301
+cerebral cortex,301
+cerebrospinal fluid,301
+cerumen,301
+cervical epithelium,301
+cervical mucosa,301
+chronic lymphocytic leukemia cell,301
+colon,301
+colon muscle,301
+colonic epithelial cell,301
+colorectal cancer cell,301
+cycling crypt base columnar cell,301
+esophagus,301
+gall bladder,301
+hES H1,301
+hES H14,301
+hES H7,301
+hES H9,301
+hair follicle,301
+heart,301
+iPS DF19.11,301
+iPS DF19.7,301
+iPS DF4.7,301
+iPS DF6.9,301
+ileum epithelial cell,301
+kidney,301
+liver,301
+lung,301
+lymph node,301
+lymphoblastoid cell line,301
+mesenchymal stem cell,301
+milk,301
+myometrium,301
+nasopharynx,301
+non-small cell lung cancer cell line,301
+oral epithelium,301
+osteosarcoma cell,301
+ovary,301
+pancreas,301
+pancreatic juice,301
+placenta,301
+prostate gland,301
+proximal fluid (coronary sinus),301
+rectum,301
+renal cell carcinoma cell,301
+saliva,301
+salivary gland,301
+seminal plasma,301
+seminal vesicle,301
+serum,301
+skin,301
+spermatozoon,301
+spleen,301
+stomach,301
+synovial fluid,301
+testis,301
+thyroid gland,301
+tonsil,301
+urine,301
+uterine cervix,301
+uterus,301
+vitreous humor,301

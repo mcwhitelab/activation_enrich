@@ -1,0 +1,512 @@
+Pathway,Count
+Adipose - Subcutaneous Female 60-69 Up,100
+Muscle - Skeletal Female 60-69 Up,100
+Artery - Tibial Female 60-69 Up,100
+Artery - Coronary Female 60-69 Up,82
+Heart - Atrial Appendage Female 60-69 Up,100
+Adipose - Visceral (Omentum) Female 60-69 Up,41
+Uterus Female 60-69 Up,100
+Vagina Female 60-69 Up,55
+Breast - Mammary Tissue Female 60-69 Up,44
+Skin - Not Sun Exposed (Suprapubic) Female 60-69 Up,100
+Minor Salivary Gland Female 60-69 Up,100
+Brain - Cortex Female 60-69 Up,100
+Adrenal Gland Male 50-59 Up,100
+Thyroid Male 50-59 Up,100
+Lung Male 50-59 Up,100
+Spleen Male 50-59 Up,100
+Pancreas Male 50-59 Up,100
+Esophagus - Muscularis Male 50-59 Up,90
+Esophagus - Mucosa Male 50-59 Up,100
+Esophagus - Gastroesophageal Junction Male 50-59 Up,48
+Stomach Male 50-59 Up,100
+Adipose - Visceral (Omentum) Male 50-59 Up,79
+Skin - Not Sun Exposed (Suprapubic) Male 50-59 Up,100
+Colon - Sigmoid Male 50-59 Up,100
+Small Intestine - Terminal Ileum Male 50-59 Up,100
+Colon - Transverse Male 50-59 Up,100
+Prostate Male 50-59 Up,100
+Testis Male 50-59 Up,100
+Adipose - Subcutaneous Male 50-59 Up,86
+Muscle - Skeletal Male 50-59 Up,100
+Nerve - Tibial Male 50-59 Up,100
+Skin - Sun Exposed (Lower Leg) Male 60-69 Up,100
+Adipose - Subcutaneous Male 60-69 Up,69
+Muscle - Skeletal Male 60-69 Up,100
+Artery - Tibial Male 60-69 Up,100
+Nerve - Tibial Male 60-69 Up,100
+Heart - Atrial Appendage Male 60-69 Up,100
+Heart - Left Ventricle Male 60-69 Up,100
+Thyroid Male 60-69 Up,100
+Lung Male 60-69 Up,100
+Spleen Male 60-69 Up,100
+Testis Male 60-69 Up,100
+Prostate Male 60-69 Up,100
+Skin - Not Sun Exposed (Suprapubic) Male 60-69 Up,100
+Minor Salivary Gland Male 60-69 Up,100
+Brain - Cortex Male 60-69 Up,100
+Brain - Cerebellum Male 60-69 Up,100
+Cells - Cultured Fibroblasts Male 60-69 Up,100
+Colon - Transverse Male 60-69 Up,37
+Whole Blood Male 60-69 Up,100
+Adrenal Gland Male 60-69 Up,100
+Artery - Aorta Male 60-69 Up,100
+Esophagus - Gastroesophageal Junction Male 60-69 Up,41
+Esophagus - Mucosa Male 60-69 Up,100
+Esophagus - Muscularis Male 60-69 Up,60
+Stomach Male 60-69 Up,100
+Pancreas Male 60-69 Up,100
+Adipose - Visceral (Omentum) Male 60-69 Up,74
+Small Intestine - Terminal Ileum Male 60-69 Up,100
+Colon - Sigmoid Male 60-69 Up,100
+Breast - Mammary Tissue Male 60-69 Up,74
+Cells - EBV-transformed Lymphocytes Female 60-69 Up,100
+Whole Blood Female 60-69 Up,100
+Cells - Cultured Fibroblasts Female 60-69 Up,100
+Lung Female 60-69 Up,100
+Thyroid Female 60-69 Up,100
+Adrenal Gland Female 60-69 Up,100
+Spleen Female 60-69 Up,100
+Pancreas Female 60-69 Up,100
+Heart - Left Ventricle Female 60-69 Up,100
+Artery - Aorta Female 60-69 Up,100
+Small Intestine - Terminal Ileum Female 60-69 Up,100
+Colon - Sigmoid Female 60-69 Up,100
+Colon - Transverse Female 60-69 Up,39
+Esophagus - Muscularis Female 60-69 Up,65
+Esophagus - Mucosa Female 60-69 Up,100
+Esophagus - Gastroesophageal Junction Female 60-69 Up,19
+Stomach Female 60-69 Up,100
+Skin - Sun Exposed (Lower Leg) Female 60-69 Up,100
+Pituitary Female 60-69 Up,100
+Brain - Cerebellum Female 60-69 Up,100
+Whole Blood Female 50-59 Up,100
+Cells - Cultured Fibroblasts Female 50-59 Up,100
+Thyroid Female 50-59 Up,100
+Adipose - Visceral (Omentum) Female 50-59 Up,100
+Esophagus - Muscularis Female 50-59 Up,100
+Esophagus - Gastroesophageal Junction Female 50-59 Up,82
+Vagina Female 50-59 Up,73
+Uterus Female 50-59 Up,100
+Skin - Sun Exposed (Lower Leg) Female 50-59 Up,100
+Muscle - Skeletal Female 50-59 Up,100
+Pituitary Female 50-59 Up,100
+Pituitary Male 60-69 Up,100
+Whole Blood Male 50-59 Up,100
+Cells - Cultured Fibroblasts Male 50-59 Up,100
+Artery - Aorta Male 50-59 Up,100
+Heart - Left Ventricle Male 50-59 Up,100
+Heart - Atrial Appendage Male 50-59 Up,100
+Skin - Sun Exposed (Lower Leg) Male 50-59 Up,100
+Artery - Tibial Male 50-59 Up,100
+Pituitary Male 50-59 Up,100
+Breast - Mammary Tissue Male 50-59 Up,46
+Artery - Coronary Male 50-59 Up,89
+Brain - Frontal Cortex (BA9) Male 50-59 Up,100
+Brain - Caudate (Basal Ganglia) Male 50-59 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Male 50-59 Up,100
+Brain - Putamen (Basal Ganglia) Male 50-59 Up,100
+Brain - Hypothalamus Male 50-59 Up,100
+Brain - Spinal Cord (Cervical C-1) Male 50-59 Up,100
+Minor Salivary Gland Male 50-59 Up,100
+Brain - Cortex Male 50-59 Up,100
+Brain - Cerebellum Male 50-59 Up,100
+Whole Blood Male 40-49 Up,100
+Cells - Cultured Fibroblasts Male 40-49 Up,100
+Brain - Hippocampus Male 40-49 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Male 40-49 Up,100
+Brain - Caudate (Basal Ganglia) Male 40-49 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Male 40-49 Up,100
+Brain - Putamen (Basal Ganglia) Male 40-49 Up,100
+Skin - Sun Exposed (Lower Leg) Male 40-49 Up,100
+Adipose - Subcutaneous Male 40-49 Up,100
+Nerve - Tibial Male 40-49 Up,100
+Artery - Tibial Male 40-49 Up,100
+Breast - Mammary Tissue Male 40-49 Up,65
+Muscle - Skeletal Male 40-49 Up,100
+Skin - Not Sun Exposed (Suprapubic) Male 40-49 Up,100
+Brain - Cerebellum Male 40-49 Up,100
+Brain - Cortex Male 40-49 Up,100
+Pituitary Male 40-49 Up,100
+Ovary Female 60-69 Up,100
+Nerve - Tibial Female 60-69 Up,100
+Brain - Frontal Cortex (BA9) Male 60-69 Up,100
+Brain - Cerebellar Hemisphere Male 60-69 Up,100
+Brain - Caudate (Basal Ganglia) Male 60-69 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Male 60-69 Up,100
+Brain - Putamen (Basal Ganglia) Male 60-69 Up,100
+Brain - Hypothalamus Male 60-69 Up,100
+Liver Male 60-69 Up,100
+Artery - Coronary Male 60-69 Up,69
+Liver Male 50-59 Up,100
+Brain - Cerebellar Hemisphere Male 50-59 Up,100
+Brain - Substantia Nigra Male 50-59 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Male 50-59 Up,100
+Brain - Hippocampus Male 60-69 Up,100
+Cells - EBV-transformed Lymphocytes Female 20-29 Up,100
+Whole Blood Female 20-29 Up,100
+Thyroid Female 20-29 Up,100
+Artery - Aorta Female 20-29 Up,100
+Adrenal Gland Female 20-29 Up,100
+Heart - Atrial Appendage Female 20-29 Up,100
+Artery - Coronary Female 20-29 Up,54
+Heart - Left Ventricle Female 20-29 Up,100
+Esophagus - Muscularis Female 20-29 Up,100
+Esophagus - Mucosa Female 20-29 Up,100
+Esophagus - Gastroesophageal Junction Female 20-29 Up,100
+Stomach Female 20-29 Up,100
+Adipose - Visceral (Omentum) Female 20-29 Up,100
+Skin - Not Sun Exposed (Suprapubic) Female 20-29 Up,100
+Breast - Mammary Tissue Female 20-29 Up,90
+Colon - Transverse Female 20-29 Up,100
+Colon - Sigmoid Female 20-29 Up,100
+Ovary Female 20-29 Up,100
+Vagina Female 20-29 Up,100
+Uterus Female 20-29 Up,100
+Muscle - Skeletal Female 20-29 Up,100
+Artery - Tibial Female 20-29 Up,100
+Adipose - Subcutaneous Female 20-29 Up,100
+Skin - Sun Exposed (Lower Leg) Female 20-29 Up,100
+Brain - Frontal Cortex (BA9) Female 60-69 Up,100
+Brain - Cerebellar Hemisphere Female 60-69 Up,100
+Brain - Substantia Nigra Female 60-69 Up,100
+Brain - Hypothalamus Female 60-69 Up,100
+Brain - Spinal Cord (Cervical C-1) Female 60-69 Up,100
+Cells - EBV-transformed Lymphocytes Male 30-39 Up,100
+Whole Blood Male 30-39 Up,100
+Cells - Cultured Fibroblasts Male 30-39 Up,100
+Adrenal Gland Male 30-39 Up,100
+Lung Male 30-39 Up,100
+Spleen Male 30-39 Up,100
+Liver Male 30-39 Up,100
+Thyroid Male 30-39 Up,100
+Esophagus - Mucosa Male 30-39 Up,100
+Esophagus - Muscularis Male 30-39 Up,100
+Esophagus - Gastroesophageal Junction Male 30-39 Up,89
+Pancreas Male 30-39 Up,100
+Adipose - Visceral (Omentum) Male 30-39 Up,100
+Stomach Male 30-39 Up,100
+Small Intestine - Terminal Ileum Male 30-39 Up,100
+Colon - Transverse Male 30-39 Up,100
+Colon - Sigmoid Male 30-39 Up,100
+Skin - Not Sun Exposed (Suprapubic) Male 30-39 Up,100
+Prostate Male 30-39 Up,100
+Breast - Mammary Tissue Male 30-39 Up,98
+Testis Male 30-39 Up,100
+Minor Salivary Gland Male 30-39 Up,100
+Muscle - Skeletal Male 30-39 Up,100
+Artery - Tibial Male 30-39 Up,100
+Nerve - Tibial Male 30-39 Up,100
+Skin - Sun Exposed (Lower Leg) Male 30-39 Up,100
+Adipose - Subcutaneous Male 30-39 Up,100
+Brain - Substantia Nigra Male 60-69 Up,100
+Kidney - Cortex Male 60-69 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Male 60-69 Up,100
+Brain - Hippocampus Female 60-69 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Female 60-69 Up,100
+Brain - Caudate (Basal Ganglia) Female 60-69 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Female 60-69 Up,100
+Brain - Putamen (Basal Ganglia) Female 60-69 Up,100
+Liver Female 60-69 Up,100
+Cells - EBV-transformed Lymphocytes Female 50-59 Up,100
+Lung Female 50-59 Up,100
+Pancreas Female 50-59 Up,100
+Artery - Aorta Female 50-59 Up,100
+Heart - Left Ventricle Female 50-59 Up,100
+Artery - Coronary Female 50-59 Up,56
+Small Intestine - Terminal Ileum Female 50-59 Up,100
+Colon - Transverse Female 50-59 Up,100
+Colon - Sigmoid Female 50-59 Up,100
+Esophagus - Mucosa Female 50-59 Up,100
+Stomach Female 50-59 Up,100
+Adrenal Gland Female 50-59 Up,100
+Ovary Female 50-59 Up,100
+Breast - Mammary Tissue Female 50-59 Up,71
+Artery - Tibial Female 50-59 Up,100
+Adipose - Subcutaneous Female 50-59 Up,100
+Artery - Aorta Male 30-39 Up,100
+Heart - Atrial Appendage Male 30-39 Up,100
+Heart - Left Ventricle Male 30-39 Up,100
+Cells - Cultured Fibroblasts Male 20-29 Up,100
+Thyroid Male 20-29 Up,100
+Adrenal Gland Male 20-29 Up,100
+Lung Male 20-29 Up,100
+Spleen Male 20-29 Up,100
+Pancreas Male 20-29 Up,100
+Skin - Not Sun Exposed (Suprapubic) Male 20-29 Up,100
+Prostate Male 20-29 Up,100
+Breast - Mammary Tissue Male 20-29 Up,100
+Testis Male 20-29 Up,100
+Esophagus - Mucosa Male 20-29 Up,100
+Esophagus - Muscularis Male 20-29 Up,100
+Stomach Male 20-29 Up,86
+Colon - Transverse Male 20-29 Up,100
+Small Intestine - Terminal Ileum Male 20-29 Up,100
+Nerve - Tibial Male 20-29 Up,100
+Muscle - Skeletal Male 20-29 Up,100
+Skin - Sun Exposed (Lower Leg) Male 20-29 Up,100
+Brain - Amygdala Male 50-59 Up,100
+Testis Male 40-49 Up,100
+Heart - Atrial Appendage Male 40-49 Up,100
+Heart - Left Ventricle Male 40-49 Up,100
+Lung Male 40-49 Up,100
+Esophagus - Muscularis Male 40-49 Up,87
+Esophagus - Gastroesophageal Junction Male 40-49 Up,42
+Colon - Transverse Male 40-49 Up,100
+Thyroid Male 40-49 Up,100
+Prostate Male 40-49 Up,100
+Cells - EBV-transformed Lymphocytes Male 60-69 Up,100
+Brain - Amygdala Male 60-69 Up,100
+Brain - Spinal Cord (Cervical C-1) Male 60-69 Up,100
+Whole Blood Female 30-39 Up,100
+Cells - Cultured Fibroblasts Female 30-39 Up,100
+Thyroid Female 30-39 Up,100
+Lung Female 30-39 Up,100
+Artery - Aorta Female 30-39 Up,100
+Heart - Atrial Appendage Female 30-39 Up,100
+Adipose - Visceral (Omentum) Female 30-39 Up,100
+Esophagus - Mucosa Female 30-39 Up,100
+Esophagus - Muscularis Female 30-39 Up,100
+Esophagus - Gastroesophageal Junction Female 30-39 Up,100
+Colon - Transverse Female 30-39 Up,100
+Spleen Female 30-39 Up,100
+Colon - Sigmoid Female 30-39 Up,100
+Ovary Female 30-39 Up,100
+Uterus Female 30-39 Up,100
+Breast - Mammary Tissue Female 30-39 Up,86
+Minor Salivary Gland Female 30-39 Up,100
+Vagina Female 30-39 Up,72
+Skin - Not Sun Exposed (Suprapubic) Female 30-39 Up,100
+Skin - Sun Exposed (Lower Leg) Female 30-39 Up,100
+Adipose - Subcutaneous Female 30-39 Up,100
+Muscle - Skeletal Female 30-39 Up,100
+Nerve - Tibial Female 30-39 Up,100
+Artery - Tibial Female 30-39 Up,100
+Whole Blood Male 20-29 Up,100
+Artery - Aorta Male 20-29 Up,100
+Adipose - Visceral (Omentum) Male 20-29 Up,100
+Esophagus - Gastroesophageal Junction Male 20-29 Up,100
+Minor Salivary Gland Male 20-29 Up,100
+Adipose - Subcutaneous Male 20-29 Up,100
+Cells - EBV-transformed Lymphocytes Male 20-29 Up,100
+Colon - Sigmoid Male 20-29 Up,100
+Heart - Left Ventricle Male 20-29 Up,100
+Heart - Atrial Appendage Male 20-29 Up,100
+Artery - Coronary Male 20-29 Up,93
+Liver Male 20-29 Up,100
+Artery - Tibial Male 20-29 Up,100
+Brain - Amygdala Female 60-69 Up,100
+Kidney - Cortex Female 60-69 Up,100
+Cells - Cultured Fibroblasts Female 40-49 Up,100
+Brain - Hippocampus Female 40-49 Up,100
+Brain - Substantia Nigra Female 40-49 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Female 40-49 Up,100
+Brain - Caudate (Basal Ganglia) Female 40-49 Up,100
+Skin - Sun Exposed (Lower Leg) Female 40-49 Up,100
+Adipose - Subcutaneous Female 40-49 Up,100
+Muscle - Skeletal Female 40-49 Up,100
+Cells - EBV-transformed Lymphocytes Female 40-49 Up,100
+Whole Blood Female 40-49 Up,100
+Spleen Female 40-49 Up,100
+Thyroid Female 40-49 Up,100
+Stomach Female 40-49 Up,88
+Pancreas Female 40-49 Up,100
+Esophagus - Mucosa Female 40-49 Up,100
+Esophagus - Muscularis Female 40-49 Up,84
+Vagina Female 40-49 Up,100
+Esophagus - Gastroesophageal Junction Female 40-49 Up,57
+Ovary Female 40-49 Up,100
+Skin - Not Sun Exposed (Suprapubic) Female 40-49 Up,100
+Adipose - Visceral (Omentum) Female 40-49 Up,68
+Colon - Sigmoid Female 40-49 Up,100
+Colon - Transverse Female 40-49 Up,100
+Small Intestine - Terminal Ileum Female 40-49 Up,100
+Artery - Tibial Female 40-49 Up,100
+Nerve - Tibial Female 40-49 Up,100
+Adrenal Gland Female 40-49 Up,100
+Brain - Cerebellar Hemisphere Male 30-39 Up,100
+Brain - Hypothalamus Male 30-39 Up,100
+Artery - Coronary Male 30-39 Up,100
+Brain - Cerebellum Male 30-39 Up,100
+Brain - Cortex Male 30-39 Up,100
+Pituitary Male 30-39 Up,100
+Brain - Hippocampus Female 50-59 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Female 50-59 Up,100
+Brain - Amygdala Female 50-59 Up,100
+Brain - Spinal Cord (Cervical C-1) Female 50-59 Up,100
+Heart - Atrial Appendage Female 50-59 Up,100
+Liver Female 50-59 Up,100
+Nerve - Tibial Female 50-59 Up,100
+Brain - Cerebellum Female 50-59 Up,100
+Brain - Frontal Cortex (BA9) Male 20-29 Up,100
+Brain - Cerebellar Hemisphere Male 20-29 Up,100
+Brain - Spinal Cord (Cervical C-1) Male 20-29 Up,100
+Brain - Cerebellum Male 20-29 Up,100
+Brain - Cortex Male 20-29 Up,100
+Pituitary Male 20-29 Up,100
+Adipose - Visceral (Omentum) Male 40-49 Up,100
+Brain - Hippocampus Male 20-29 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Male 20-29 Up,100
+Brain - Putamen (Basal Ganglia) Male 20-29 Up,100
+Whole Blood Male 70-79 Up,100
+Cells - Cultured Fibroblasts Male 70-79 Up,100
+Brain - Frontal Cortex (BA9) Male 70-79 Up,100
+Brain - Cerebellar Hemisphere Male 70-79 Up,100
+Brain - Hippocampus Male 70-79 Up,100
+Brain - Substantia Nigra Male 70-79 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Male 70-79 Up,100
+Brain - Amygdala Male 70-79 Up,77
+Brain - Caudate (Basal Ganglia) Male 70-79 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Male 70-79 Up,100
+Brain - Putamen (Basal Ganglia) Male 70-79 Up,100
+Nerve - Tibial Male 70-79 Up,100
+Muscle - Skeletal Male 70-79 Up,100
+Adipose - Visceral (Omentum) Male 70-79 Up,100
+Skin - Not Sun Exposed (Suprapubic) Male 70-79 Up,100
+Pituitary Male 70-79 Up,100
+Brain - Cortex Male 70-79 Up,100
+Kidney - Cortex Female 50-59 Up,100
+Spleen Female 50-59 Up,100
+Brain - Hippocampus Male 50-59 Up,100
+Lung Female 40-49 Up,100
+Artery - Aorta Female 40-49 Up,100
+Heart - Atrial Appendage Female 40-49 Up,100
+Heart - Left Ventricle Female 40-49 Up,100
+Artery - Coronary Female 40-49 Up,100
+Uterus Female 40-49 Up,100
+Breast - Mammary Tissue Female 40-49 Up,59
+Cells - EBV-transformed Lymphocytes Male 50-59 Up,100
+Cells - EBV-transformed Lymphocytes Male 40-49 Up,100
+Spleen Male 40-49 Up,100
+Artery - Aorta Male 40-49 Up,100
+Pancreas Male 40-49 Up,100
+Adrenal Gland Male 40-49 Up,100
+Minor Salivary Gland Male 40-49 Up,100
+Esophagus - Mucosa Male 40-49 Up,100
+Brain - Frontal Cortex (BA9) Female 40-49 Up,100
+Brain - Cerebellar Hemisphere Female 40-49 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Female 40-49 Up,100
+Brain - Putamen (Basal Ganglia) Female 40-49 Up,100
+Brain - Hypothalamus Female 40-49 Up,100
+Brain - Cerebellum Female 40-49 Up,100
+Brain - Cortex Female 40-49 Up,100
+Pituitary Female 40-49 Up,100
+Kidney - Cortex Male 50-59 Up,100
+Brain - Frontal Cortex (BA9) Female 50-59 Up,100
+Brain - Cerebellar Hemisphere Female 50-59 Up,100
+Brain - Substantia Nigra Female 50-59 Up,100
+Brain - Caudate (Basal Ganglia) Female 50-59 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Female 50-59 Up,100
+Brain - Putamen (Basal Ganglia) Female 50-59 Up,100
+Brain - Hypothalamus Female 50-59 Up,100
+Skin - Not Sun Exposed (Suprapubic) Female 50-59 Up,100
+Brain - Cortex Female 50-59 Up,100
+Stomach Male 40-49 Up,100
+Colon - Sigmoid Male 40-49 Up,100
+Cells - Cultured Fibroblasts Female 20-29 Up,100
+Lung Female 20-29 Up,100
+Small Intestine - Terminal Ileum Female 20-29 Up,100
+Nerve - Tibial Female 20-29 Up,100
+Pancreas Female 30-39 Up,100
+Adrenal Gland Female 30-39 Up,100
+Artery - Coronary Female 30-39 Up,20
+Heart - Left Ventricle Female 30-39 Up,100
+Stomach Female 30-39 Up,100
+Small Intestine - Terminal Ileum Female 30-39 Up,100
+Artery - Coronary Male 40-49 Up,83
+Liver Male 40-49 Up,100
+Small Intestine - Terminal Ileum Male 40-49 Up,100
+Pancreas Female 20-29 Up,100
+Brain - Spinal Cord (Cervical C-1) Female 40-49 Up,100
+Brain - Hypothalamus Male 70-79 Up,100
+Skin - Sun Exposed (Lower Leg) Male 70-79 Up,100
+Adipose - Subcutaneous Male 70-79 Up,100
+Thyroid Male 70-79 Up,100
+Brain - Spinal Cord (Cervical C-1) Male 70-79 Up,100
+Artery - Tibial Male 70-79 Up,100
+Breast - Mammary Tissue Male 70-79 Up,100
+Lung Male 70-79 Up,100
+Heart - Atrial Appendage Male 70-79 Up,100
+Heart - Left Ventricle Male 70-79 Up,19
+Esophagus - Gastroesophageal Junction Male 70-79 Up,100
+Stomach Male 70-79 Up,33
+Testis Male 70-79 Up,100
+Brain - Frontal Cortex (BA9) Male 40-49 Up,100
+Brain - Cerebellar Hemisphere Male 40-49 Up,100
+Brain - Substantia Nigra Male 40-49 Up,100
+Brain - Amygdala Male 40-49 Up,100
+Brain - Hypothalamus Male 40-49 Up,100
+Brain - Spinal Cord (Cervical C-1) Male 40-49 Up,100
+Kidney - Cortex Male 40-49 Up,100
+Brain - Cerebellum Male 70-79 Up,100
+Minor Salivary Gland Female 40-49 Up,100
+Colon - Sigmoid Male 70-79 Up,100
+Spleen Female 20-29 Up,100
+Minor Salivary Gland Female 20-29 Up,100
+Kidney - Cortex Male 30-39 Up,100
+Esophagus - Mucosa Male 70-79 Up,100
+Esophagus - Muscularis Male 70-79 Up,89
+Prostate Male 70-79 Up,100
+Small Intestine - Terminal Ileum Male 70-79 Up,100
+Colon - Transverse Male 70-79 Up,51
+Liver Female 40-49 Up,100
+Artery - Coronary Male 70-79 Up,96
+Artery - Aorta Male 70-79 Up,100
+Liver Male 70-79 Up,100
+Whole Blood Female 70-79 Up,100
+Brain - Hippocampus Female 70-79 Up,58
+Brain - Caudate (Basal Ganglia) Female 70-79 Up,100
+Brain - Hypothalamus Female 70-79 Up,100
+Skin - Sun Exposed (Lower Leg) Female 70-79 Up,100
+Adipose - Subcutaneous Female 70-79 Up,100
+Nerve - Tibial Female 70-79 Up,100
+Muscle - Skeletal Female 70-79 Up,100
+Breast - Mammary Tissue Female 70-79 Up,100
+Lung Female 70-79 Up,100
+Skin - Not Sun Exposed (Suprapubic) Female 70-79 Up,100
+Pituitary Female 70-79 Up,100
+Thyroid Female 70-79 Up,100
+Artery - Aorta Female 70-79 Up,100
+Heart - Atrial Appendage Female 70-79 Up,100
+Heart - Left Ventricle Female 70-79 Up,66
+Adipose - Visceral (Omentum) Female 70-79 Up,100
+Esophagus - Muscularis Female 70-79 Up,100
+Esophagus - Gastroesophageal Junction Female 70-79 Up,15
+Esophagus - Mucosa Female 70-79 Up,100
+Colon - Sigmoid Female 70-79 Up,100
+Artery - Tibial Female 70-79 Up,100
+Cells - Cultured Fibroblasts Female 70-79 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Female 70-79 Up,98
+Brain - Cortex Female 70-79 Up,100
+Brain - Cerebellar Hemisphere Female 20-29 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Female 20-29 Up,100
+Brain - Caudate (Basal Ganglia) Female 20-29 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Female 20-29 Up,100
+Liver Female 20-29 Up,100
+Brain - Cortex Female 20-29 Up,100
+Pituitary Female 20-29 Up,100
+Brain - Amygdala Female 40-49 Up,100
+Ovary Female 70-79 Up,100
+Vagina Female 70-79 Up,100
+Spleen Male 70-79 Up,100
+Brain - Hippocampus Male 30-39 Up,100
+Brain - Anterior Cingulate Cortex (BA24) Male 30-39 Up,100
+Brain - Caudate (Basal Ganglia) Male 30-39 Up,100
+Brain - Nucleus Accumbens (Basal Ganglia) Male 30-39 Up,100
+Brain - Putamen (Basal Ganglia) Male 30-39 Up,100
+Kidney - Cortex Male 70-79 Up,100
+Brain - Cerebellum Female 30-39 Up,100
+Minor Salivary Gland Female 50-59 Up,100
+Adrenal Gland Male 70-79 Up,100
+Pancreas Male 70-79 Up,100
+Liver Female 30-39 Up,100
+Fallopian Tube Female 50-59 Up,100
+Bladder Male 40-49 Up,45
+Cervix - Ectocervix Female 40-49 Up,100
+Cervix - Endocervix Female 40-49 Up,100
+Bladder Male 50-59 Up,100
+Brain - Substantia Nigra Male 20-29 Up,100
+Brain - Amygdala Male 20-29 Up,100
+Brain - Hypothalamus Male 20-29 Up,100
+Fallopian Tube Female 40-49 Up,72
+Bladder Female 40-49 Up,100

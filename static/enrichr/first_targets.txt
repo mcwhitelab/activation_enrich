@@ -1,0 +1,216 @@
+
+
+
+
+
+
+==> Achilles_fitness_increase_counts.csv <==
+Pathway,Count
+22RV1-prostate,30
+697-haematopoietic and lymphoid tissue,65
+786O-kidney,95
+A1207-central nervous system,183
+A172-central nervous system,74
+A204-soft tissue,120
+A2058-skin,61
+A549-lung,91
+A673-bone,58
+
+
+
+
+==> BioCarta_2013_counts.csv <==
+Pathway,Count
+DEATH PATHWAY,33
+TCAPOPTOSIS PATHWAY,11
+CCR3 PATHWAY,23
+NEUTROPHIL PATHWAY,8
+ALTERNATIVE PATHWAY,9
+PGC1A PATHWAY,24
+PML PATHWAY,17
+CALCINEURIN PATHWAY,19
+RAN PATHWAY,5
+
+==> BioCarta_2015_counts.csv <==
+Pathway,Count
+acetylation and deacetylation of rela in nucleus,5
+actions of nitric oxide in the heart,42
+activation of camp-dependent protein kinase pka,29
+activation of csk by camp-dependent protein kinase inhibits signaling through the t cell receptor,43
+activation of pkc through g-protein coupled receptors,11
+adp-ribosylation factor,29
+agrin in postsynaptic differentiation,47
+akap95 role in mitosis and chromosome dynamics,14
+akt signaling pathway,18
+
+==> BioCarta_2016_counts.csv <==
+Pathway,Count
+Classical Complement Pathway Homo sapiens h classicPathway,15
+Lectin Induced Complement Pathway Homo sapiens h lectinPathway,13
+Alternative Complement Pathway Homo sapiens h alternativePathway,10
+Inhibition of Matrix Metalloproteinases Homo sapiens h reckPathway,8
+Reversal of Insulin Resistance by Leptin Homo sapiens h leptinPathway,10
+Eicosanoid Metabolism Homo sapiens h eicosanoidPathway,23
+Mechanism of Acetaminophen Activity and Toxicity Homo sapiens h AcetaminophenPathway,7
+Regulators of Bone Mineralization Homo sapiens h npp1Pathway,11
+Platelet Amyloid Precursor Protein Pathway Homo sapiens h plateletAppPathway,14
+
+==> BioPlanet_2019_counts.csv <==
+Pathway,Count
+2-LTR circle formation,5
+4-1BB-dependent immune response,20
+ABC transporters,47
+ABCA transporters in lipid homeostasis,17
+ACE inhibitor pathway,17
+ADP signalling through P2Y purinoceptor 1,6
+ADP signalling through P2Y purinoceptor 12,27
+ADP-ribosylation factor,29
+AKAP95 role in mitosis and chromosome dynamics,15
+
+
+==> CellMarker_Augmented_2021_counts.csv <==
+Pathway,Count
+Proximal Tubular cell:Kidney,101
+Ito Cell (Hepatic Stellate cell):Liver,6
+Trophoblast cell:Endometrium,100
+Primordial Germ cell:Germ,92
+Epithelial cell:Corneal Epithelium,98
+Cytotrophoblast:Placenta,98
+Periosteum-derived Progenitor cell:Periosteum,101
+Amnion Epithelial cell:Amniotic Membrane,86
+Primitive Streak cell:Primitive Streak,98
+
+
+
+
+
+==> GlyGen_Glycosylated_Proteins_2022_counts.csv <==
+Pathway,Count
+G00031MO,27
+G00406II,44
+G00912UN,135
+G01614ZM,22
+G01650EU,34
+G02030ZB,76
+G02315DX,16
+G02628JF,33
+G02815KT,34
+
+
+==> GO_Biological_Process_2023_counts.csv <==
+Pathway,Count
+'De Novo' AMP Biosynthetic Process (GO:0044208),6
+'De Novo' Post-Translational Protein Folding (GO:0051084),32
+2-Oxoglutarate Metabolic Process (GO:0006103),14
+3'-UTR-mediated mRNA Destabilization (GO:0061158),15
+3'-UTR-mediated mRNA Stabilization (GO:0070935),18
+3'-Phosphoadenosine 5'-Phosphosulfate Metabolic Process (GO:0050427),15
+5S Class rRNA Transcription By RNA Polymerase III (GO:0042791),5
+7-Methylguanosine RNA Capping (GO:0009452),5
+7-Methylguanosine Cap Hypermethylation (GO:0036261),7
+
+
+==> GO_Cellular_Component_2023_counts.csv <==
+Pathway,Count
+9+0 Non-Motile Cilium (GO:0097731),8
+9+2 Motile Cilium (GO:0097729),70
+90S Preribosome (GO:0030686),12
+AMPA Glutamate Receptor Complex (GO:0032281),19
+AP-1 Adaptor Complex (GO:0030121),11
+AP-2 Adaptor Complex (GO:0030122),8
+AP-3 Adaptor Complex (GO:0030123),6
+ATAC Complex (GO:0140672),13
+ATP-binding Cassette (ABC) Transporter Complex (GO:0043190),5
+
+==> GO_Molecular_Function_2017b_counts.csv <==
+Pathway,Count
+phospholipase A2 activity (GO:0004623),52
+CCR9 chemokine receptor binding (GO:0031734),21
+D-glucose transmembrane transporter activity (GO:0055056),14
+8-oxo-GDP phosphatase activity (GO:0044716),8
+methylene-fatty-acyl-phospholipid synthase activity (GO:0004481),13
+voltage-gated proton channel activity (GO:0030171),6
+MAP kinase activity involved in innate immune response (GO:0038075),11
+"3',5'-cyclic-GMP phosphodiesterase activity (GO:0047555)",14
+acyl-CoA hydrolase activity (GO:0047617),15
+
+==> HMS_LINCS_KinomeScan_counts.csv <==
+Pathway,Count
+MRT67307,172
+Sorafenib,106
+WZ4003,92
+AZ-628,72
+Motesanib,6
+Torin1,83
+KIN001-111,121
+Dabrafenib,195
+CGP60474,20
+
+
+==> IDG_Drug_Targets_2022_counts.csv <==
+Pathway,Count
+Levobupivacaine,8
+(S)-nitrendipine,5
+Acamprosate,10
+Acarbose,5
+Paracetamol,16
+Acetazolamide,14
+Acetoxolone,6
+Acetylcholine,12
+Acetylcysteine,5
+
+==> InterPro_Domains_2019_counts.csv <==
+Pathway,Count
+14-3-3 domain,7
+"2-5-oligoadenylate synthetase, N-terminal",5
+2Fe-2S ferredoxin-type iron-sulfur binding domain,6
+3'-5' exonuclease domain,5
+"3'5'-cyclic nucleotide phosphodiesterase, catalytic domain",21
+3-beta hydroxysteroid dehydrogenase/isomerase,6
+"3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal",5
+"4Fe-4S ferredoxin-type, iron-sulphur binding domain",5
+AAA+ ATPase domain,135
+
+==> KEGG_2019_Human_counts.csv <==
+Pathway,Count
+ABC transporters,45
+AGE-RAGE signaling pathway in diabetic complications,100
+AMPK signaling pathway,120
+Acute myeloid leukemia,66
+Adherens junction,72
+Adipocytokine signaling pathway,69
+Adrenergic signaling in cardiomyocytes,145
+African trypanosomiasis,37
+"Alanine, aspartate and glutamate metabolism",35
+
+
+==> Metabolomics_Workbench_Metabolites_2022_counts.csv <==
+Pathway,Count
+(S)-Methylmalonate Semialdehyde,10
+"1,2-Diacyl-sn-glycerol",39
+1-(1-Alkenyl)-sn-glycero-3-phosphoethanolamine,17
+1-Acyl-sn-glycero-3-phosphocholine,23
+1-Acyl-sn-glycero-3-phosphoethanolamine,21
+1-Acyl-sn-glycerol 3-Phosphate,10
+1-Acylglycerol,5
+1-Organyl-2-lyso-sn-glycero-3-phosphocholine,21
+1-Phosphatidyl-D-myo-inositol,35
+
+
+
+
+==> Panther_2016_counts.csv <==
+Pathway,Count
+Androgen/estrogene/progesterone biosynthesis Homo sapiens P02727,8
+ATP synthesis Homo sapiens P02721,5
+Blood coagulation Homo sapiens P00011,38
+Plasminogen activating cascade Homo sapiens P00050,15
+Ubiquitin proteasome pathway Homo sapiens P00060,43
+Cell cycle Homo sapiens P00013,16
+Parkinson disease Homo sapiens P00049,81
+Apoptosis signaling pathway Homo sapiens P00006,102
+FAS signaling pathway Homo sapiens P00020,31
+
+
+
+
