@@ -6,7 +6,6 @@
  
 The main script for collecting activation profiles is mcw_utils/hf_embed.py 
 
-<i>Note, this scripts is ready for being broken up into smaller functions</i>
 
 #### This is a small portion of the human proteome for testing.
 
@@ -32,6 +31,7 @@ python mcw_utils/hf_embed.py -f data/uniprotkb_human_nottn.seg21.fasta  -aa  -m 
 
 <i>Note that this script currently pulls all activations across all layers. It would be good to add functionality to select activations from specific layers</i>
 <i>For aa embeddings, we can start with just taking the final layer activations</i>
+<i>BTW, this script is also ready for being further broken up into smaller functions</i>
 
 This script outputs a .pkl file, and a .pkl.description that describes file contents, and .pkl.seqnames which lists which sequences are in the .pkl file
 
