@@ -6,10 +6,11 @@
  
 The main script for collecting activation profiles is mcw_utils/hf_embed.py 
 
+<i>Note, this scripts is ready for being broken up into smaller functions</i>
 
 #### This is a small portion of the human proteome for testing.
 
-f=data/uniprotkb_human_nottn.seg21.fasta
+data/uniprotkb_human_nottn.seg21.fasta
 
 #### You'll need to download a language model locally
 
@@ -22,12 +23,12 @@ The template in mcw_utils/save_hf_model_locally.py contains past download syntax
 
 #### Ex. get sequence level activations (max activation across all tokens in a sequence)
 
-python mcw_utils/hf_embed.py -f \$f -sa  -m /scratch/gpfs/cmcwhite/prot_t5_xl_half_uniref50-enc/  -o ${f}.maxact.pkl
+python mcw_utils/hf_embed.py -f data/uniprotkb_human_nottn.seg21.fasta -sa  -m /scratch/gpfs/cmcwhite/prot_t5_xl_half_uniref50-enc/  -o ${f}.maxact.pkl
 
 
 #### Ex. get amino acid level activations 
 
-python mcw_utils/hf_embed.py -f \$f -aa  -m /scratch/gpfs/cmcwhite/prot_t5_xl_half_uniref50-enc/  -o ${f}.aa.pkl
+python mcw_utils/hf_embed.py -f data/uniprotkb_human_nottn.seg21.fasta  -aa  -m /scratch/gpfs/cmcwhite/prot_t5_xl_half_uniref50-enc/  -o ${f}.aa.pkl
 
 <i>Note that this script currently pulls all activations across all layers. It would be good to add functionality to select activations from specific layers</i>
 <i>For aa embeddings, we can start with just taking the final layer activations</i>
